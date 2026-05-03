@@ -1,0 +1,35 @@
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore
+
+# Documentation
+README.md
+VS_CODE_SETUP_GUIDE.md
+
+# Outputs (will be generated on Cloud Run)
+outputs/rwe_report.json
+outputs/compliance_report.txt
+
+# Notebooks
+notebooks/
+*.ipynb

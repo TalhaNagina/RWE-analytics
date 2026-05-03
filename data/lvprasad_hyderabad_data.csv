@@ -1,0 +1,401 @@
+hospital_id,patient_id,patient_name,mrn,age,gender,diagnosis,comorbidities,concomitant_medications,molecule,treatment_start_date,injections_per_year,bcva_baseline_numerator,bcva_baseline_denominator,bcva_6m_numerator,bcva_6m_denominator,irf_baseline,srf_baseline,hard_exudates_baseline,hrf_baseline,irf_6m,srf_6m,hard_exudates_6m,hrf_6m,adverse_events,event_type,event_severity,consent_provided,consent_date,follow_up_compliance
+LVPrasad_Hyderabad,LVP0000,Patient_LVPrasad_Hyderabad_0,MRN707777,63,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-06-11,3,6,24,6,6,1,1,1,0,0,0,0,0,0,,,1,2025-05-14,Excellent
+LVPrasad_Hyderabad,LVP0001,Patient_LVPrasad_Hyderabad_1,MRN910309,54,F,AMD,None,None,Aflibercept,2024-08-31,8,6,12,6,7,1,0,0,0,0,0,0,0,0,,,1,2024-08-06,Fair
+LVPrasad_Hyderabad,LVP0002,Patient_LVPrasad_Hyderabad_2,MRN402417,79,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-11-20,5,6,18,6,8,1,0,1,1,0,0,0,0,0,,,1,2024-11-16,Fair
+LVPrasad_Hyderabad,LVP0003,Patient_LVPrasad_Hyderabad_3,MRN680323,52,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-04-30,8,6,24,6,13,1,1,1,0,1,0,0,0,0,,,1,2025-04-04,Excellent
+LVPrasad_Hyderabad,LVP0004,Patient_LVPrasad_Hyderabad_4,MRN767765,68,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-05-15,6,6,36,6,12,1,0,0,1,0,0,0,1,0,,,1,2025-04-22,Excellent
+LVPrasad_Hyderabad,LVP0005,Patient_LVPrasad_Hyderabad_5,MRN324420,69,F,AMD,None,None,Ranibizumab,2024-10-22,4,6,24,6,7,1,0,0,1,0,0,0,1,0,,,1,2024-10-11,Fair
+LVPrasad_Hyderabad,LVP0006,Patient_LVPrasad_Hyderabad_6,MRN211141,53,F,AMD,None,None,Ranibizumab,2025-07-25,7,6,24,6,14,0,1,1,1,0,0,0,1,0,,,1,2025-06-27,Good
+LVPrasad_Hyderabad,LVP0007,Patient_LVPrasad_Hyderabad_7,MRN350766,65,M,AMD,None,None,Bevacizumab,2024-10-30,5,6,36,6,18,1,1,1,0,0,1,1,0,0,,,1,2024-10-05,Excellent
+LVPrasad_Hyderabad,LVP0008,Patient_LVPrasad_Hyderabad_8,MRN293381,54,M,RVO,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-03-02,6,6,18,6,10,1,0,0,1,1,0,0,1,0,,,1,2025-02-16,Excellent
+LVPrasad_Hyderabad,LVP0009,Patient_LVPrasad_Hyderabad_9,MRN141767,81,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-04-11,2,6,36,6,10,1,1,0,0,0,1,0,0,0,,,1,2025-04-10,Excellent
+LVPrasad_Hyderabad,LVP0010,Patient_LVPrasad_Hyderabad_10,MRN220456,51,F,RVO,None,None,Aflibercept,2025-04-21,8,6,36,6,23,1,1,1,0,0,0,1,0,0,,,1,2025-04-06,Poor
+LVPrasad_Hyderabad,LVP0011,Patient_LVPrasad_Hyderabad_11,MRN612820,57,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-01-13,6,6,18,6,6,1,1,0,0,0,1,0,0,0,,,1,2024-12-15,Fair
+LVPrasad_Hyderabad,LVP0012,Patient_LVPrasad_Hyderabad_12,MRN503189,50,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-08-09,8,6,18,6,10,0,1,0,1,0,1,0,1,0,,,1,2025-07-12,Good
+LVPrasad_Hyderabad,LVP0013,Patient_LVPrasad_Hyderabad_13,MRN682853,48,F,AMD,None,None,Ranibizumab,2025-01-20,3,6,60,6,21,0,0,1,0,0,0,1,0,0,,,1,2024-12-30,Poor
+LVPrasad_Hyderabad,LVP0014,Patient_LVPrasad_Hyderabad_14,MRN713749,84,F,RVO,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-10-15,3,6,60,6,13,1,1,0,0,1,0,0,0,0,,,1,2024-09-19,Fair
+LVPrasad_Hyderabad,LVP0015,Patient_LVPrasad_Hyderabad_15,MRN490721,71,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-04-19,10,6,18,6,8,1,1,0,0,0,0,0,0,0,,,1,2025-04-09,Fair
+LVPrasad_Hyderabad,LVP0016,Patient_LVPrasad_Hyderabad_16,MRN210159,66,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-12-13,7,6,12,6,6,0,1,0,0,0,0,0,0,0,,,1,2024-11-21,Good
+LVPrasad_Hyderabad,LVP0017,Patient_LVPrasad_Hyderabad_17,MRN909523,57,M,RVO,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-10-13,5,6,18,6,7,0,1,1,0,0,0,1,0,0,,,1,2024-09-21,Good
+LVPrasad_Hyderabad,LVP0018,Patient_LVPrasad_Hyderabad_18,MRN906016,75,F,RVO,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-03-05,4,6,18,6,6,1,1,0,0,1,1,0,0,0,,,1,2025-02-14,Excellent
+LVPrasad_Hyderabad,LVP0019,Patient_LVPrasad_Hyderabad_19,MRN991293,55,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-04-24,5,6,24,6,9,0,1,1,1,0,1,0,0,0,,,1,2025-03-31,Good
+LVPrasad_Hyderabad,LVP0020,Patient_LVPrasad_Hyderabad_20,MRN484379,74,F,RVO,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-03-11,10,6,24,6,12,1,0,1,0,0,0,1,0,1,Eye pain,Mild,1,2025-03-08,Excellent
+LVPrasad_Hyderabad,LVP0021,Patient_LVPrasad_Hyderabad_21,MRN567823,54,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-06-15,7,6,36,6,19,0,1,0,1,0,0,0,1,0,,,1,2025-06-07,Good
+LVPrasad_Hyderabad,LVP0022,Patient_LVPrasad_Hyderabad_22,MRN301696,57,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-09-20,5,6,18,6,8,0,1,1,1,0,1,1,0,0,,,1,2024-08-29,Excellent
+LVPrasad_Hyderabad,LVP0023,Patient_LVPrasad_Hyderabad_23,MRN476832,74,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-07-14,4,6,36,6,6,1,1,0,0,0,0,0,0,0,,,1,2025-07-02,Good
+LVPrasad_Hyderabad,LVP0024,Patient_LVPrasad_Hyderabad_24,MRN116550,75,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-07-09,4,6,12,6,6,1,1,1,1,1,1,1,1,0,,,1,2025-06-18,Fair
+LVPrasad_Hyderabad,LVP0025,Patient_LVPrasad_Hyderabad_25,MRN717104,72,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-04-11,7,6,12,6,6,1,0,0,1,0,0,0,1,0,,,1,2025-03-26,Good
+LVPrasad_Hyderabad,LVP0026,Patient_LVPrasad_Hyderabad_26,MRN373775,52,M,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-03-10,5,6,24,6,10,1,0,1,1,1,0,1,1,0,,,0,,Fair
+LVPrasad_Hyderabad,LVP0027,Patient_LVPrasad_Hyderabad_27,MRN887557,59,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-09-02,4,6,12,6,6,0,1,0,1,0,0,0,1,0,,,1,2024-08-16,Fair
+LVPrasad_Hyderabad,LVP0028,Patient_LVPrasad_Hyderabad_28,MRN528625,66,M,AMD,None,None,Aflibercept,2025-01-05,3,6,18,6,6,1,0,0,1,0,0,0,1,0,,,0,,Good
+LVPrasad_Hyderabad,LVP0029,Patient_LVPrasad_Hyderabad_29,MRN150581,54,M,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-04-28,4,6,36,6,12,1,0,1,0,1,0,1,0,0,,,1,2025-04-15,Good
+LVPrasad_Hyderabad,LVP0030,Patient_LVPrasad_Hyderabad_30,MRN908917,81,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-05-16,5,6,18,6,8,1,1,0,1,1,1,0,1,0,,,1,2025-05-12,Poor
+LVPrasad_Hyderabad,LVP0031,Patient_LVPrasad_Hyderabad_31,MRN994971,40,F,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-03-09,4,6,36,6,12,1,1,1,0,1,1,0,0,0,,,1,2025-03-05,Excellent
+LVPrasad_Hyderabad,LVP0032,Patient_LVPrasad_Hyderabad_32,MRN309402,55,M,RVO,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-09-30,5,6,18,6,7,1,1,0,1,1,1,0,1,0,,,1,2024-09-15,Fair
+LVPrasad_Hyderabad,LVP0033,Patient_LVPrasad_Hyderabad_33,MRN707842,58,F,RVO,None,None,Aflibercept,2025-04-27,6,6,12,6,6,1,1,0,0,0,0,0,0,0,,,0,,Fair
+LVPrasad_Hyderabad,LVP0034,Patient_LVPrasad_Hyderabad_34,MRN698686,40,M,DME,None,None,Aflibercept,2024-12-24,4,6,24,6,6,1,1,1,1,1,1,0,1,0,,,1,2024-12-21,Good
+LVPrasad_Hyderabad,LVP0035,Patient_LVPrasad_Hyderabad_35,MRN594631,48,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-01-01,10,6,36,6,17,1,1,0,0,1,1,0,0,0,,,1,2024-12-07,Good
+LVPrasad_Hyderabad,LVP0036,Patient_LVPrasad_Hyderabad_36,MRN232762,72,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-03-04,5,6,24,6,9,1,0,1,1,1,0,1,0,0,,,1,2025-02-17,Good
+LVPrasad_Hyderabad,LVP0037,Patient_LVPrasad_Hyderabad_37,MRN902172,65,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-09-14,3,6,24,6,6,0,0,0,1,0,0,0,0,0,,,0,,Fair
+LVPrasad_Hyderabad,LVP0038,Patient_LVPrasad_Hyderabad_38,MRN868758,83,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-01-29,6,6,60,6,26,1,1,0,1,1,1,0,0,0,,,1,2025-01-03,Fair
+LVPrasad_Hyderabad,LVP0039,Patient_LVPrasad_Hyderabad_39,MRN804003,83,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-02-01,3,6,36,6,7,0,1,1,1,0,0,1,0,0,,,1,2025-01-04,Poor
+LVPrasad_Hyderabad,LVP0040,Patient_LVPrasad_Hyderabad_40,MRN188560,70,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-12-28,9,6,18,6,9,0,0,0,0,0,0,0,0,0,,,1,2024-12-27,Good
+LVPrasad_Hyderabad,LVP0041,Patient_LVPrasad_Hyderabad_41,MRN185877,68,F,RVO,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-03-31,12,6,36,6,23,1,0,0,1,0,0,0,0,0,,,1,2025-03-05,Good
+LVPrasad_Hyderabad,LVP0042,Patient_LVPrasad_Hyderabad_42,MRN371300,65,F,RVO,Diabetes,"Metformin, Insulin",Aflibercept,2025-08-05,4,6,24,6,6,1,1,1,1,0,0,1,1,0,,,1,2025-08-02,Excellent
+LVPrasad_Hyderabad,LVP0043,Patient_LVPrasad_Hyderabad_43,MRN720877,40,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-10,5,6,36,6,16,1,1,0,1,1,0,0,1,0,,,1,2024-12-05,Poor
+LVPrasad_Hyderabad,LVP0044,Patient_LVPrasad_Hyderabad_44,MRN425533,48,M,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-04-17,6,6,24,6,10,1,1,0,1,1,0,0,0,0,,,1,2025-04-08,Good
+LVPrasad_Hyderabad,LVP0045,Patient_LVPrasad_Hyderabad_45,MRN568910,66,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-03-08,7,6,18,6,7,1,1,1,0,0,0,1,0,0,,,1,2025-02-17,Good
+LVPrasad_Hyderabad,LVP0046,Patient_LVPrasad_Hyderabad_46,MRN957370,72,M,RVO,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-06-03,6,6,24,6,13,0,1,1,0,0,0,1,0,0,,,1,2025-05-11,Poor
+LVPrasad_Hyderabad,LVP0047,Patient_LVPrasad_Hyderabad_47,MRN429644,68,M,DME,None,None,Aflibercept,2024-10-15,5,6,24,6,12,0,1,0,1,0,1,0,1,0,,,0,,Good
+LVPrasad_Hyderabad,LVP0048,Patient_LVPrasad_Hyderabad_48,MRN555383,54,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-03-20,8,6,24,6,12,1,0,0,1,1,0,0,1,0,,,1,2025-03-13,Good
+LVPrasad_Hyderabad,LVP0049,Patient_LVPrasad_Hyderabad_49,MRN422878,76,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-01-17,7,6,36,6,18,1,1,1,0,0,1,1,0,0,,,1,2024-12-26,Excellent
+LVPrasad_Hyderabad,LVP0050,Patient_LVPrasad_Hyderabad_50,MRN248278,82,M,AMD,None,None,Ranibizumab,2025-01-22,4,6,36,6,10,1,1,0,1,1,0,0,1,0,,,1,2025-01-07,Good
+LVPrasad_Hyderabad,LVP0051,Patient_LVPrasad_Hyderabad_51,MRN394481,76,M,RVO,None,None,Aflibercept,2025-06-04,6,6,24,6,11,0,0,0,0,0,0,0,0,0,,,1,2025-05-24,Poor
+LVPrasad_Hyderabad,LVP0052,Patient_LVPrasad_Hyderabad_52,MRN331437,76,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-10-18,9,6,24,6,16,0,0,1,1,0,0,0,1,0,,,1,2024-10-12,Good
+LVPrasad_Hyderabad,LVP0053,Patient_LVPrasad_Hyderabad_53,MRN711383,58,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-10-28,7,6,24,6,10,0,1,0,1,0,0,0,1,0,,,1,2024-10-11,Good
+LVPrasad_Hyderabad,LVP0054,Patient_LVPrasad_Hyderabad_54,MRN361522,77,M,RVO,Diabetes,"Metformin, Insulin",Aflibercept,2025-03-27,4,6,24,6,6,1,1,0,0,1,1,0,0,0,,,1,2025-02-28,Excellent
+LVPrasad_Hyderabad,LVP0055,Patient_LVPrasad_Hyderabad_55,MRN950261,66,F,RVO,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-10-04,4,6,60,6,10,0,1,1,1,0,1,0,0,0,,,1,2024-09-28,Good
+LVPrasad_Hyderabad,LVP0056,Patient_LVPrasad_Hyderabad_56,MRN300473,71,F,RVO,None,None,Ranibizumab,2025-01-25,3,6,24,6,7,1,0,1,1,1,0,1,0,0,,,1,2025-01-21,Good
+LVPrasad_Hyderabad,LVP0057,Patient_LVPrasad_Hyderabad_57,MRN431974,69,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-09-01,2,6,18,6,6,1,1,1,0,1,0,1,0,0,,,1,2024-08-08,Excellent
+LVPrasad_Hyderabad,LVP0058,Patient_LVPrasad_Hyderabad_58,MRN146939,63,M,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-07-24,5,6,24,6,9,1,1,0,0,0,1,0,0,0,,,1,2025-07-08,Fair
+LVPrasad_Hyderabad,LVP0059,Patient_LVPrasad_Hyderabad_59,MRN899397,54,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-01-10,3,6,24,6,6,0,0,0,0,0,0,0,0,0,,,1,2024-12-25,Good
+LVPrasad_Hyderabad,LVP0060,Patient_LVPrasad_Hyderabad_60,MRN374372,64,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-07-13,5,6,24,6,9,0,1,1,1,0,1,0,1,0,,,1,2025-06-18,Fair
+LVPrasad_Hyderabad,LVP0061,Patient_LVPrasad_Hyderabad_61,MRN148419,76,M,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-09-13,3,6,24,6,6,1,0,0,0,1,0,0,0,0,,,1,2024-08-30,Excellent
+LVPrasad_Hyderabad,LVP0062,Patient_LVPrasad_Hyderabad_62,MRN459057,59,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-09-26,8,6,18,6,8,1,1,1,0,0,0,0,0,0,,,1,2024-09-17,Fair
+LVPrasad_Hyderabad,LVP0063,Patient_LVPrasad_Hyderabad_63,MRN879704,75,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-01-24,3,6,12,6,6,1,1,0,0,1,0,0,0,0,,,1,2025-01-10,Good
+LVPrasad_Hyderabad,LVP0064,Patient_LVPrasad_Hyderabad_64,MRN673517,73,F,RVO,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-11-08,4,6,18,6,6,1,1,1,0,0,1,1,0,0,,,1,2024-10-19,Good
+LVPrasad_Hyderabad,LVP0065,Patient_LVPrasad_Hyderabad_65,MRN855823,61,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-08-01,2,6,24,6,6,1,1,0,1,1,1,0,1,0,,,1,2025-07-21,Poor
+LVPrasad_Hyderabad,LVP0066,Patient_LVPrasad_Hyderabad_66,MRN768182,81,M,RVO,Diabetes,"Metformin, Insulin",Aflibercept,2025-02-25,5,6,12,6,6,0,1,0,1,0,1,0,1,0,,,1,2025-02-06,Excellent
+LVPrasad_Hyderabad,LVP0067,Patient_LVPrasad_Hyderabad_67,MRN654358,60,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-09,7,6,36,6,17,0,1,0,0,0,0,0,0,0,,,1,2024-11-28,Good
+LVPrasad_Hyderabad,LVP0068,Patient_LVPrasad_Hyderabad_68,MRN299795,83,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-06-02,9,6,18,6,10,1,1,1,1,0,0,1,0,0,,,1,2025-05-25,Good
+LVPrasad_Hyderabad,LVP0069,Patient_LVPrasad_Hyderabad_69,MRN748333,70,M,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-09-24,8,6,60,6,27,1,0,0,1,0,0,0,1,0,,,1,2024-09-01,Good
+LVPrasad_Hyderabad,LVP0070,Patient_LVPrasad_Hyderabad_70,MRN893567,64,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-04-29,10,6,18,6,10,0,1,1,0,0,0,1,0,0,,,0,,Good
+LVPrasad_Hyderabad,LVP0071,Patient_LVPrasad_Hyderabad_71,MRN834404,54,F,DME,None,None,Ranibizumab,2024-12-25,6,6,12,6,6,1,0,0,0,1,0,0,0,0,,,1,2024-11-27,Excellent
+LVPrasad_Hyderabad,LVP0072,Patient_LVPrasad_Hyderabad_72,MRN461237,63,F,RVO,Diabetes,"Metformin, Insulin",Ranibizumab,2025-03-26,12,6,24,6,11,1,0,0,1,0,0,0,1,0,,,1,2025-03-24,Fair
+LVPrasad_Hyderabad,LVP0073,Patient_LVPrasad_Hyderabad_73,MRN609467,62,M,AMD,None,None,Ranibizumab,2025-07-06,4,6,18,6,6,1,0,1,1,1,0,0,0,0,,,1,2025-06-14,Fair
+LVPrasad_Hyderabad,LVP0074,Patient_LVPrasad_Hyderabad_74,MRN461770,49,M,RVO,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-11-29,6,6,60,6,21,0,0,0,1,0,0,0,1,0,,,1,2024-11-04,Fair
+LVPrasad_Hyderabad,LVP0075,Patient_LVPrasad_Hyderabad_75,MRN342763,62,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-09-10,9,6,12,6,6,0,1,0,0,0,0,0,0,0,,,1,2024-08-21,Excellent
+LVPrasad_Hyderabad,LVP0076,Patient_LVPrasad_Hyderabad_76,MRN925873,55,F,RVO,Diabetes,"Metformin, Insulin",Bevacizumab,2024-10-17,4,6,24,6,6,1,1,0,1,0,1,0,1,0,,,1,2024-09-26,Good
+LVPrasad_Hyderabad,LVP0077,Patient_LVPrasad_Hyderabad_77,MRN884483,72,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-11-28,9,6,60,6,35,1,0,1,1,0,0,0,0,0,,,1,2024-11-04,Fair
+LVPrasad_Hyderabad,LVP0078,Patient_LVPrasad_Hyderabad_78,MRN270956,80,F,DME,None,None,Aflibercept,2025-02-26,4,6,18,6,6,1,1,1,1,1,1,1,1,0,,,1,2025-02-04,Excellent
+LVPrasad_Hyderabad,LVP0079,Patient_LVPrasad_Hyderabad_79,MRN846963,50,M,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-08-27,9,6,12,6,7,1,1,0,1,1,1,0,0,0,,,1,2024-08-13,Fair
+LVPrasad_Hyderabad,LVP0080,Patient_LVPrasad_Hyderabad_80,MRN773403,85,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-11-04,4,6,18,6,6,1,1,0,1,1,0,0,1,0,,,1,2024-10-09,Excellent
+LVPrasad_Hyderabad,LVP0081,Patient_LVPrasad_Hyderabad_81,MRN196108,63,F,RVO,Diabetes,"Metformin, Insulin",Ranibizumab,2025-07-08,9,6,24,6,13,1,0,0,1,1,0,0,0,0,,,1,2025-06-15,Good
+LVPrasad_Hyderabad,LVP0082,Patient_LVPrasad_Hyderabad_82,MRN699331,53,F,AMD,None,None,Ranibizumab,2025-05-04,2,6,18,6,6,0,0,1,0,0,0,1,0,0,,,1,2025-04-19,Fair
+LVPrasad_Hyderabad,LVP0083,Patient_LVPrasad_Hyderabad_83,MRN627350,74,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-06-17,6,6,24,6,11,1,0,0,1,1,0,0,1,0,,,1,2025-06-14,Fair
+LVPrasad_Hyderabad,LVP0084,Patient_LVPrasad_Hyderabad_84,MRN190236,59,M,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-09-13,6,6,36,6,17,1,0,1,0,0,0,1,0,0,,,1,2024-09-07,Fair
+LVPrasad_Hyderabad,LVP0085,Patient_LVPrasad_Hyderabad_85,MRN152214,64,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-01-04,7,6,36,6,20,1,1,0,1,1,1,0,1,0,,,1,2024-12-16,Fair
+LVPrasad_Hyderabad,LVP0086,Patient_LVPrasad_Hyderabad_86,MRN616614,60,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-10-10,4,6,12,6,6,1,1,1,0,0,1,1,0,0,,,1,2024-09-24,Fair
+LVPrasad_Hyderabad,LVP0087,Patient_LVPrasad_Hyderabad_87,MRN677697,55,M,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-03-15,12,6,18,6,11,1,0,0,1,0,0,0,0,0,,,1,2025-03-07,Good
+LVPrasad_Hyderabad,LVP0088,Patient_LVPrasad_Hyderabad_88,MRN766228,73,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-05-15,3,6,18,6,6,1,0,1,0,0,0,0,0,0,,,1,2025-04-21,Poor
+LVPrasad_Hyderabad,LVP0089,Patient_LVPrasad_Hyderabad_89,MRN692377,61,F,AMD,None,None,Aflibercept,2025-01-12,5,6,24,6,13,0,0,0,1,0,0,0,0,0,,,1,2025-01-04,Fair
+LVPrasad_Hyderabad,LVP0090,Patient_LVPrasad_Hyderabad_90,MRN718335,47,M,DME,None,None,Aflibercept,2025-03-16,4,6,18,6,6,0,1,0,0,0,0,0,0,0,,,1,2025-03-01,Fair
+LVPrasad_Hyderabad,LVP0091,Patient_LVPrasad_Hyderabad_91,MRN641716,71,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-08-16,4,6,36,6,9,0,0,1,0,0,0,1,0,0,,,1,2024-08-13,Good
+LVPrasad_Hyderabad,LVP0092,Patient_LVPrasad_Hyderabad_92,MRN470427,50,M,RVO,Diabetes,"Metformin, Insulin",Aflibercept,2024-12-27,8,6,36,6,17,0,1,1,1,0,0,1,0,0,,,0,,Poor
+LVPrasad_Hyderabad,LVP0093,Patient_LVPrasad_Hyderabad_93,MRN826853,51,F,RVO,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-08-16,4,6,18,6,6,1,1,0,1,0,0,0,1,0,,,1,2024-07-23,Good
+LVPrasad_Hyderabad,LVP0094,Patient_LVPrasad_Hyderabad_94,MRN563330,79,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-07-01,3,6,24,6,6,1,0,1,0,1,0,0,0,0,,,1,2025-06-09,Excellent
+LVPrasad_Hyderabad,LVP0095,Patient_LVPrasad_Hyderabad_95,MRN269461,50,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-06-28,4,6,18,6,6,1,1,0,0,1,1,0,0,0,,,1,2025-06-10,Excellent
+LVPrasad_Hyderabad,LVP0096,Patient_LVPrasad_Hyderabad_96,MRN134734,40,M,AMD,None,None,Bevacizumab,2024-09-08,4,6,18,6,6,1,1,0,0,0,1,0,0,0,,,1,2024-08-31,Excellent
+LVPrasad_Hyderabad,LVP0097,Patient_LVPrasad_Hyderabad_97,MRN307156,72,M,AMD,None,None,Aflibercept,2024-12-04,7,6,18,6,12,1,1,0,1,0,1,0,1,0,,,1,2024-11-14,Good
+LVPrasad_Hyderabad,LVP0098,Patient_LVPrasad_Hyderabad_98,MRN951539,61,M,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-03-25,7,6,18,6,7,1,1,0,1,0,0,0,1,0,,,1,2025-02-26,Fair
+LVPrasad_Hyderabad,LVP0099,Patient_LVPrasad_Hyderabad_99,MRN449033,62,F,RVO,None,None,Ranibizumab,2024-12-23,7,6,24,6,13,0,1,1,1,0,1,0,1,0,,,1,2024-12-09,Fair
+LVPrasad_Hyderabad,LVP0100,Patient_LVPrasad_Hyderabad_100,MRN212168,61,F,DME,None,None,Aflibercept,2025-07-30,6,6,24,6,10,1,0,0,0,1,0,0,0,0,,,1,2025-07-10,Excellent
+LVPrasad_Hyderabad,LVP0101,Patient_LVPrasad_Hyderabad_101,MRN708458,67,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-11-11,9,6,18,6,7,0,0,0,0,0,0,0,0,0,,,1,2024-11-03,Fair
+LVPrasad_Hyderabad,LVP0102,Patient_LVPrasad_Hyderabad_102,MRN504895,55,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-05-13,8,6,60,6,34,1,1,0,1,1,1,0,0,0,,,1,2025-04-29,Good
+LVPrasad_Hyderabad,LVP0103,Patient_LVPrasad_Hyderabad_103,MRN517933,82,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-07-17,4,6,24,6,6,1,1,0,0,1,0,0,0,0,,,1,2025-06-21,Good
+LVPrasad_Hyderabad,LVP0104,Patient_LVPrasad_Hyderabad_104,MRN343543,47,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-03-11,2,6,12,6,6,1,0,1,1,1,0,1,1,0,,,1,2025-02-14,Good
+LVPrasad_Hyderabad,LVP0105,Patient_LVPrasad_Hyderabad_105,MRN780939,70,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-06-12,3,6,18,6,6,0,1,1,0,0,0,0,0,0,,,1,2025-05-15,Fair
+LVPrasad_Hyderabad,LVP0106,Patient_LVPrasad_Hyderabad_106,MRN295174,72,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-11-01,7,6,24,6,12,0,1,0,1,0,0,0,1,1,Eye pain,Mild,1,2024-10-21,Good
+LVPrasad_Hyderabad,LVP0107,Patient_LVPrasad_Hyderabad_107,MRN659070,55,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-05-27,3,6,60,6,13,1,0,0,1,1,0,0,1,0,,,1,2025-05-07,Excellent
+LVPrasad_Hyderabad,LVP0108,Patient_LVPrasad_Hyderabad_108,MRN170160,52,M,RVO,Diabetes,"Metformin, Insulin",Bevacizumab,2025-01-15,3,6,24,6,6,1,1,1,0,0,0,1,0,0,,,1,2024-12-21,Good
+LVPrasad_Hyderabad,LVP0109,Patient_LVPrasad_Hyderabad_109,MRN742584,77,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-03-09,2,6,60,6,15,0,1,0,1,0,1,0,1,0,,,1,2025-02-17,Fair
+LVPrasad_Hyderabad,LVP0110,Patient_LVPrasad_Hyderabad_110,MRN516319,53,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-05-21,6,6,24,6,12,1,1,0,1,0,0,0,1,0,,,1,2025-05-11,Fair
+LVPrasad_Hyderabad,LVP0111,Patient_LVPrasad_Hyderabad_111,MRN584296,57,F,AMD,None,None,Aflibercept,2024-12-11,12,6,24,6,15,0,1,0,0,0,0,0,0,0,,,1,2024-11-23,Excellent
+LVPrasad_Hyderabad,LVP0112,Patient_LVPrasad_Hyderabad_112,MRN153077,75,F,RVO,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-10-29,7,6,24,6,11,1,0,0,0,1,0,0,0,0,,,1,2024-10-28,Excellent
+LVPrasad_Hyderabad,LVP0113,Patient_LVPrasad_Hyderabad_113,MRN390678,65,M,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-10-05,2,6,24,6,8,1,1,1,1,0,1,1,0,0,,,1,2024-10-01,Fair
+LVPrasad_Hyderabad,LVP0114,Patient_LVPrasad_Hyderabad_114,MRN400780,43,F,AMD,None,None,Bevacizumab,2025-01-08,10,6,18,6,11,1,1,0,0,0,0,0,0,0,,,1,2025-01-01,Fair
+LVPrasad_Hyderabad,LVP0115,Patient_LVPrasad_Hyderabad_115,MRN868290,85,F,AMD,None,None,Aflibercept,2025-07-12,2,6,36,6,9,1,1,1,1,0,1,1,1,0,,,1,2025-06-16,Good
+LVPrasad_Hyderabad,LVP0116,Patient_LVPrasad_Hyderabad_116,MRN985540,58,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-06-07,9,6,12,6,6,0,0,0,0,0,0,0,0,0,,,1,2025-05-10,Fair
+LVPrasad_Hyderabad,LVP0117,Patient_LVPrasad_Hyderabad_117,MRN936918,60,F,AMD,None,None,Ranibizumab,2024-10-30,3,6,24,6,7,0,1,0,0,0,0,0,0,0,,,1,2024-10-05,Poor
+LVPrasad_Hyderabad,LVP0118,Patient_LVPrasad_Hyderabad_118,MRN194096,68,M,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-07-02,2,6,24,6,6,1,1,1,0,0,0,1,0,0,,,1,2025-06-06,Good
+LVPrasad_Hyderabad,LVP0119,Patient_LVPrasad_Hyderabad_119,MRN133435,72,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-11-11,8,6,24,6,11,0,0,1,0,0,0,0,0,0,,,1,2024-10-13,Good
+LVPrasad_Hyderabad,LVP0120,Patient_LVPrasad_Hyderabad_120,MRN133152,88,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-11-20,3,6,18,6,6,1,1,1,0,0,1,1,0,0,,,1,2024-11-15,Excellent
+LVPrasad_Hyderabad,LVP0121,Patient_LVPrasad_Hyderabad_121,MRN209620,45,M,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-08-10,6,6,24,6,8,1,1,0,0,1,0,0,0,0,,,1,2025-07-26,Fair
+LVPrasad_Hyderabad,LVP0122,Patient_LVPrasad_Hyderabad_122,MRN421096,74,M,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-12-26,8,6,24,6,14,1,0,1,1,0,0,1,1,0,,,1,2024-12-19,Good
+LVPrasad_Hyderabad,LVP0123,Patient_LVPrasad_Hyderabad_123,MRN906070,73,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-06-26,5,6,24,6,8,1,1,0,1,0,1,0,0,0,,,0,,Excellent
+LVPrasad_Hyderabad,LVP0124,Patient_LVPrasad_Hyderabad_124,MRN332816,63,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-04-25,2,6,36,6,6,1,0,0,1,1,0,0,1,0,,,1,2025-04-04,Fair
+LVPrasad_Hyderabad,LVP0125,Patient_LVPrasad_Hyderabad_125,MRN640684,74,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-08-21,8,6,36,6,17,1,0,1,0,0,0,1,0,0,,,1,2024-07-24,Fair
+LVPrasad_Hyderabad,LVP0126,Patient_LVPrasad_Hyderabad_126,MRN795854,76,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-03-16,3,6,18,6,6,1,0,1,1,1,0,1,1,0,,,1,2025-02-26,Excellent
+LVPrasad_Hyderabad,LVP0127,Patient_LVPrasad_Hyderabad_127,MRN782143,48,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-12-02,6,6,60,6,24,1,0,1,0,0,0,0,0,0,,,1,2024-11-30,Excellent
+LVPrasad_Hyderabad,LVP0128,Patient_LVPrasad_Hyderabad_128,MRN760763,85,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-01-01,4,6,36,6,11,1,0,1,0,1,0,0,0,0,,,1,2024-12-03,Good
+LVPrasad_Hyderabad,LVP0129,Patient_LVPrasad_Hyderabad_129,MRN123838,46,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-06-01,5,6,18,6,8,1,1,0,0,1,0,0,0,0,,,1,2025-05-25,Fair
+LVPrasad_Hyderabad,LVP0130,Patient_LVPrasad_Hyderabad_130,MRN925351,51,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-09-12,7,6,18,6,8,1,0,0,0,0,0,0,0,0,,,1,2024-09-11,Fair
+LVPrasad_Hyderabad,LVP0131,Patient_LVPrasad_Hyderabad_131,MRN440039,61,M,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-12-22,10,6,18,6,8,1,1,1,1,1,1,0,0,0,,,1,2024-11-27,Good
+LVPrasad_Hyderabad,LVP0132,Patient_LVPrasad_Hyderabad_132,MRN410139,88,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-07-12,6,6,24,6,11,1,1,0,0,1,1,0,0,1,Transient IOP elevation,Mild,1,2025-06-19,Good
+LVPrasad_Hyderabad,LVP0133,Patient_LVPrasad_Hyderabad_133,MRN880385,61,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-02-19,2,6,36,6,9,1,1,0,1,1,0,0,1,0,,,1,2025-01-26,Fair
+LVPrasad_Hyderabad,LVP0134,Patient_LVPrasad_Hyderabad_134,MRN699881,64,F,RVO,None,None,Ranibizumab,2025-01-12,7,6,36,6,25,1,1,0,0,0,0,0,0,0,,,1,2024-12-14,Good
+LVPrasad_Hyderabad,LVP0135,Patient_LVPrasad_Hyderabad_135,MRN755460,82,M,AMD,None,None,Bevacizumab,2025-04-08,6,6,36,6,16,1,1,0,1,0,1,0,1,0,,,1,2025-03-23,Fair
+LVPrasad_Hyderabad,LVP0136,Patient_LVPrasad_Hyderabad_136,MRN980623,61,F,AMD,None,None,Ranibizumab,2025-02-08,9,6,18,6,12,1,1,1,1,0,0,0,1,0,,,1,2025-01-24,Good
+LVPrasad_Hyderabad,LVP0137,Patient_LVPrasad_Hyderabad_137,MRN292792,50,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-07-31,5,6,24,6,9,1,0,0,0,1,0,0,0,0,,,1,2025-07-19,Fair
+LVPrasad_Hyderabad,LVP0138,Patient_LVPrasad_Hyderabad_138,MRN694802,59,F,RVO,Diabetes,"Metformin, Insulin",Ranibizumab,2024-09-03,6,6,18,6,6,1,1,0,1,0,0,0,1,0,,,1,2024-08-09,Good
+LVPrasad_Hyderabad,LVP0139,Patient_LVPrasad_Hyderabad_139,MRN373132,81,F,RVO,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-08-08,5,6,18,6,7,0,1,1,1,0,0,0,1,0,,,1,2025-07-15,Good
+LVPrasad_Hyderabad,LVP0140,Patient_LVPrasad_Hyderabad_140,MRN835427,65,M,DME,None,None,Aflibercept,2025-05-14,7,6,24,6,12,1,0,0,1,0,0,0,0,0,,,1,2025-05-05,Excellent
+LVPrasad_Hyderabad,LVP0141,Patient_LVPrasad_Hyderabad_141,MRN860198,88,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-06-26,5,6,18,6,7,0,1,1,1,0,0,1,1,0,,,1,2025-06-19,Fair
+LVPrasad_Hyderabad,LVP0142,Patient_LVPrasad_Hyderabad_142,MRN739425,73,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-02-04,2,6,24,6,6,1,1,0,1,1,0,0,1,0,,,1,2025-01-24,Good
+LVPrasad_Hyderabad,LVP0143,Patient_LVPrasad_Hyderabad_143,MRN439373,57,F,RVO,Diabetes,"Metformin, Insulin",Ranibizumab,2025-08-01,5,6,24,6,10,1,0,1,0,1,0,1,0,0,,,1,2025-07-29,Good
+LVPrasad_Hyderabad,LVP0144,Patient_LVPrasad_Hyderabad_144,MRN201471,65,M,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-07-23,6,6,36,6,13,1,1,0,1,0,0,0,1,0,,,1,2025-07-21,Poor
+LVPrasad_Hyderabad,LVP0145,Patient_LVPrasad_Hyderabad_145,MRN924580,54,F,RVO,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-01-02,10,6,18,6,10,1,1,0,0,0,1,0,0,0,,,1,2024-12-31,Poor
+LVPrasad_Hyderabad,LVP0146,Patient_LVPrasad_Hyderabad_146,MRN507039,56,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-04-20,3,6,36,6,6,0,1,0,0,0,1,0,0,0,,,1,2025-04-10,Poor
+LVPrasad_Hyderabad,LVP0147,Patient_LVPrasad_Hyderabad_147,MRN911128,90,M,AMD,None,None,Ranibizumab,2025-06-29,4,6,60,6,13,1,1,0,1,1,0,0,1,0,,,1,2025-06-03,Excellent
+LVPrasad_Hyderabad,LVP0148,Patient_LVPrasad_Hyderabad_148,MRN635917,77,M,RVO,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-06-14,2,6,36,6,6,1,1,1,0,1,0,1,0,0,,,1,2025-05-28,Fair
+LVPrasad_Hyderabad,LVP0149,Patient_LVPrasad_Hyderabad_149,MRN759216,75,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-02-04,6,6,36,6,21,0,0,0,0,0,0,0,0,0,,,1,2025-01-09,Good
+LVPrasad_Hyderabad,LVP0150,Patient_LVPrasad_Hyderabad_150,MRN655339,57,F,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-05-18,5,6,24,6,10,1,1,1,0,1,1,0,0,0,,,1,2025-05-08,Excellent
+LVPrasad_Hyderabad,LVP0151,Patient_LVPrasad_Hyderabad_151,MRN345131,83,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-08-20,6,6,24,6,8,1,0,0,0,1,0,0,0,0,,,1,2024-08-17,Good
+LVPrasad_Hyderabad,LVP0152,Patient_LVPrasad_Hyderabad_152,MRN841693,78,F,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-08-02,5,6,36,6,17,0,1,1,0,0,0,0,0,0,,,1,2025-07-27,Good
+LVPrasad_Hyderabad,LVP0153,Patient_LVPrasad_Hyderabad_153,MRN602434,87,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-04-25,6,6,36,6,16,1,0,1,1,0,0,0,1,0,,,1,2025-04-24,Excellent
+LVPrasad_Hyderabad,LVP0154,Patient_LVPrasad_Hyderabad_154,MRN919901,86,F,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-03-12,3,6,24,6,6,1,0,0,0,0,0,0,0,0,,,1,2025-03-02,Good
+LVPrasad_Hyderabad,LVP0155,Patient_LVPrasad_Hyderabad_155,MRN619764,47,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-09-07,5,6,36,6,12,0,1,0,1,0,1,0,0,0,,,1,2024-08-25,Fair
+LVPrasad_Hyderabad,LVP0156,Patient_LVPrasad_Hyderabad_156,MRN829081,51,M,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-07-15,8,6,24,6,13,1,1,1,0,0,0,0,0,0,,,1,2025-06-22,Good
+LVPrasad_Hyderabad,LVP0157,Patient_LVPrasad_Hyderabad_157,MRN172372,52,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-01-12,6,6,18,6,8,1,0,0,1,1,0,0,0,0,,,1,2025-01-08,Good
+LVPrasad_Hyderabad,LVP0158,Patient_LVPrasad_Hyderabad_158,MRN667694,53,F,RVO,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-08-08,4,6,24,6,6,1,1,0,1,1,0,0,1,0,,,1,2025-08-02,Good
+LVPrasad_Hyderabad,LVP0159,Patient_LVPrasad_Hyderabad_159,MRN449898,68,M,DME,None,None,Aflibercept,2024-09-15,4,6,18,6,6,1,1,1,0,1,1,0,0,0,,,1,2024-09-06,Poor
+LVPrasad_Hyderabad,LVP0160,Patient_LVPrasad_Hyderabad_160,MRN135017,58,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-07-25,2,6,18,6,6,0,0,1,1,0,0,1,1,0,,,1,2025-07-15,Excellent
+LVPrasad_Hyderabad,LVP0161,Patient_LVPrasad_Hyderabad_161,MRN372849,89,F,RVO,Diabetes,"Metformin, Insulin",Bevacizumab,2024-12-24,6,6,12,6,6,1,0,1,1,0,0,0,1,0,,,1,2024-12-08,Good
+LVPrasad_Hyderabad,LVP0162,Patient_LVPrasad_Hyderabad_162,MRN774966,87,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-02-15,10,6,18,6,9,0,1,0,1,0,0,0,1,0,,,1,2025-02-04,Good
+LVPrasad_Hyderabad,LVP0163,Patient_LVPrasad_Hyderabad_163,MRN973343,64,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-05-19,5,6,36,6,14,1,1,0,0,1,0,0,0,0,,,1,2025-05-12,Fair
+LVPrasad_Hyderabad,LVP0164,Patient_LVPrasad_Hyderabad_164,MRN338750,88,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-01-27,3,6,24,6,7,1,0,1,1,1,0,1,1,0,,,1,2025-01-02,Excellent
+LVPrasad_Hyderabad,LVP0165,Patient_LVPrasad_Hyderabad_165,MRN192469,82,F,RVO,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-03-15,7,6,12,6,6,1,1,0,1,0,0,0,0,0,,,1,2025-03-01,Good
+LVPrasad_Hyderabad,LVP0166,Patient_LVPrasad_Hyderabad_166,MRN697942,59,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-05-22,6,6,24,6,10,1,1,0,0,1,0,0,0,0,,,1,2025-04-23,Good
+LVPrasad_Hyderabad,LVP0167,Patient_LVPrasad_Hyderabad_167,MRN978617,40,F,AMD,None,None,Ranibizumab,2025-01-17,6,6,18,6,8,1,0,1,0,1,0,1,0,0,,,1,2024-12-28,Fair
+LVPrasad_Hyderabad,LVP0168,Patient_LVPrasad_Hyderabad_168,MRN550470,62,F,RVO,Diabetes,"Metformin, Insulin",Ranibizumab,2024-11-15,5,6,24,6,9,1,0,0,0,0,0,0,0,0,,,1,2024-11-13,Good
+LVPrasad_Hyderabad,LVP0169,Patient_LVPrasad_Hyderabad_169,MRN669606,57,M,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-10-15,2,6,24,6,6,1,0,0,0,1,0,0,0,0,,,1,2024-09-30,Fair
+LVPrasad_Hyderabad,LVP0170,Patient_LVPrasad_Hyderabad_170,MRN878711,67,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-08-03,5,6,60,6,20,1,1,1,1,1,1,1,1,0,,,1,2025-07-16,Excellent
+LVPrasad_Hyderabad,LVP0171,Patient_LVPrasad_Hyderabad_171,MRN757574,66,M,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-08-06,4,6,12,6,6,1,0,0,0,1,0,0,0,0,,,1,2025-08-04,Poor
+LVPrasad_Hyderabad,LVP0172,Patient_LVPrasad_Hyderabad_172,MRN885183,65,F,RVO,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-09-03,9,6,24,6,12,1,0,0,0,0,0,0,0,0,,,1,2024-08-25,Good
+LVPrasad_Hyderabad,LVP0173,Patient_LVPrasad_Hyderabad_173,MRN357177,71,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-08-28,10,6,36,6,22,1,1,0,1,0,1,0,0,0,,,1,2024-08-03,Fair
+LVPrasad_Hyderabad,LVP0174,Patient_LVPrasad_Hyderabad_174,MRN174070,50,M,DME,None,None,Bevacizumab,2024-10-13,8,6,60,6,30,0,0,0,0,0,0,0,0,0,,,1,2024-10-12,Good
+LVPrasad_Hyderabad,LVP0175,Patient_LVPrasad_Hyderabad_175,MRN936301,69,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-12-20,8,6,18,6,10,0,1,1,0,0,0,1,0,0,,,1,2024-12-18,Good
+LVPrasad_Hyderabad,LVP0176,Patient_LVPrasad_Hyderabad_176,MRN275768,59,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-12-24,6,6,24,6,10,1,0,0,1,0,0,0,0,0,,,1,2024-11-28,Good
+LVPrasad_Hyderabad,LVP0177,Patient_LVPrasad_Hyderabad_177,MRN365399,67,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-07-11,4,6,12,6,6,1,1,0,0,1,1,0,0,0,,,1,2025-06-22,Fair
+LVPrasad_Hyderabad,LVP0178,Patient_LVPrasad_Hyderabad_178,MRN652129,76,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-10-18,3,6,24,6,6,1,0,0,0,0,0,0,0,0,,,1,2024-09-29,Poor
+LVPrasad_Hyderabad,LVP0179,Patient_LVPrasad_Hyderabad_179,MRN885409,50,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-03-17,4,6,18,6,6,1,0,1,0,1,0,1,0,0,,,1,2025-03-08,Good
+LVPrasad_Hyderabad,LVP0180,Patient_LVPrasad_Hyderabad_180,MRN629622,61,F,DME,None,None,Ranibizumab,2025-07-04,6,6,36,6,16,0,1,1,1,0,0,0,1,0,,,1,2025-06-28,Fair
+LVPrasad_Hyderabad,LVP0181,Patient_LVPrasad_Hyderabad_181,MRN833177,63,F,AMD,None,None,Aflibercept,2024-12-13,6,6,18,6,8,0,1,0,1,0,1,0,1,0,,,1,2024-11-30,Excellent
+LVPrasad_Hyderabad,LVP0182,Patient_LVPrasad_Hyderabad_182,MRN991566,58,M,AMD,None,None,Aflibercept,2024-11-28,6,6,24,6,11,1,1,0,1,0,1,0,0,0,,,1,2024-11-21,Poor
+LVPrasad_Hyderabad,LVP0183,Patient_LVPrasad_Hyderabad_183,MRN664810,75,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-07-01,2,6,24,6,6,1,1,1,0,1,1,1,0,0,,,1,2025-06-06,Good
+LVPrasad_Hyderabad,LVP0184,Patient_LVPrasad_Hyderabad_184,MRN795068,56,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-04-04,4,6,60,6,12,1,1,0,1,1,0,0,0,0,,,1,2025-03-13,Good
+LVPrasad_Hyderabad,LVP0185,Patient_LVPrasad_Hyderabad_185,MRN654985,58,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-05-17,3,6,24,6,6,1,1,0,1,0,1,0,1,0,,,1,2025-04-27,Good
+LVPrasad_Hyderabad,LVP0186,Patient_LVPrasad_Hyderabad_186,MRN988368,56,F,AMD,None,None,Bevacizumab,2024-11-15,3,6,18,6,6,0,1,0,0,0,1,0,0,0,,,1,2024-11-07,Fair
+LVPrasad_Hyderabad,LVP0187,Patient_LVPrasad_Hyderabad_187,MRN558696,78,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-07-21,7,6,18,6,8,1,1,0,1,0,0,0,1,0,,,1,2025-06-28,Fair
+LVPrasad_Hyderabad,LVP0188,Patient_LVPrasad_Hyderabad_188,MRN223935,59,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-02-03,9,6,18,6,10,1,1,1,1,0,0,0,0,0,,,1,2025-02-02,Good
+LVPrasad_Hyderabad,LVP0189,Patient_LVPrasad_Hyderabad_189,MRN116029,70,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-01-22,4,6,36,6,7,1,1,1,0,0,0,0,0,0,,,1,2024-12-24,Good
+LVPrasad_Hyderabad,LVP0190,Patient_LVPrasad_Hyderabad_190,MRN951982,88,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-12-10,2,6,24,6,8,0,0,1,0,0,0,1,0,0,,,1,2024-11-17,Excellent
+LVPrasad_Hyderabad,LVP0191,Patient_LVPrasad_Hyderabad_191,MRN865245,64,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-07-10,4,6,24,6,7,0,0,1,0,0,0,1,0,0,,,1,2025-06-29,Good
+LVPrasad_Hyderabad,LVP0192,Patient_LVPrasad_Hyderabad_192,MRN343533,78,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-07-06,3,6,12,6,6,0,0,1,0,0,0,1,0,0,,,1,2025-06-07,Good
+LVPrasad_Hyderabad,LVP0193,Patient_LVPrasad_Hyderabad_193,MRN570258,85,F,DME,None,None,Ranibizumab,2025-03-05,4,6,36,6,10,1,1,1,1,1,1,0,1,1,Eye pain,Mild,1,2025-02-19,Good
+LVPrasad_Hyderabad,LVP0194,Patient_LVPrasad_Hyderabad_194,MRN585909,77,M,RVO,None,None,Ranibizumab,2025-02-12,3,6,24,6,6,0,1,0,1,0,0,0,0,0,,,1,2025-01-21,Good
+LVPrasad_Hyderabad,LVP0195,Patient_LVPrasad_Hyderabad_195,MRN437651,64,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-10-09,5,6,60,6,22,0,1,0,0,0,0,0,0,0,,,1,2024-09-14,Fair
+LVPrasad_Hyderabad,LVP0196,Patient_LVPrasad_Hyderabad_196,MRN609853,72,F,AMD,None,None,Ranibizumab,2025-01-05,7,6,24,6,16,1,0,1,1,0,0,0,0,0,,,1,2024-12-14,Fair
+LVPrasad_Hyderabad,LVP0197,Patient_LVPrasad_Hyderabad_197,MRN337648,49,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-09-16,7,6,18,6,11,1,0,0,1,1,0,0,0,0,,,1,2024-09-15,Good
+LVPrasad_Hyderabad,LVP0198,Patient_LVPrasad_Hyderabad_198,MRN713007,55,M,DME,None,None,Ranibizumab,2024-09-02,3,6,18,6,6,1,1,0,0,1,1,0,0,0,,,1,2024-08-30,Fair
+LVPrasad_Hyderabad,LVP0199,Patient_LVPrasad_Hyderabad_199,MRN188499,57,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-01-11,7,6,18,6,10,1,1,0,1,0,0,0,0,0,,,1,2025-01-10,Excellent
+LVPrasad_Hyderabad,LVP0200,Patient_LVPrasad_Hyderabad_200,MRN725671,90,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-03-01,2,6,36,6,11,1,0,0,1,0,0,0,1,0,,,1,2025-02-15,Fair
+LVPrasad_Hyderabad,LVP0201,Patient_LVPrasad_Hyderabad_201,MRN239199,55,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-03-06,5,6,36,6,17,1,1,0,0,1,0,0,0,0,,,1,2025-02-20,Excellent
+LVPrasad_Hyderabad,LVP0202,Patient_LVPrasad_Hyderabad_202,MRN540998,55,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-06-17,5,6,18,6,9,1,1,0,0,1,0,0,0,0,,,1,2025-05-26,Fair
+LVPrasad_Hyderabad,LVP0203,Patient_LVPrasad_Hyderabad_203,MRN902078,52,M,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-07-27,7,6,18,6,10,0,0,0,0,0,0,0,0,0,,,1,2025-07-02,Good
+LVPrasad_Hyderabad,LVP0204,Patient_LVPrasad_Hyderabad_204,MRN314816,71,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-07-22,7,6,12,6,6,1,1,1,0,0,0,1,0,0,,,1,2025-07-15,Good
+LVPrasad_Hyderabad,LVP0205,Patient_LVPrasad_Hyderabad_205,MRN909145,66,F,DME,None,None,Bevacizumab,2025-06-20,6,6,60,6,33,1,1,1,0,0,0,1,0,0,,,1,2025-05-28,Fair
+LVPrasad_Hyderabad,LVP0206,Patient_LVPrasad_Hyderabad_206,MRN918699,78,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-09-24,5,6,18,6,8,1,1,1,0,1,0,1,0,0,,,1,2024-09-09,Excellent
+LVPrasad_Hyderabad,LVP0207,Patient_LVPrasad_Hyderabad_207,MRN890296,73,F,RVO,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-05-19,2,6,18,6,6,1,0,1,1,1,0,0,1,0,,,1,2025-05-04,Good
+LVPrasad_Hyderabad,LVP0208,Patient_LVPrasad_Hyderabad_208,MRN700485,48,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-09-19,2,6,18,6,6,1,0,0,1,1,0,0,1,0,,,1,2024-09-13,Fair
+LVPrasad_Hyderabad,LVP0209,Patient_LVPrasad_Hyderabad_209,MRN525775,55,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-12-30,4,6,24,6,8,0,0,0,0,0,0,0,0,0,,,1,2024-12-29,Fair
+LVPrasad_Hyderabad,LVP0210,Patient_LVPrasad_Hyderabad_210,MRN741489,81,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-08-26,4,6,36,6,7,1,0,0,0,1,0,0,0,0,,,1,2024-08-10,Good
+LVPrasad_Hyderabad,LVP0211,Patient_LVPrasad_Hyderabad_211,MRN831218,62,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-11-10,2,6,36,6,8,1,1,1,1,1,1,1,1,0,,,1,2024-10-28,Good
+LVPrasad_Hyderabad,LVP0212,Patient_LVPrasad_Hyderabad_212,MRN172246,79,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-10-15,5,6,18,6,8,1,0,0,1,1,0,0,1,0,,,1,2024-09-27,Good
+LVPrasad_Hyderabad,LVP0213,Patient_LVPrasad_Hyderabad_213,MRN394524,63,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-05-11,8,6,24,6,13,0,1,1,0,0,1,1,0,0,,,1,2025-05-01,Fair
+LVPrasad_Hyderabad,LVP0214,Patient_LVPrasad_Hyderabad_214,MRN141284,53,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-11-14,5,6,18,6,8,1,0,0,0,0,0,0,0,0,,,1,2024-10-25,Good
+LVPrasad_Hyderabad,LVP0215,Patient_LVPrasad_Hyderabad_215,MRN480322,61,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-08-27,7,6,60,6,27,0,1,1,1,0,0,0,1,0,,,1,2024-08-02,Fair
+LVPrasad_Hyderabad,LVP0216,Patient_LVPrasad_Hyderabad_216,MRN310994,53,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-06-22,8,6,18,6,10,1,1,0,0,0,0,0,0,0,,,1,2025-05-26,Good
+LVPrasad_Hyderabad,LVP0217,Patient_LVPrasad_Hyderabad_217,MRN747844,58,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-11-11,9,6,12,6,7,0,1,1,0,0,0,0,0,0,,,1,2024-10-14,Excellent
+LVPrasad_Hyderabad,LVP0218,Patient_LVPrasad_Hyderabad_218,MRN155277,67,F,AMD,None,None,Ranibizumab,2025-04-13,5,6,24,6,11,0,0,0,0,0,0,0,0,0,,,1,2025-04-10,Good
+LVPrasad_Hyderabad,LVP0219,Patient_LVPrasad_Hyderabad_219,MRN115316,71,F,DME,None,None,Ranibizumab,2025-05-08,3,6,18,6,6,1,0,0,0,0,0,0,0,0,,,1,2025-04-17,Good
+LVPrasad_Hyderabad,LVP0220,Patient_LVPrasad_Hyderabad_220,MRN831099,45,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-10-26,4,6,12,6,6,1,0,0,0,0,0,0,0,0,,,1,2024-10-25,Fair
+LVPrasad_Hyderabad,LVP0221,Patient_LVPrasad_Hyderabad_221,MRN849088,64,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-02-08,4,6,24,6,6,1,0,1,0,1,0,1,0,0,,,1,2025-02-04,Good
+LVPrasad_Hyderabad,LVP0222,Patient_LVPrasad_Hyderabad_222,MRN635613,57,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-03-14,11,6,36,6,18,1,0,0,1,0,0,0,1,0,,,1,2025-03-01,Poor
+LVPrasad_Hyderabad,LVP0223,Patient_LVPrasad_Hyderabad_223,MRN774448,57,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-02-20,2,6,24,6,6,1,0,1,1,1,0,1,0,0,,,1,2025-01-26,Good
+LVPrasad_Hyderabad,LVP0224,Patient_LVPrasad_Hyderabad_224,MRN961354,66,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-01-01,8,6,24,6,14,1,1,1,1,0,0,0,0,0,,,1,2024-12-24,Good
+LVPrasad_Hyderabad,LVP0225,Patient_LVPrasad_Hyderabad_225,MRN738237,58,M,AMD,None,None,Bevacizumab,2024-12-10,2,6,24,6,9,1,1,1,0,0,0,1,0,0,,,1,2024-11-14,Excellent
+LVPrasad_Hyderabad,LVP0226,Patient_LVPrasad_Hyderabad_226,MRN493000,81,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-06-16,4,6,24,6,6,1,0,0,0,0,0,0,0,0,,,1,2025-06-09,Fair
+LVPrasad_Hyderabad,LVP0227,Patient_LVPrasad_Hyderabad_227,MRN466708,79,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-02-25,7,6,24,6,12,1,1,0,1,0,0,0,1,0,,,1,2025-02-18,Fair
+LVPrasad_Hyderabad,LVP0228,Patient_LVPrasad_Hyderabad_228,MRN701091,79,M,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-03-22,4,6,24,6,6,1,0,0,1,1,0,0,0,0,,,1,2025-02-21,Excellent
+LVPrasad_Hyderabad,LVP0229,Patient_LVPrasad_Hyderabad_229,MRN901851,59,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-05-13,6,6,18,6,7,1,1,1,0,1,0,1,0,0,,,1,2025-04-25,Poor
+LVPrasad_Hyderabad,LVP0230,Patient_LVPrasad_Hyderabad_230,MRN322088,53,M,RVO,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-10-04,12,6,18,6,8,1,1,1,0,0,0,1,0,0,,,1,2024-09-15,Good
+LVPrasad_Hyderabad,LVP0231,Patient_LVPrasad_Hyderabad_231,MRN284821,65,M,RVO,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-01-07,5,6,24,6,10,1,1,1,0,1,0,0,0,0,,,1,2024-12-13,Fair
+LVPrasad_Hyderabad,LVP0232,Patient_LVPrasad_Hyderabad_232,MRN407998,63,M,RVO,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-04-10,3,6,24,6,6,1,0,0,0,0,0,0,0,0,,,1,2025-03-21,Fair
+LVPrasad_Hyderabad,LVP0233,Patient_LVPrasad_Hyderabad_233,MRN209796,57,F,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-02-06,4,6,36,6,7,1,0,0,0,1,0,0,0,0,,,1,2025-01-18,Fair
+LVPrasad_Hyderabad,LVP0234,Patient_LVPrasad_Hyderabad_234,MRN199427,50,M,AMD,None,None,Bevacizumab,2025-03-11,6,6,18,6,8,1,0,1,1,0,0,1,1,0,,,1,2025-02-14,Poor
+LVPrasad_Hyderabad,LVP0235,Patient_LVPrasad_Hyderabad_235,MRN442679,64,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-04-19,5,6,18,6,6,1,1,0,0,0,0,0,0,0,,,1,2025-04-13,Fair
+LVPrasad_Hyderabad,LVP0236,Patient_LVPrasad_Hyderabad_236,MRN713143,60,M,RVO,None,None,Ranibizumab,2024-09-09,4,6,18,6,6,1,1,1,1,0,1,1,1,0,,,1,2024-09-06,Poor
+LVPrasad_Hyderabad,LVP0237,Patient_LVPrasad_Hyderabad_237,MRN776060,73,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-03-15,2,6,18,6,6,1,1,0,1,0,0,0,1,0,,,1,2025-03-13,Excellent
+LVPrasad_Hyderabad,LVP0238,Patient_LVPrasad_Hyderabad_238,MRN914065,72,F,DME,None,None,Ranibizumab,2025-04-22,12,6,36,6,19,0,1,0,0,0,0,0,0,0,,,1,2025-04-02,Good
+LVPrasad_Hyderabad,LVP0239,Patient_LVPrasad_Hyderabad_239,MRN216958,78,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-01-20,4,6,24,6,6,0,1,1,1,0,0,1,1,0,,,1,2025-01-01,Fair
+LVPrasad_Hyderabad,LVP0240,Patient_LVPrasad_Hyderabad_240,MRN315716,49,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-02-10,7,6,36,6,21,1,1,0,1,1,0,0,1,0,,,1,2025-01-30,Fair
+LVPrasad_Hyderabad,LVP0241,Patient_LVPrasad_Hyderabad_241,MRN337497,69,M,AMD,None,None,Ranibizumab,2024-12-27,8,6,24,6,14,1,1,0,0,1,0,0,0,0,,,1,2024-12-23,Good
+LVPrasad_Hyderabad,LVP0242,Patient_LVPrasad_Hyderabad_242,MRN910487,56,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-08-18,6,6,36,6,15,0,0,1,0,0,0,0,0,0,,,1,2024-08-06,Excellent
+LVPrasad_Hyderabad,LVP0243,Patient_LVPrasad_Hyderabad_243,MRN511858,50,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-09-28,8,6,60,6,28,1,1,1,1,1,0,0,0,0,,,1,2024-08-31,Fair
+LVPrasad_Hyderabad,LVP0244,Patient_LVPrasad_Hyderabad_244,MRN808374,59,M,RVO,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-31,4,6,24,6,7,1,0,1,1,1,0,1,1,1,Subconjunctival hemorrhage,Mild,1,2024-12-10,Poor
+LVPrasad_Hyderabad,LVP0245,Patient_LVPrasad_Hyderabad_245,MRN551490,77,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-07-06,2,6,36,6,11,1,0,1,1,1,0,0,0,0,,,1,2025-06-07,Good
+LVPrasad_Hyderabad,LVP0246,Patient_LVPrasad_Hyderabad_246,MRN496862,60,M,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-09-21,3,6,24,6,6,1,0,0,0,0,0,0,0,0,,,1,2024-09-19,Good
+LVPrasad_Hyderabad,LVP0247,Patient_LVPrasad_Hyderabad_247,MRN768533,83,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-10-15,4,6,60,6,15,1,1,0,0,1,1,0,0,0,,,1,2024-10-02,Excellent
+LVPrasad_Hyderabad,LVP0248,Patient_LVPrasad_Hyderabad_248,MRN631313,71,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-05-13,4,6,36,6,6,1,1,0,0,0,1,0,0,1,Transient IOP elevation,Mild,1,2025-04-14,Good
+LVPrasad_Hyderabad,LVP0249,Patient_LVPrasad_Hyderabad_249,MRN898981,60,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-02-16,5,6,60,6,22,0,0,0,0,0,0,0,0,0,,,1,2025-02-12,Fair
+LVPrasad_Hyderabad,LVP0250,Patient_LVPrasad_Hyderabad_250,MRN639141,78,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-01-03,6,6,24,6,10,1,1,0,1,0,1,0,1,0,,,0,,Poor
+LVPrasad_Hyderabad,LVP0251,Patient_LVPrasad_Hyderabad_251,MRN805783,70,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-03-28,7,6,36,6,17,0,1,1,1,0,1,0,1,0,,,1,2025-03-23,Excellent
+LVPrasad_Hyderabad,LVP0252,Patient_LVPrasad_Hyderabad_252,MRN423300,53,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-08-24,7,6,24,6,13,1,1,0,1,1,0,0,0,0,,,1,2024-08-10,Good
+LVPrasad_Hyderabad,LVP0253,Patient_LVPrasad_Hyderabad_253,MRN600509,87,F,DME,None,None,Aflibercept,2025-02-17,2,6,18,6,6,1,1,1,1,0,1,1,1,0,,,1,2025-02-06,Fair
+LVPrasad_Hyderabad,LVP0254,Patient_LVPrasad_Hyderabad_254,MRN326560,68,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-11-18,6,6,18,6,6,1,1,0,1,0,1,0,1,0,,,1,2024-10-25,Good
+LVPrasad_Hyderabad,LVP0255,Patient_LVPrasad_Hyderabad_255,MRN504542,65,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-03-30,6,6,36,6,18,1,1,0,1,0,1,0,1,0,,,1,2025-03-14,Good
+LVPrasad_Hyderabad,LVP0256,Patient_LVPrasad_Hyderabad_256,MRN496679,54,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-07-16,4,6,12,6,6,1,0,0,1,0,0,0,1,0,,,1,2025-06-25,Fair
+LVPrasad_Hyderabad,LVP0257,Patient_LVPrasad_Hyderabad_257,MRN913595,79,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-05-03,6,6,24,6,12,0,0,1,0,0,0,0,0,0,,,0,,Fair
+LVPrasad_Hyderabad,LVP0258,Patient_LVPrasad_Hyderabad_258,MRN984568,71,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-07-12,8,6,18,6,10,0,1,0,1,0,0,0,0,0,,,1,2025-07-07,Good
+LVPrasad_Hyderabad,LVP0259,Patient_LVPrasad_Hyderabad_259,MRN747584,72,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-08-25,6,6,18,6,6,1,0,0,0,1,0,0,0,0,,,1,2024-08-14,Fair
+LVPrasad_Hyderabad,LVP0260,Patient_LVPrasad_Hyderabad_260,MRN638363,58,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-02-01,3,6,36,6,11,0,0,1,0,0,0,1,0,0,,,1,2025-01-25,Good
+LVPrasad_Hyderabad,LVP0261,Patient_LVPrasad_Hyderabad_261,MRN980677,75,M,AMD,None,None,Ranibizumab,2025-02-05,9,6,36,6,22,0,1,0,0,0,0,0,0,0,,,1,2025-01-24,Good
+LVPrasad_Hyderabad,LVP0262,Patient_LVPrasad_Hyderabad_262,MRN405459,75,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-09-25,7,6,24,6,10,1,0,0,0,0,0,0,0,0,,,1,2024-08-29,Excellent
+LVPrasad_Hyderabad,LVP0263,Patient_LVPrasad_Hyderabad_263,MRN203245,56,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-12-17,5,6,18,6,10,1,0,1,1,1,0,0,1,0,,,1,2024-11-30,Good
+LVPrasad_Hyderabad,LVP0264,Patient_LVPrasad_Hyderabad_264,MRN116010,47,M,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-10-18,6,6,24,6,12,1,1,0,0,0,0,0,0,0,,,1,2024-09-20,Excellent
+LVPrasad_Hyderabad,LVP0265,Patient_LVPrasad_Hyderabad_265,MRN297505,71,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-01-23,5,6,24,6,11,1,1,0,1,0,1,0,0,0,,,1,2024-12-26,Good
+LVPrasad_Hyderabad,LVP0266,Patient_LVPrasad_Hyderabad_266,MRN468692,46,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-05-23,3,6,18,6,6,1,1,1,0,0,1,1,0,0,,,1,2025-05-02,Fair
+LVPrasad_Hyderabad,LVP0267,Patient_LVPrasad_Hyderabad_267,MRN362749,66,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-11-25,11,6,18,6,10,1,1,0,0,0,0,0,0,0,,,1,2024-11-20,Fair
+LVPrasad_Hyderabad,LVP0268,Patient_LVPrasad_Hyderabad_268,MRN791805,59,M,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-07-10,3,6,24,6,8,1,1,0,0,1,1,0,0,0,,,1,2025-06-19,Excellent
+LVPrasad_Hyderabad,LVP0269,Patient_LVPrasad_Hyderabad_269,MRN399459,79,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-04-12,5,6,18,6,6,1,0,0,1,1,0,0,1,0,,,1,2025-03-20,Good
+LVPrasad_Hyderabad,LVP0270,Patient_LVPrasad_Hyderabad_270,MRN370796,60,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-07-24,3,6,24,6,7,1,0,0,1,0,0,0,1,0,,,0,,Good
+LVPrasad_Hyderabad,LVP0271,Patient_LVPrasad_Hyderabad_271,MRN608678,78,F,RVO,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-10-06,2,6,18,6,6,1,0,0,0,1,0,0,0,0,,,0,,Good
+LVPrasad_Hyderabad,LVP0272,Patient_LVPrasad_Hyderabad_272,MRN596776,58,M,AMD,None,None,Ranibizumab,2025-04-12,2,6,24,6,6,1,1,0,0,0,1,0,0,0,,,1,2025-03-29,Good
+LVPrasad_Hyderabad,LVP0273,Patient_LVPrasad_Hyderabad_273,MRN542317,76,F,AMD,None,None,Bevacizumab,2024-09-14,7,6,12,6,7,1,1,0,1,0,1,0,0,0,,,1,2024-08-16,Fair
+LVPrasad_Hyderabad,LVP0274,Patient_LVPrasad_Hyderabad_274,MRN482323,89,F,RVO,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-11-20,5,6,60,6,26,1,1,0,0,1,1,0,0,1,Subconjunctival hemorrhage,Mild,1,2024-11-08,Excellent
+LVPrasad_Hyderabad,LVP0275,Patient_LVPrasad_Hyderabad_275,MRN317022,52,M,RVO,Diabetes,"Metformin, Insulin",Bevacizumab,2024-10-18,8,6,24,6,11,1,1,1,0,1,0,1,0,0,,,1,2024-09-26,Good
+LVPrasad_Hyderabad,LVP0276,Patient_LVPrasad_Hyderabad_276,MRN979871,68,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-04-06,5,6,12,6,6,1,0,1,0,1,0,0,0,0,,,1,2025-03-28,Excellent
+LVPrasad_Hyderabad,LVP0277,Patient_LVPrasad_Hyderabad_277,MRN704554,90,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-05-25,6,6,24,6,10,0,1,1,0,0,1,1,0,1,Floaters,Mild,1,2025-05-10,Excellent
+LVPrasad_Hyderabad,LVP0278,Patient_LVPrasad_Hyderabad_278,MRN531140,65,M,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-02-08,6,6,36,6,16,0,1,0,0,0,1,0,0,0,,,0,,Poor
+LVPrasad_Hyderabad,LVP0279,Patient_LVPrasad_Hyderabad_279,MRN662829,65,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-05-14,4,6,36,6,10,1,1,0,0,0,1,0,0,0,,,1,2025-05-09,Good
+LVPrasad_Hyderabad,LVP0280,Patient_LVPrasad_Hyderabad_280,MRN426802,74,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-06-08,6,6,36,6,12,1,1,0,1,1,1,0,0,0,,,1,2025-06-02,Good
+LVPrasad_Hyderabad,LVP0281,Patient_LVPrasad_Hyderabad_281,MRN680615,65,F,AMD,None,None,Aflibercept,2025-06-17,7,6,18,6,12,1,1,1,1,1,0,0,1,0,,,1,2025-06-12,Fair
+LVPrasad_Hyderabad,LVP0282,Patient_LVPrasad_Hyderabad_282,MRN717722,44,F,RVO,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-11-03,7,6,24,6,14,1,1,0,1,0,0,0,0,0,,,1,2024-10-16,Excellent
+LVPrasad_Hyderabad,LVP0283,Patient_LVPrasad_Hyderabad_283,MRN667942,78,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-11-05,3,6,36,6,7,1,1,0,1,1,0,0,1,0,,,1,2024-10-08,Good
+LVPrasad_Hyderabad,LVP0284,Patient_LVPrasad_Hyderabad_284,MRN640218,40,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-02-01,7,6,24,6,12,0,0,0,1,0,0,0,1,0,,,1,2025-01-24,Fair
+LVPrasad_Hyderabad,LVP0285,Patient_LVPrasad_Hyderabad_285,MRN758878,59,F,AMD,None,None,Ranibizumab,2024-11-11,6,6,36,6,14,1,0,0,1,1,0,0,0,0,,,1,2024-10-16,Fair
+LVPrasad_Hyderabad,LVP0286,Patient_LVPrasad_Hyderabad_286,MRN786342,79,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-07,7,6,18,6,9,1,0,0,1,0,0,0,1,0,,,0,,Good
+LVPrasad_Hyderabad,LVP0287,Patient_LVPrasad_Hyderabad_287,MRN631063,60,F,DME,None,None,Ranibizumab,2025-05-28,3,6,18,6,6,1,0,0,0,1,0,0,0,0,,,1,2025-05-17,Good
+LVPrasad_Hyderabad,LVP0288,Patient_LVPrasad_Hyderabad_288,MRN517206,56,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-04-12,4,6,36,6,8,0,1,0,0,0,1,0,0,0,,,1,2025-03-19,Fair
+LVPrasad_Hyderabad,LVP0289,Patient_LVPrasad_Hyderabad_289,MRN105378,75,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-10-06,7,6,24,6,13,1,1,1,1,0,0,0,0,0,,,1,2024-09-15,Good
+LVPrasad_Hyderabad,LVP0290,Patient_LVPrasad_Hyderabad_290,MRN932834,54,M,AMD,None,None,Aflibercept,2025-07-14,9,6,12,6,6,0,1,0,1,0,0,0,1,0,,,1,2025-06-22,Excellent
+LVPrasad_Hyderabad,LVP0291,Patient_LVPrasad_Hyderabad_291,MRN565196,50,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-10-13,6,6,18,6,6,0,1,1,1,0,1,1,1,0,,,1,2024-09-25,Good
+LVPrasad_Hyderabad,LVP0292,Patient_LVPrasad_Hyderabad_292,MRN179712,68,F,AMD,None,None,Bevacizumab,2025-07-19,8,6,36,6,23,1,1,0,1,0,0,0,1,0,,,1,2025-06-23,Good
+LVPrasad_Hyderabad,LVP0293,Patient_LVPrasad_Hyderabad_293,MRN387204,62,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-05-04,2,6,12,6,6,1,0,0,0,0,0,0,0,0,,,1,2025-04-05,Excellent
+LVPrasad_Hyderabad,LVP0294,Patient_LVPrasad_Hyderabad_294,MRN751355,50,F,DME,None,None,Ranibizumab,2024-10-07,7,6,12,6,7,0,1,0,0,0,0,0,0,0,,,1,2024-09-23,Good
+LVPrasad_Hyderabad,LVP0295,Patient_LVPrasad_Hyderabad_295,MRN333103,72,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-01-20,4,6,18,6,6,0,1,0,1,0,1,0,1,0,,,1,2025-01-10,Fair
+LVPrasad_Hyderabad,LVP0296,Patient_LVPrasad_Hyderabad_296,MRN490478,70,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-06-26,3,6,60,6,18,1,1,0,0,0,1,0,0,0,,,0,,Good
+LVPrasad_Hyderabad,LVP0297,Patient_LVPrasad_Hyderabad_297,MRN622554,60,F,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-11-27,5,6,60,6,28,1,1,0,0,1,0,0,0,0,,,1,2024-11-11,Excellent
+LVPrasad_Hyderabad,LVP0298,Patient_LVPrasad_Hyderabad_298,MRN802353,61,F,RVO,Diabetes,"Metformin, Insulin",Bevacizumab,2025-07-17,3,6,24,6,6,1,0,0,1,1,0,0,0,0,,,1,2025-07-11,Good
+LVPrasad_Hyderabad,LVP0299,Patient_LVPrasad_Hyderabad_299,MRN193104,70,M,AMD,None,None,Ranibizumab,2025-05-21,3,6,24,6,6,1,1,0,0,0,1,0,0,0,,,1,2025-05-05,Fair
+LVPrasad_Hyderabad,LVP0300,Patient_LVPrasad_Hyderabad_300,MRN909197,79,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-01-12,6,6,18,6,7,0,1,0,1,0,1,0,1,0,,,1,2024-12-27,Excellent
+LVPrasad_Hyderabad,LVP0301,Patient_LVPrasad_Hyderabad_301,MRN814413,61,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-01-26,7,6,18,6,10,1,1,0,1,1,0,0,0,0,,,1,2024-12-30,Excellent
+LVPrasad_Hyderabad,LVP0302,Patient_LVPrasad_Hyderabad_302,MRN589554,72,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-01-25,5,6,36,6,16,1,1,0,0,1,0,0,0,0,,,1,2024-12-31,Good
+LVPrasad_Hyderabad,LVP0303,Patient_LVPrasad_Hyderabad_303,MRN516412,71,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-03-02,5,6,18,6,7,1,1,0,0,0,0,0,0,0,,,0,,Excellent
+LVPrasad_Hyderabad,LVP0304,Patient_LVPrasad_Hyderabad_304,MRN478821,75,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-01-15,3,6,24,6,6,0,0,1,0,0,0,1,0,0,,,1,2024-12-25,Poor
+LVPrasad_Hyderabad,LVP0305,Patient_LVPrasad_Hyderabad_305,MRN246540,65,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-06-28,6,6,24,6,11,1,0,0,1,0,0,0,1,0,,,1,2025-06-17,Good
+LVPrasad_Hyderabad,LVP0306,Patient_LVPrasad_Hyderabad_306,MRN194385,54,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-11-05,6,6,18,6,7,1,0,0,0,0,0,0,0,0,,,1,2024-10-16,Good
+LVPrasad_Hyderabad,LVP0307,Patient_LVPrasad_Hyderabad_307,MRN464793,59,F,DME,None,None,Bevacizumab,2024-11-09,5,6,24,6,12,0,0,1,0,0,0,1,0,0,,,1,2024-10-11,Fair
+LVPrasad_Hyderabad,LVP0308,Patient_LVPrasad_Hyderabad_308,MRN370318,69,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-10-30,4,6,24,6,6,0,1,1,1,0,0,1,1,0,,,1,2024-10-12,Good
+LVPrasad_Hyderabad,LVP0309,Patient_LVPrasad_Hyderabad_309,MRN670108,86,M,AMD,None,None,Aflibercept,2025-06-03,5,6,36,6,15,1,0,1,0,0,0,1,0,0,,,1,2025-05-22,Excellent
+LVPrasad_Hyderabad,LVP0310,Patient_LVPrasad_Hyderabad_310,MRN750806,59,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-08-01,6,6,18,6,7,1,1,1,0,1,0,0,0,0,,,1,2025-07-17,Good
+LVPrasad_Hyderabad,LVP0311,Patient_LVPrasad_Hyderabad_311,MRN774458,74,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-07-05,4,6,18,6,6,0,1,1,0,0,0,1,0,0,,,1,2025-06-18,Fair
+LVPrasad_Hyderabad,LVP0312,Patient_LVPrasad_Hyderabad_312,MRN434726,61,M,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-05-07,4,6,24,6,6,1,0,1,0,1,0,1,0,0,,,1,2025-04-14,Excellent
+LVPrasad_Hyderabad,LVP0313,Patient_LVPrasad_Hyderabad_313,MRN235258,66,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-04-01,4,6,60,6,12,0,1,0,1,0,1,0,1,0,,,1,2025-03-06,Good
+LVPrasad_Hyderabad,LVP0314,Patient_LVPrasad_Hyderabad_314,MRN641010,83,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-07-30,6,6,18,6,7,0,1,1,0,0,0,0,0,0,,,1,2025-07-12,Good
+LVPrasad_Hyderabad,LVP0315,Patient_LVPrasad_Hyderabad_315,MRN470301,74,M,DME,None,None,Aflibercept,2024-11-20,4,6,60,6,15,1,1,1,0,1,0,1,0,0,,,0,,Good
+LVPrasad_Hyderabad,LVP0316,Patient_LVPrasad_Hyderabad_316,MRN695792,50,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-07-10,3,6,36,6,6,1,1,1,1,0,0,0,1,0,,,1,2025-06-20,Fair
+LVPrasad_Hyderabad,LVP0317,Patient_LVPrasad_Hyderabad_317,MRN210760,58,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-06-23,4,6,36,6,9,1,0,1,1,0,0,1,1,0,,,1,2025-06-15,Fair
+LVPrasad_Hyderabad,LVP0318,Patient_LVPrasad_Hyderabad_318,MRN664740,80,F,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-02-05,6,6,12,6,6,1,1,0,0,1,1,0,0,0,,,1,2025-01-13,Fair
+LVPrasad_Hyderabad,LVP0319,Patient_LVPrasad_Hyderabad_319,MRN390414,66,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-05-04,4,6,18,6,6,1,1,0,1,0,0,0,1,0,,,0,,Fair
+LVPrasad_Hyderabad,LVP0320,Patient_LVPrasad_Hyderabad_320,MRN803671,51,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-02-25,3,6,12,6,6,1,1,1,1,1,1,1,1,0,,,1,2025-02-07,Poor
+LVPrasad_Hyderabad,LVP0321,Patient_LVPrasad_Hyderabad_321,MRN620971,55,M,DME,None,None,Bevacizumab,2025-01-10,6,6,18,6,9,1,1,0,0,1,1,0,0,0,,,1,2025-01-03,Excellent
+LVPrasad_Hyderabad,LVP0322,Patient_LVPrasad_Hyderabad_322,MRN403273,73,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-12-08,6,6,60,6,22,1,0,1,1,0,0,1,0,0,,,1,2024-11-12,Excellent
+LVPrasad_Hyderabad,LVP0323,Patient_LVPrasad_Hyderabad_323,MRN860169,76,F,AMD,None,None,Ranibizumab,2025-05-07,3,6,18,6,6,1,0,0,1,1,0,0,1,0,,,1,2025-05-05,Good
+LVPrasad_Hyderabad,LVP0324,Patient_LVPrasad_Hyderabad_324,MRN106387,65,F,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-09-23,4,6,24,6,8,0,1,1,0,0,1,1,0,0,,,1,2024-09-16,Good
+LVPrasad_Hyderabad,LVP0325,Patient_LVPrasad_Hyderabad_325,MRN648682,90,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-10-13,2,6,12,6,6,1,1,1,1,1,1,1,1,0,,,1,2024-09-28,Good
+LVPrasad_Hyderabad,LVP0326,Patient_LVPrasad_Hyderabad_326,MRN438971,74,M,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-11-12,3,6,36,6,12,1,1,0,1,0,0,0,1,0,,,1,2024-10-19,Good
+LVPrasad_Hyderabad,LVP0327,Patient_LVPrasad_Hyderabad_327,MRN473254,62,M,AMD,None,None,Aflibercept,2025-05-13,5,6,18,6,10,1,0,0,1,1,0,0,0,0,,,1,2025-05-05,Excellent
+LVPrasad_Hyderabad,LVP0328,Patient_LVPrasad_Hyderabad_328,MRN876524,55,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-11-12,7,6,18,6,9,1,0,0,0,0,0,0,0,0,,,1,2024-10-22,Good
+LVPrasad_Hyderabad,LVP0329,Patient_LVPrasad_Hyderabad_329,MRN610916,53,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-10-20,4,6,18,6,6,0,0,1,0,0,0,1,0,0,,,1,2024-10-09,Poor
+LVPrasad_Hyderabad,LVP0330,Patient_LVPrasad_Hyderabad_330,MRN287708,69,F,AMD,None,None,Aflibercept,2025-07-06,2,6,36,6,13,0,0,1,1,0,0,0,1,0,,,0,,Good
+LVPrasad_Hyderabad,LVP0331,Patient_LVPrasad_Hyderabad_331,MRN561362,59,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-07-24,6,6,18,6,7,0,1,0,0,0,1,0,0,0,,,1,2025-07-01,Excellent
+LVPrasad_Hyderabad,LVP0332,Patient_LVPrasad_Hyderabad_332,MRN135241,85,F,DME,None,None,Bevacizumab,2025-05-26,7,6,18,6,11,1,1,0,1,1,0,0,0,0,,,1,2025-05-09,Fair
+LVPrasad_Hyderabad,LVP0333,Patient_LVPrasad_Hyderabad_333,MRN128337,82,F,DME,None,None,Ranibizumab,2024-08-17,3,6,12,6,6,1,0,1,0,0,0,0,0,0,,,1,2024-08-05,Good
+LVPrasad_Hyderabad,LVP0334,Patient_LVPrasad_Hyderabad_334,MRN987424,72,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-06-28,6,6,60,6,25,0,0,1,0,0,0,1,0,0,,,1,2025-06-02,Good
+LVPrasad_Hyderabad,LVP0335,Patient_LVPrasad_Hyderabad_335,MRN629092,50,M,DME,None,None,Bevacizumab,2025-04-24,8,6,24,6,12,1,0,0,1,0,0,0,1,0,,,1,2025-04-23,Good
+LVPrasad_Hyderabad,LVP0336,Patient_LVPrasad_Hyderabad_336,MRN568979,56,M,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-08-04,3,6,36,6,10,0,1,0,1,0,0,0,1,0,,,1,2025-07-19,Fair
+LVPrasad_Hyderabad,LVP0337,Patient_LVPrasad_Hyderabad_337,MRN157450,80,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-04-21,3,6,24,6,6,0,1,1,0,0,0,1,0,0,,,1,2025-03-31,Fair
+LVPrasad_Hyderabad,LVP0338,Patient_LVPrasad_Hyderabad_338,MRN159529,58,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-10-11,5,6,18,6,8,1,1,0,0,0,1,0,0,0,,,1,2024-09-27,Good
+LVPrasad_Hyderabad,LVP0339,Patient_LVPrasad_Hyderabad_339,MRN747054,78,F,RVO,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-10-08,5,6,24,6,11,1,1,1,1,0,1,1,1,0,,,1,2024-09-27,Good
+LVPrasad_Hyderabad,LVP0340,Patient_LVPrasad_Hyderabad_340,MRN917766,70,M,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-06-06,7,6,18,6,8,0,0,0,1,0,0,0,1,0,,,1,2025-05-30,Good
+LVPrasad_Hyderabad,LVP0341,Patient_LVPrasad_Hyderabad_341,MRN556750,65,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-11-19,9,6,24,6,11,0,0,1,1,0,0,1,1,0,,,1,2024-11-10,Excellent
+LVPrasad_Hyderabad,LVP0342,Patient_LVPrasad_Hyderabad_342,MRN687740,56,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-09-26,4,6,24,6,6,1,1,0,0,0,0,0,0,0,,,1,2024-09-12,Poor
+LVPrasad_Hyderabad,LVP0343,Patient_LVPrasad_Hyderabad_343,MRN871736,63,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-06-14,8,6,24,6,11,0,1,1,0,0,0,0,0,0,,,1,2025-06-04,Fair
+LVPrasad_Hyderabad,LVP0344,Patient_LVPrasad_Hyderabad_344,MRN499727,67,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-09-01,5,6,18,6,7,1,1,0,1,1,1,0,1,0,,,1,2024-08-14,Excellent
+LVPrasad_Hyderabad,LVP0345,Patient_LVPrasad_Hyderabad_345,MRN796325,77,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-08-23,6,6,12,6,7,1,1,0,1,1,1,0,1,0,,,1,2024-07-30,Fair
+LVPrasad_Hyderabad,LVP0346,Patient_LVPrasad_Hyderabad_346,MRN993450,54,F,RVO,None,None,Bevacizumab,2025-05-05,8,6,36,6,22,1,1,0,0,0,0,0,0,0,,,1,2025-04-15,Good
+LVPrasad_Hyderabad,LVP0347,Patient_LVPrasad_Hyderabad_347,MRN663728,61,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-03-02,10,6,36,6,23,1,0,1,1,0,0,0,1,0,,,1,2025-02-26,Poor
+LVPrasad_Hyderabad,LVP0348,Patient_LVPrasad_Hyderabad_348,MRN425262,65,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-12-07,2,6,12,6,6,1,1,0,0,1,1,0,0,0,,,1,2024-12-01,Fair
+LVPrasad_Hyderabad,LVP0349,Patient_LVPrasad_Hyderabad_349,MRN185263,72,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-09-03,3,6,18,6,6,0,1,0,1,0,1,0,1,0,,,1,2024-08-30,Excellent
+LVPrasad_Hyderabad,LVP0350,Patient_LVPrasad_Hyderabad_350,MRN226775,54,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-10-09,8,6,36,6,23,1,0,0,1,0,0,0,1,0,,,1,2024-10-04,Fair
+LVPrasad_Hyderabad,LVP0351,Patient_LVPrasad_Hyderabad_351,MRN149217,49,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-09-14,8,6,36,6,16,0,1,0,0,0,1,0,0,0,,,1,2024-09-01,Good
+LVPrasad_Hyderabad,LVP0352,Patient_LVPrasad_Hyderabad_352,MRN840690,73,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-01-12,6,6,60,6,22,1,1,0,1,0,1,0,1,0,,,1,2024-12-23,Excellent
+LVPrasad_Hyderabad,LVP0353,Patient_LVPrasad_Hyderabad_353,MRN168517,46,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-01-20,8,6,18,6,8,1,0,0,0,1,0,0,0,0,,,1,2025-01-09,Fair
+LVPrasad_Hyderabad,LVP0354,Patient_LVPrasad_Hyderabad_354,MRN243857,80,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-07-15,3,6,24,6,6,1,1,1,0,0,1,0,0,0,,,1,2025-07-13,Good
+LVPrasad_Hyderabad,LVP0355,Patient_LVPrasad_Hyderabad_355,MRN154740,63,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-04-15,4,6,18,6,6,1,0,1,1,0,0,1,1,0,,,1,2025-04-07,Excellent
+LVPrasad_Hyderabad,LVP0356,Patient_LVPrasad_Hyderabad_356,MRN725407,46,F,RVO,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-12-28,3,6,24,6,6,1,0,1,0,1,0,1,0,0,,,1,2024-12-20,Fair
+LVPrasad_Hyderabad,LVP0357,Patient_LVPrasad_Hyderabad_357,MRN825992,59,M,DME,None,None,Bevacizumab,2025-01-18,4,6,18,6,7,0,0,1,1,0,0,1,1,0,,,0,,Fair
+LVPrasad_Hyderabad,LVP0358,Patient_LVPrasad_Hyderabad_358,MRN638238,69,M,RVO,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-07,6,6,18,6,7,1,0,0,0,0,0,0,0,0,,,1,2024-11-20,Excellent
+LVPrasad_Hyderabad,LVP0359,Patient_LVPrasad_Hyderabad_359,MRN557858,58,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-12-01,9,6,12,6,6,1,0,1,1,0,0,1,0,0,,,1,2024-11-17,Good
+LVPrasad_Hyderabad,LVP0360,Patient_LVPrasad_Hyderabad_360,MRN806529,65,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-11-27,4,6,24,6,6,1,0,0,0,0,0,0,0,0,,,0,,Good
+LVPrasad_Hyderabad,LVP0361,Patient_LVPrasad_Hyderabad_361,MRN696497,73,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-04-13,6,6,24,6,9,0,1,0,1,0,0,0,1,0,,,1,2025-03-17,Excellent
+LVPrasad_Hyderabad,LVP0362,Patient_LVPrasad_Hyderabad_362,MRN167278,62,F,RVO,None,None,Bevacizumab,2025-07-07,3,6,24,6,6,0,0,0,1,0,0,0,1,0,,,1,2025-06-15,Fair
+LVPrasad_Hyderabad,LVP0363,Patient_LVPrasad_Hyderabad_363,MRN138488,53,F,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-10-03,7,6,36,6,18,0,1,0,1,0,1,0,1,0,,,1,2024-09-18,Excellent
+LVPrasad_Hyderabad,LVP0364,Patient_LVPrasad_Hyderabad_364,MRN398421,61,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-01-26,5,6,36,6,19,0,0,0,1,0,0,0,1,0,,,1,2025-01-21,Excellent
+LVPrasad_Hyderabad,LVP0365,Patient_LVPrasad_Hyderabad_365,MRN276113,81,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-11-24,7,6,24,6,13,1,1,0,0,1,0,0,0,0,,,1,2024-11-10,Excellent
+LVPrasad_Hyderabad,LVP0366,Patient_LVPrasad_Hyderabad_366,MRN876434,85,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-05-19,8,6,60,6,27,0,0,1,0,0,0,0,0,0,,,1,2025-05-12,Good
+LVPrasad_Hyderabad,LVP0367,Patient_LVPrasad_Hyderabad_367,MRN889966,40,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-07-20,3,6,24,6,6,0,0,0,1,0,0,0,0,0,,,1,2025-06-26,Fair
+LVPrasad_Hyderabad,LVP0368,Patient_LVPrasad_Hyderabad_368,MRN704509,78,F,AMD,None,None,Ranibizumab,2025-05-28,9,6,18,6,11,1,0,0,1,0,0,0,1,0,,,1,2025-05-14,Good
+LVPrasad_Hyderabad,LVP0369,Patient_LVPrasad_Hyderabad_369,MRN301744,68,M,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-03-30,2,6,60,6,14,1,1,0,0,1,0,0,0,0,,,1,2025-03-03,Good
+LVPrasad_Hyderabad,LVP0370,Patient_LVPrasad_Hyderabad_370,MRN171121,76,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-02-25,4,6,12,6,6,1,1,0,0,0,1,0,0,0,,,1,2025-02-15,Fair
+LVPrasad_Hyderabad,LVP0371,Patient_LVPrasad_Hyderabad_371,MRN586110,58,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-04-23,5,6,24,6,10,1,0,0,1,0,0,0,1,0,,,1,2025-03-28,Excellent
+LVPrasad_Hyderabad,LVP0372,Patient_LVPrasad_Hyderabad_372,MRN623121,43,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-07-05,2,6,18,6,6,0,0,0,1,0,0,0,1,0,,,1,2025-06-13,Good
+LVPrasad_Hyderabad,LVP0373,Patient_LVPrasad_Hyderabad_373,MRN436234,72,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-06-21,12,6,24,6,10,0,0,0,1,0,0,0,1,0,,,1,2025-05-24,Excellent
+LVPrasad_Hyderabad,LVP0374,Patient_LVPrasad_Hyderabad_374,MRN209777,53,F,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-05-31,2,6,24,6,6,0,0,1,0,0,0,1,0,0,,,1,2025-05-12,Excellent
+LVPrasad_Hyderabad,LVP0375,Patient_LVPrasad_Hyderabad_375,MRN625922,48,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-06-10,5,6,18,6,7,1,1,1,0,1,1,0,0,0,,,1,2025-05-24,Good
+LVPrasad_Hyderabad,LVP0376,Patient_LVPrasad_Hyderabad_376,MRN379052,49,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-02-13,9,6,24,6,13,0,1,0,0,0,0,0,0,0,,,1,2025-01-16,Excellent
+LVPrasad_Hyderabad,LVP0377,Patient_LVPrasad_Hyderabad_377,MRN514526,72,F,RVO,Diabetes,"Metformin, Insulin",Bevacizumab,2024-12-14,9,6,36,6,16,1,1,0,0,0,1,0,0,0,,,1,2024-12-10,Good
+LVPrasad_Hyderabad,LVP0378,Patient_LVPrasad_Hyderabad_378,MRN442797,66,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-12-22,7,6,18,6,9,0,0,1,1,0,0,1,1,0,,,1,2024-11-27,Fair
+LVPrasad_Hyderabad,LVP0379,Patient_LVPrasad_Hyderabad_379,MRN953690,74,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-09-12,5,6,18,6,7,1,1,0,1,1,1,0,1,0,,,1,2024-08-15,Excellent
+LVPrasad_Hyderabad,LVP0380,Patient_LVPrasad_Hyderabad_380,MRN305219,73,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-08-04,3,6,18,6,6,1,0,0,0,1,0,0,0,0,,,1,2025-08-03,Fair
+LVPrasad_Hyderabad,LVP0381,Patient_LVPrasad_Hyderabad_381,MRN816932,59,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-04-10,2,6,36,6,7,1,0,0,0,1,0,0,0,0,,,1,2025-03-13,Fair
+LVPrasad_Hyderabad,LVP0382,Patient_LVPrasad_Hyderabad_382,MRN351917,64,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-07-06,4,6,36,6,9,1,1,1,0,1,0,0,0,0,,,1,2025-06-22,Good
+LVPrasad_Hyderabad,LVP0383,Patient_LVPrasad_Hyderabad_383,MRN955832,58,F,AMD,None,None,Bevacizumab,2025-05-30,4,6,36,6,7,1,0,0,1,1,0,0,1,0,,,0,,Good
+LVPrasad_Hyderabad,LVP0384,Patient_LVPrasad_Hyderabad_384,MRN297675,62,F,RVO,None,None,Bevacizumab,2025-07-12,3,6,18,6,6,1,1,1,0,1,0,0,0,0,,,1,2025-07-09,Good
+LVPrasad_Hyderabad,LVP0385,Patient_LVPrasad_Hyderabad_385,MRN322584,53,M,DME,None,None,Bevacizumab,2024-10-12,2,6,12,6,6,1,1,0,0,1,1,0,0,0,,,1,2024-09-15,Excellent
+LVPrasad_Hyderabad,LVP0386,Patient_LVPrasad_Hyderabad_386,MRN335814,69,F,DME,None,None,Aflibercept,2024-10-30,8,6,18,6,12,1,0,0,1,0,0,0,0,0,,,1,2024-10-25,Poor
+LVPrasad_Hyderabad,LVP0387,Patient_LVPrasad_Hyderabad_387,MRN216107,77,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-06-07,9,6,18,6,8,1,1,0,1,0,1,0,0,0,,,1,2025-05-27,Good
+LVPrasad_Hyderabad,LVP0388,Patient_LVPrasad_Hyderabad_388,MRN602845,55,F,AMD,None,None,Aflibercept,2025-04-18,5,6,24,6,10,1,0,1,1,1,0,1,0,0,,,1,2025-04-13,Fair
+LVPrasad_Hyderabad,LVP0389,Patient_LVPrasad_Hyderabad_389,MRN832724,80,F,DME,None,None,Ranibizumab,2024-09-26,7,6,60,6,39,1,0,1,0,0,0,1,0,0,,,1,2024-09-04,Fair
+LVPrasad_Hyderabad,LVP0390,Patient_LVPrasad_Hyderabad_390,MRN736724,66,M,RVO,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-08-27,2,6,18,6,6,0,1,0,1,0,0,0,1,0,,,1,2024-08-03,Excellent
+LVPrasad_Hyderabad,LVP0391,Patient_LVPrasad_Hyderabad_391,MRN393275,67,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-07-25,6,6,60,6,22,0,1,0,0,0,0,0,0,0,,,1,2025-07-06,Good
+LVPrasad_Hyderabad,LVP0392,Patient_LVPrasad_Hyderabad_392,MRN513602,44,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-07-05,6,6,12,6,6,1,0,0,1,0,0,0,1,0,,,1,2025-06-11,Excellent
+LVPrasad_Hyderabad,LVP0393,Patient_LVPrasad_Hyderabad_393,MRN542997,43,M,AMD,None,None,Bevacizumab,2025-01-04,6,6,60,6,28,0,1,0,1,0,0,0,1,0,,,1,2024-12-26,Fair
+LVPrasad_Hyderabad,LVP0394,Patient_LVPrasad_Hyderabad_394,MRN423904,66,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-12-08,11,6,18,6,11,0,1,0,1,0,0,0,0,0,,,1,2024-12-02,Fair
+LVPrasad_Hyderabad,LVP0395,Patient_LVPrasad_Hyderabad_395,MRN604962,74,F,DME,None,None,Aflibercept,2024-12-03,3,6,60,6,19,1,0,0,0,0,0,0,0,0,,,1,2024-11-12,Good
+LVPrasad_Hyderabad,LVP0396,Patient_LVPrasad_Hyderabad_396,MRN429514,56,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-08-30,4,6,12,6,6,1,1,1,1,1,0,0,1,0,,,1,2024-08-09,Excellent
+LVPrasad_Hyderabad,LVP0397,Patient_LVPrasad_Hyderabad_397,MRN491985,85,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-01-20,6,6,60,6,27,1,1,0,0,0,1,0,0,0,,,1,2024-12-28,Excellent
+LVPrasad_Hyderabad,LVP0398,Patient_LVPrasad_Hyderabad_398,MRN154470,73,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-06-23,6,6,18,6,8,1,1,0,0,0,1,0,0,0,,,1,2025-05-28,Fair
+LVPrasad_Hyderabad,LVP0399,Patient_LVPrasad_Hyderabad_399,MRN415427,54,F,DME,None,None,Bevacizumab,2024-09-19,3,6,18,6,6,1,0,0,0,0,0,0,0,0,,,1,2024-09-16,Poor

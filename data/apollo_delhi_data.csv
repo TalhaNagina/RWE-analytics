@@ -1,0 +1,501 @@
+hospital_id,patient_id,patient_name,mrn,age,gender,diagnosis,comorbidities,concomitant_medications,molecule,treatment_start_date,injections_per_year,bcva_baseline_numerator,bcva_baseline_denominator,bcva_6m_numerator,bcva_6m_denominator,irf_baseline,srf_baseline,hard_exudates_baseline,hrf_baseline,irf_6m,srf_6m,hard_exudates_6m,hrf_6m,adverse_events,event_type,event_severity,consent_provided,consent_date,follow_up_compliance
+Apollo_Delhi,APO0000,Patient_Apollo_Delhi_0,MRN221958,54,M,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-12-02,5,6,24,6,12,1,0,1,0,1,0,1,0,0,,,1,2024-11-14,Fair
+Apollo_Delhi,APO0001,Patient_Apollo_Delhi_1,MRN771155,60,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-10-02,9,6,18,6,10,1,1,0,0,1,1,0,0,0,,,1,2024-09-22,Fair
+Apollo_Delhi,APO0002,Patient_Apollo_Delhi_2,MRN231932,83,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-09-06,4,6,18,6,6,1,0,1,0,0,0,1,0,0,,,0,,Good
+Apollo_Delhi,APO0003,Patient_Apollo_Delhi_3,MRN465838,66,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-12-16,8,6,18,6,8,1,0,0,1,0,0,0,1,0,,,1,2024-12-03,Fair
+Apollo_Delhi,APO0004,Patient_Apollo_Delhi_4,MRN359178,71,F,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-05-24,7,6,60,6,30,1,0,0,0,1,0,0,0,0,,,1,2025-05-08,Good
+Apollo_Delhi,APO0005,Patient_Apollo_Delhi_5,MRN744167,49,M,AMD,None,None,Bevacizumab,2025-05-10,7,6,18,6,11,0,1,0,0,0,0,0,0,0,,,1,2025-05-06,Excellent
+Apollo_Delhi,APO0006,Patient_Apollo_Delhi_6,MRN210268,90,M,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-06-22,4,6,18,6,6,0,1,0,1,0,1,0,0,0,,,1,2025-05-24,Excellent
+Apollo_Delhi,APO0007,Patient_Apollo_Delhi_7,MRN832180,87,M,RVO,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-12-31,3,6,24,6,6,1,0,1,1,1,0,1,1,0,,,1,2024-12-14,Excellent
+Apollo_Delhi,APO0008,Patient_Apollo_Delhi_8,MRN154886,81,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-11-18,6,6,18,6,6,0,1,0,1,0,0,0,0,0,,,1,2024-10-22,Good
+Apollo_Delhi,APO0009,Patient_Apollo_Delhi_9,MRN237337,74,F,RVO,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-21,5,6,12,6,6,1,0,0,0,1,0,0,0,0,,,1,2024-12-06,Good
+Apollo_Delhi,APO0010,Patient_Apollo_Delhi_10,MRN621430,65,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-09-29,8,6,18,6,11,1,1,0,1,0,0,0,1,0,,,1,2024-09-17,Fair
+Apollo_Delhi,APO0011,Patient_Apollo_Delhi_11,MRN187498,70,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-03-05,4,6,24,6,6,0,1,1,1,0,0,1,1,0,,,1,2025-02-12,Fair
+Apollo_Delhi,APO0012,Patient_Apollo_Delhi_12,MRN999159,77,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-09-29,4,6,24,6,8,1,1,1,0,0,1,0,0,0,,,1,2024-09-02,Excellent
+Apollo_Delhi,APO0013,Patient_Apollo_Delhi_13,MRN275203,57,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-10-01,6,6,18,6,6,1,1,1,0,0,0,0,0,0,,,1,2024-09-22,Good
+Apollo_Delhi,APO0014,Patient_Apollo_Delhi_14,MRN291335,59,F,DME,None,None,Aflibercept,2024-10-14,6,6,24,6,10,1,0,1,0,0,0,1,0,0,,,1,2024-09-16,Good
+Apollo_Delhi,APO0015,Patient_Apollo_Delhi_15,MRN378167,44,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-11-02,3,6,60,6,15,1,1,0,0,0,0,0,0,0,,,1,2024-10-27,Good
+Apollo_Delhi,APO0016,Patient_Apollo_Delhi_16,MRN141090,55,M,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-06-21,4,6,18,6,6,1,1,0,0,1,0,0,0,0,,,1,2025-06-17,Excellent
+Apollo_Delhi,APO0017,Patient_Apollo_Delhi_17,MRN429365,84,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-06-20,7,6,18,6,9,0,1,0,0,0,0,0,0,0,,,1,2025-06-03,Excellent
+Apollo_Delhi,APO0018,Patient_Apollo_Delhi_18,MRN164820,60,M,DME,None,None,Aflibercept,2024-10-08,7,6,18,6,9,1,1,0,1,1,1,0,0,0,,,1,2024-10-05,Poor
+Apollo_Delhi,APO0019,Patient_Apollo_Delhi_19,MRN887201,61,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-11-14,4,6,24,6,7,1,0,1,1,1,0,1,1,0,,,1,2024-10-28,Fair
+Apollo_Delhi,APO0020,Patient_Apollo_Delhi_20,MRN421879,68,M,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-01-18,6,6,36,6,19,1,1,0,1,1,0,0,1,0,,,1,2025-01-09,Excellent
+Apollo_Delhi,APO0021,Patient_Apollo_Delhi_21,MRN818315,45,F,DME,None,None,Ranibizumab,2025-01-04,3,6,18,6,6,0,1,1,1,0,0,0,0,0,,,1,2025-01-03,Good
+Apollo_Delhi,APO0022,Patient_Apollo_Delhi_22,MRN427069,76,F,AMD,None,None,Aflibercept,2025-02-07,5,6,36,6,19,0,0,0,0,0,0,0,0,0,,,1,2025-01-21,Good
+Apollo_Delhi,APO0023,Patient_Apollo_Delhi_23,MRN876997,80,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-02-14,2,6,12,6,6,1,0,0,1,1,0,0,0,0,,,1,2025-02-12,Fair
+Apollo_Delhi,APO0024,Patient_Apollo_Delhi_24,MRN299041,69,F,AMD,None,None,Aflibercept,2025-07-28,5,6,24,6,11,1,0,0,1,1,0,0,1,0,,,1,2025-07-06,Good
+Apollo_Delhi,APO0025,Patient_Apollo_Delhi_25,MRN891743,84,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-02-05,3,6,36,6,11,1,1,1,0,1,1,1,0,0,,,1,2025-01-19,Excellent
+Apollo_Delhi,APO0026,Patient_Apollo_Delhi_26,MRN203355,49,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-11-25,3,6,18,6,6,1,1,1,1,0,1,0,1,0,,,1,2024-11-23,Fair
+Apollo_Delhi,APO0027,Patient_Apollo_Delhi_27,MRN335796,87,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-07-02,5,6,24,6,8,1,0,1,1,1,0,1,0,0,,,1,2025-06-07,Good
+Apollo_Delhi,APO0028,Patient_Apollo_Delhi_28,MRN314176,56,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-04-08,11,6,18,6,8,1,0,0,1,1,0,0,1,0,,,1,2025-04-06,Good
+Apollo_Delhi,APO0029,Patient_Apollo_Delhi_29,MRN284779,49,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-08-25,8,6,36,6,18,0,1,1,1,0,0,1,1,0,,,1,2024-08-16,Good
+Apollo_Delhi,APO0030,Patient_Apollo_Delhi_30,MRN447449,62,M,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-08-26,8,6,12,6,8,0,1,0,0,0,0,0,0,0,,,1,2024-08-06,Good
+Apollo_Delhi,APO0031,Patient_Apollo_Delhi_31,MRN521909,87,M,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-07-21,3,6,36,6,10,0,0,0,0,0,0,0,0,0,,,1,2025-06-22,Good
+Apollo_Delhi,APO0032,Patient_Apollo_Delhi_32,MRN358795,64,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-11-03,3,6,18,6,6,1,0,1,0,1,0,1,0,0,,,1,2024-10-28,Good
+Apollo_Delhi,APO0033,Patient_Apollo_Delhi_33,MRN586232,53,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-02-20,5,6,36,6,15,1,1,0,1,0,1,0,0,0,,,1,2025-01-26,Good
+Apollo_Delhi,APO0034,Patient_Apollo_Delhi_34,MRN600186,49,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-04-30,2,6,18,6,6,1,0,1,1,0,0,1,1,0,,,1,2025-04-18,Excellent
+Apollo_Delhi,APO0035,Patient_Apollo_Delhi_35,MRN256730,63,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-10-02,6,6,36,6,16,1,0,0,1,1,0,0,1,0,,,1,2024-09-27,Fair
+Apollo_Delhi,APO0036,Patient_Apollo_Delhi_36,MRN970910,41,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-11-12,5,6,18,6,7,1,1,0,0,0,0,0,0,0,,,1,2024-11-07,Excellent
+Apollo_Delhi,APO0037,Patient_Apollo_Delhi_37,MRN484681,49,M,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-09-13,10,6,60,6,32,1,1,1,0,0,1,1,0,0,,,1,2024-08-20,Excellent
+Apollo_Delhi,APO0038,Patient_Apollo_Delhi_38,MRN249503,83,M,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-11-02,9,6,18,6,8,1,0,0,1,0,0,0,1,0,,,1,2024-10-13,Fair
+Apollo_Delhi,APO0039,Patient_Apollo_Delhi_39,MRN754811,80,F,DME,None,None,Bevacizumab,2025-03-27,5,6,18,6,8,0,0,1,1,0,0,0,1,0,,,1,2025-03-04,Fair
+Apollo_Delhi,APO0040,Patient_Apollo_Delhi_40,MRN627035,63,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-08-17,2,6,24,6,6,0,0,0,0,0,0,0,0,0,,,1,2024-07-19,Fair
+Apollo_Delhi,APO0041,Patient_Apollo_Delhi_41,MRN748143,59,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-07-11,4,6,12,6,6,1,0,1,0,1,0,1,0,0,,,1,2025-06-22,Good
+Apollo_Delhi,APO0042,Patient_Apollo_Delhi_42,MRN552366,65,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-03-16,2,6,18,6,6,1,1,0,1,0,1,0,0,0,,,1,2025-02-21,Good
+Apollo_Delhi,APO0043,Patient_Apollo_Delhi_43,MRN165725,90,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-11-01,4,6,60,6,13,1,1,0,1,0,0,0,0,0,,,1,2024-10-11,Fair
+Apollo_Delhi,APO0044,Patient_Apollo_Delhi_44,MRN229981,69,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-10-15,3,6,60,6,18,1,1,0,0,0,0,0,0,0,,,1,2024-10-12,Fair
+Apollo_Delhi,APO0045,Patient_Apollo_Delhi_45,MRN184654,75,F,AMD,None,None,Bevacizumab,2025-04-20,6,6,18,6,9,1,1,0,0,1,0,0,0,0,,,1,2025-04-13,Good
+Apollo_Delhi,APO0046,Patient_Apollo_Delhi_46,MRN691723,62,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-03-14,6,6,60,6,21,0,1,1,1,0,1,1,1,1,Transient IOP elevation,Mild,1,2025-03-04,Poor
+Apollo_Delhi,APO0047,Patient_Apollo_Delhi_47,MRN419030,65,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-11-29,5,6,24,6,10,0,0,0,1,0,0,0,1,0,,,1,2024-11-06,Excellent
+Apollo_Delhi,APO0048,Patient_Apollo_Delhi_48,MRN428947,72,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-08-26,4,6,18,6,6,0,1,0,0,0,0,0,0,0,,,1,2024-08-24,Poor
+Apollo_Delhi,APO0049,Patient_Apollo_Delhi_49,MRN655839,66,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-04-01,4,6,36,6,12,1,1,0,0,1,1,0,0,0,,,1,2025-03-14,Fair
+Apollo_Delhi,APO0050,Patient_Apollo_Delhi_50,MRN373538,42,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-10-03,6,6,24,6,9,0,1,0,1,0,0,0,1,0,,,1,2024-09-10,Fair
+Apollo_Delhi,APO0051,Patient_Apollo_Delhi_51,MRN431236,80,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-05-06,2,6,60,6,17,1,0,1,0,1,0,0,0,0,,,1,2025-05-04,Poor
+Apollo_Delhi,APO0052,Patient_Apollo_Delhi_52,MRN628178,57,F,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-10-25,8,6,18,6,9,1,1,1,0,0,0,1,0,0,,,1,2024-10-21,Fair
+Apollo_Delhi,APO0053,Patient_Apollo_Delhi_53,MRN665894,90,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-27,6,6,24,6,10,1,1,0,1,1,1,0,1,0,,,1,2024-12-10,Excellent
+Apollo_Delhi,APO0054,Patient_Apollo_Delhi_54,MRN589492,73,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-03-08,5,6,12,6,6,0,1,1,0,0,1,0,0,1,Eye pain,Mild,1,2025-02-22,Good
+Apollo_Delhi,APO0055,Patient_Apollo_Delhi_55,MRN356840,65,F,RVO,None,None,Bevacizumab,2025-03-02,6,6,18,6,9,1,0,0,1,0,0,0,1,0,,,1,2025-02-14,Excellent
+Apollo_Delhi,APO0056,Patient_Apollo_Delhi_56,MRN573254,70,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-09-14,4,6,12,6,6,1,1,0,0,0,1,0,0,0,,,1,2024-08-20,Good
+Apollo_Delhi,APO0057,Patient_Apollo_Delhi_57,MRN449457,63,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-01-18,5,6,60,6,25,1,1,1,1,1,1,0,1,0,,,1,2025-01-17,Fair
+Apollo_Delhi,APO0058,Patient_Apollo_Delhi_58,MRN765987,59,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-06-17,3,6,36,6,9,1,1,0,0,0,1,0,0,0,,,1,2025-06-15,Good
+Apollo_Delhi,APO0059,Patient_Apollo_Delhi_59,MRN370936,67,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-04-16,8,6,36,6,24,0,1,1,0,0,0,1,0,0,,,1,2025-03-18,Good
+Apollo_Delhi,APO0060,Patient_Apollo_Delhi_60,MRN339931,75,F,DME,None,None,Bevacizumab,2024-10-22,5,6,24,6,12,1,0,1,0,1,0,0,0,0,,,1,2024-10-18,Good
+Apollo_Delhi,APO0061,Patient_Apollo_Delhi_61,MRN339629,59,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-01-19,10,6,18,6,9,1,0,0,1,0,0,0,1,0,,,1,2024-12-24,Fair
+Apollo_Delhi,APO0062,Patient_Apollo_Delhi_62,MRN305041,57,M,RVO,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-02-03,5,6,18,6,9,1,0,1,1,1,0,0,1,0,,,1,2025-01-06,Excellent
+Apollo_Delhi,APO0063,Patient_Apollo_Delhi_63,MRN798361,60,F,AMD,None,None,Bevacizumab,2024-09-22,5,6,18,6,8,1,1,1,0,0,0,1,0,0,,,1,2024-09-02,Good
+Apollo_Delhi,APO0064,Patient_Apollo_Delhi_64,MRN831912,76,M,RVO,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-02-12,8,6,18,6,8,1,0,0,1,1,0,0,0,0,,,1,2025-01-25,Excellent
+Apollo_Delhi,APO0065,Patient_Apollo_Delhi_65,MRN517113,82,F,AMD,None,None,Ranibizumab,2025-02-11,5,6,36,6,21,0,1,1,1,0,0,1,1,0,,,1,2025-01-21,Fair
+Apollo_Delhi,APO0066,Patient_Apollo_Delhi_66,MRN168148,69,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-11-01,7,6,24,6,11,1,1,0,1,0,0,0,1,0,,,1,2024-10-05,Excellent
+Apollo_Delhi,APO0067,Patient_Apollo_Delhi_67,MRN877089,71,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-04-27,3,6,12,6,6,1,0,1,0,1,0,0,0,0,,,1,2025-04-26,Fair
+Apollo_Delhi,APO0068,Patient_Apollo_Delhi_68,MRN748531,57,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-11-22,3,6,12,6,6,1,1,1,1,1,0,1,0,0,,,1,2024-11-11,Good
+Apollo_Delhi,APO0069,Patient_Apollo_Delhi_69,MRN351995,75,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-03-02,3,6,18,6,6,1,1,0,0,0,0,0,0,0,,,1,2025-02-23,Excellent
+Apollo_Delhi,APO0070,Patient_Apollo_Delhi_70,MRN778843,71,F,AMD,None,None,Aflibercept,2025-02-11,9,6,24,6,15,1,1,0,0,0,1,0,0,0,,,1,2025-01-21,Poor
+Apollo_Delhi,APO0071,Patient_Apollo_Delhi_71,MRN672843,56,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-11-10,7,6,60,6,34,1,1,1,1,0,0,1,1,0,,,1,2024-10-20,Excellent
+Apollo_Delhi,APO0072,Patient_Apollo_Delhi_72,MRN356508,43,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-11-09,2,6,24,6,7,0,1,0,1,0,0,0,1,0,,,1,2024-11-05,Good
+Apollo_Delhi,APO0073,Patient_Apollo_Delhi_73,MRN903591,50,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-09-12,3,6,36,6,7,1,0,0,0,1,0,0,0,0,,,1,2024-08-25,Excellent
+Apollo_Delhi,APO0074,Patient_Apollo_Delhi_74,MRN996942,56,F,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-04-17,3,6,24,6,7,1,1,0,0,0,1,0,0,0,,,1,2025-03-19,Good
+Apollo_Delhi,APO0075,Patient_Apollo_Delhi_75,MRN206530,78,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-07-17,6,6,18,6,8,1,0,0,1,1,0,0,0,0,,,1,2025-06-23,Good
+Apollo_Delhi,APO0076,Patient_Apollo_Delhi_76,MRN704365,83,M,AMD,None,None,Ranibizumab,2024-09-12,9,6,18,6,12,1,1,0,1,0,1,0,1,0,,,1,2024-08-16,Good
+Apollo_Delhi,APO0077,Patient_Apollo_Delhi_77,MRN922352,59,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-01-12,11,6,36,6,18,1,0,0,0,0,0,0,0,0,,,1,2024-12-26,Excellent
+Apollo_Delhi,APO0078,Patient_Apollo_Delhi_78,MRN560337,60,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-09-24,4,6,36,6,12,0,1,0,1,0,0,0,1,0,,,1,2024-09-18,Good
+Apollo_Delhi,APO0079,Patient_Apollo_Delhi_79,MRN824839,68,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-09-06,7,6,18,6,8,1,1,1,0,1,0,0,0,0,,,1,2024-08-17,Fair
+Apollo_Delhi,APO0080,Patient_Apollo_Delhi_80,MRN905889,65,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-11-27,7,6,24,6,11,1,1,0,0,0,0,0,0,0,,,1,2024-11-19,Fair
+Apollo_Delhi,APO0081,Patient_Apollo_Delhi_81,MRN559773,76,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-09-08,4,6,24,6,6,1,0,0,1,1,0,0,1,0,,,1,2024-08-18,Good
+Apollo_Delhi,APO0082,Patient_Apollo_Delhi_82,MRN308261,58,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-05-17,7,6,24,6,12,1,1,0,0,0,1,0,0,0,,,1,2025-05-02,Good
+Apollo_Delhi,APO0083,Patient_Apollo_Delhi_83,MRN864469,76,F,DME,None,None,Bevacizumab,2025-06-22,5,6,60,6,25,1,1,0,0,1,0,0,0,0,,,1,2025-06-15,Good
+Apollo_Delhi,APO0084,Patient_Apollo_Delhi_84,MRN441097,62,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-10-11,6,6,24,6,9,0,1,0,1,0,0,0,1,0,,,1,2024-10-04,Good
+Apollo_Delhi,APO0085,Patient_Apollo_Delhi_85,MRN415139,75,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-10-10,7,6,24,6,12,1,0,0,1,0,0,0,0,0,,,1,2024-10-06,Excellent
+Apollo_Delhi,APO0086,Patient_Apollo_Delhi_86,MRN271829,61,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-10-14,6,6,12,6,6,1,1,0,0,1,0,0,0,0,,,1,2024-10-10,Good
+Apollo_Delhi,APO0087,Patient_Apollo_Delhi_87,MRN371836,57,F,RVO,None,None,Ranibizumab,2024-12-09,5,6,12,6,6,0,1,1,1,0,1,1,1,0,,,1,2024-12-08,Good
+Apollo_Delhi,APO0088,Patient_Apollo_Delhi_88,MRN538974,87,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-08-23,3,6,18,6,6,0,0,1,1,0,0,1,0,0,,,1,2024-08-16,Good
+Apollo_Delhi,APO0089,Patient_Apollo_Delhi_89,MRN302283,77,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-01-22,3,6,12,6,6,1,1,1,0,1,0,1,0,0,,,1,2025-01-21,Good
+Apollo_Delhi,APO0090,Patient_Apollo_Delhi_90,MRN296769,43,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-09-09,7,6,36,6,17,0,1,1,1,0,0,1,1,0,,,1,2024-08-22,Poor
+Apollo_Delhi,APO0091,Patient_Apollo_Delhi_91,MRN661353,59,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-10-05,3,6,36,6,13,1,1,1,0,1,1,0,0,0,,,1,2024-09-20,Excellent
+Apollo_Delhi,APO0092,Patient_Apollo_Delhi_92,MRN323165,79,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-03-30,3,6,18,6,6,0,0,0,0,0,0,0,0,0,,,1,2025-03-28,Fair
+Apollo_Delhi,APO0093,Patient_Apollo_Delhi_93,MRN723587,50,F,RVO,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-11-05,4,6,36,6,13,0,1,1,1,0,0,1,1,0,,,1,2024-10-14,Fair
+Apollo_Delhi,APO0094,Patient_Apollo_Delhi_94,MRN635822,74,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-12-17,4,6,18,6,6,1,1,0,1,1,1,0,1,0,,,1,2024-12-06,Good
+Apollo_Delhi,APO0095,Patient_Apollo_Delhi_95,MRN587879,73,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-06-21,4,6,18,6,6,1,1,1,0,1,0,1,0,0,,,1,2025-06-13,Good
+Apollo_Delhi,APO0096,Patient_Apollo_Delhi_96,MRN664685,56,F,DME,None,None,Aflibercept,2024-08-17,3,6,18,6,6,1,1,1,0,1,1,1,0,0,,,1,2024-07-23,Good
+Apollo_Delhi,APO0097,Patient_Apollo_Delhi_97,MRN882038,64,F,AMD,None,None,Ranibizumab,2025-05-23,4,6,18,6,6,1,1,0,0,1,1,0,0,0,,,1,2025-05-20,Excellent
+Apollo_Delhi,APO0098,Patient_Apollo_Delhi_98,MRN453531,40,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-03-19,11,6,18,6,8,1,1,0,0,0,1,0,0,0,,,1,2025-03-01,Good
+Apollo_Delhi,APO0099,Patient_Apollo_Delhi_99,MRN363160,86,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-03-09,8,6,24,6,16,1,0,0,0,1,0,0,0,0,,,1,2025-02-22,Fair
+Apollo_Delhi,APO0100,Patient_Apollo_Delhi_100,MRN679879,61,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-09-08,5,6,24,6,13,1,1,1,0,1,1,1,0,0,,,1,2024-08-28,Excellent
+Apollo_Delhi,APO0101,Patient_Apollo_Delhi_101,MRN320884,74,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-09-20,6,6,60,6,20,1,1,1,1,1,0,1,1,0,,,1,2024-09-04,Good
+Apollo_Delhi,APO0102,Patient_Apollo_Delhi_102,MRN123247,72,F,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-03-21,4,6,12,6,6,0,0,1,0,0,0,0,0,0,,,1,2025-03-11,Fair
+Apollo_Delhi,APO0103,Patient_Apollo_Delhi_103,MRN124300,81,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-07-08,6,6,18,6,6,0,0,0,0,0,0,0,0,0,,,1,2025-06-22,Fair
+Apollo_Delhi,APO0104,Patient_Apollo_Delhi_104,MRN567281,59,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-12-15,4,6,12,6,6,1,1,1,1,0,1,0,0,0,,,1,2024-12-05,Good
+Apollo_Delhi,APO0105,Patient_Apollo_Delhi_105,MRN707086,67,F,DME,None,None,Ranibizumab,2024-11-30,6,6,24,6,12,1,1,0,1,1,0,0,1,0,,,1,2024-11-25,Fair
+Apollo_Delhi,APO0106,Patient_Apollo_Delhi_106,MRN633556,71,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-02-16,3,6,12,6,6,0,0,1,0,0,0,0,0,0,,,0,,Good
+Apollo_Delhi,APO0107,Patient_Apollo_Delhi_107,MRN448951,75,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-01-09,7,6,36,6,17,0,1,0,0,0,1,0,0,0,,,1,2024-12-28,Excellent
+Apollo_Delhi,APO0108,Patient_Apollo_Delhi_108,MRN374329,78,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-07-19,3,6,24,6,7,0,0,0,1,0,0,0,1,0,,,1,2025-07-06,Good
+Apollo_Delhi,APO0109,Patient_Apollo_Delhi_109,MRN819064,59,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-13,6,6,24,6,8,1,1,0,0,0,1,0,0,0,,,1,2024-11-23,Good
+Apollo_Delhi,APO0110,Patient_Apollo_Delhi_110,MRN842139,57,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-05-11,7,6,24,6,10,1,1,1,0,0,1,0,0,0,,,1,2025-04-29,Poor
+Apollo_Delhi,APO0111,Patient_Apollo_Delhi_111,MRN532315,81,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-12-25,2,6,18,6,6,0,1,1,1,0,1,1,1,0,,,1,2024-12-01,Excellent
+Apollo_Delhi,APO0112,Patient_Apollo_Delhi_112,MRN616588,40,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-04-25,5,6,18,6,7,1,0,0,0,1,0,0,0,0,,,1,2025-04-24,Good
+Apollo_Delhi,APO0113,Patient_Apollo_Delhi_113,MRN336584,83,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-02-16,4,6,18,6,6,1,1,0,0,0,1,0,0,0,,,0,,Good
+Apollo_Delhi,APO0114,Patient_Apollo_Delhi_114,MRN662332,61,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-09-25,2,6,24,6,7,1,0,1,0,1,0,1,0,0,,,1,2024-09-13,Good
+Apollo_Delhi,APO0115,Patient_Apollo_Delhi_115,MRN937646,64,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-09-16,2,6,18,6,6,0,1,0,0,0,1,0,0,0,,,1,2024-09-03,Excellent
+Apollo_Delhi,APO0116,Patient_Apollo_Delhi_116,MRN476896,56,M,DME,None,None,Bevacizumab,2024-12-13,5,6,18,6,8,1,1,1,0,0,1,1,0,0,,,1,2024-11-26,Good
+Apollo_Delhi,APO0117,Patient_Apollo_Delhi_117,MRN148984,64,F,AMD,None,None,Ranibizumab,2024-08-20,7,6,60,6,40,1,1,0,1,1,0,0,1,0,,,1,2024-08-06,Fair
+Apollo_Delhi,APO0118,Patient_Apollo_Delhi_118,MRN402918,80,M,AMD,None,None,Bevacizumab,2024-11-09,2,6,12,6,6,1,0,0,0,1,0,0,0,0,,,1,2024-11-02,Good
+Apollo_Delhi,APO0119,Patient_Apollo_Delhi_119,MRN364712,74,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-09-30,5,6,36,6,15,0,1,1,0,0,1,1,0,0,,,1,2024-09-27,Good
+Apollo_Delhi,APO0120,Patient_Apollo_Delhi_120,MRN220151,70,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-08-23,11,6,36,6,24,1,1,1,0,1,1,1,0,0,,,1,2024-08-11,Good
+Apollo_Delhi,APO0121,Patient_Apollo_Delhi_121,MRN555808,66,M,DME,None,None,Ranibizumab,2025-07-31,2,6,18,6,6,1,0,0,1,0,0,0,1,0,,,0,,Good
+Apollo_Delhi,APO0122,Patient_Apollo_Delhi_122,MRN233767,47,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-04-27,6,6,18,6,6,1,1,0,1,0,0,0,1,0,,,1,2025-04-25,Good
+Apollo_Delhi,APO0123,Patient_Apollo_Delhi_123,MRN748663,54,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-01-27,6,6,18,6,9,0,1,1,0,0,1,0,0,0,,,1,2025-01-10,Fair
+Apollo_Delhi,APO0124,Patient_Apollo_Delhi_124,MRN803550,60,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-01-03,2,6,24,6,6,1,1,0,1,1,1,0,1,0,,,1,2024-12-26,Poor
+Apollo_Delhi,APO0125,Patient_Apollo_Delhi_125,MRN236330,70,M,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-02-18,5,6,24,6,12,0,1,1,0,0,1,1,0,0,,,0,,Good
+Apollo_Delhi,APO0126,Patient_Apollo_Delhi_126,MRN580754,65,F,AMD,None,None,Bevacizumab,2025-01-07,9,6,36,6,23,1,1,0,0,0,1,0,0,0,,,1,2024-12-09,Good
+Apollo_Delhi,APO0127,Patient_Apollo_Delhi_127,MRN401648,76,F,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-11-24,2,6,60,6,17,1,0,0,0,0,0,0,0,0,,,1,2024-11-18,Fair
+Apollo_Delhi,APO0128,Patient_Apollo_Delhi_128,MRN788519,70,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-06-09,8,6,24,6,12,1,1,1,0,0,0,0,0,0,,,1,2025-05-11,Good
+Apollo_Delhi,APO0129,Patient_Apollo_Delhi_129,MRN113986,65,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-11-09,3,6,18,6,6,1,1,1,0,1,0,0,0,0,,,1,2024-10-13,Good
+Apollo_Delhi,APO0130,Patient_Apollo_Delhi_130,MRN686146,90,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-10-30,6,6,18,6,8,1,0,0,1,0,0,0,1,0,,,1,2024-10-06,Good
+Apollo_Delhi,APO0131,Patient_Apollo_Delhi_131,MRN229312,69,F,AMD,None,None,Ranibizumab,2025-06-02,3,6,36,6,11,1,1,1,0,0,0,0,0,0,,,1,2025-05-06,Fair
+Apollo_Delhi,APO0132,Patient_Apollo_Delhi_132,MRN112666,59,M,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-11-05,11,6,18,6,9,1,1,0,1,0,0,0,0,0,,,1,2024-10-29,Good
+Apollo_Delhi,APO0133,Patient_Apollo_Delhi_133,MRN400804,87,F,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-10-13,3,6,12,6,6,0,1,0,0,0,1,0,0,0,,,1,2024-10-01,Fair
+Apollo_Delhi,APO0134,Patient_Apollo_Delhi_134,MRN234633,79,F,RVO,None,None,Aflibercept,2025-02-12,5,6,36,6,16,1,0,1,0,0,0,0,0,0,,,1,2025-02-04,Fair
+Apollo_Delhi,APO0135,Patient_Apollo_Delhi_135,MRN388998,86,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-02-09,4,6,24,6,6,1,0,1,0,1,0,1,0,0,,,1,2025-02-07,Good
+Apollo_Delhi,APO0136,Patient_Apollo_Delhi_136,MRN950937,63,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-01-18,3,6,60,6,21,1,1,1,1,1,1,1,1,0,,,1,2025-01-10,Fair
+Apollo_Delhi,APO0137,Patient_Apollo_Delhi_137,MRN728776,76,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-05,7,6,24,6,11,1,0,0,0,0,0,0,0,0,,,1,2024-11-14,Fair
+Apollo_Delhi,APO0138,Patient_Apollo_Delhi_138,MRN807611,47,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-03-05,3,6,12,6,6,1,1,0,1,0,1,0,1,0,,,1,2025-02-13,Good
+Apollo_Delhi,APO0139,Patient_Apollo_Delhi_139,MRN384806,74,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-05-03,7,6,60,6,30,1,0,0,0,1,0,0,0,0,,,1,2025-04-04,Excellent
+Apollo_Delhi,APO0140,Patient_Apollo_Delhi_140,MRN894824,63,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-04-21,4,6,18,6,6,1,0,0,0,1,0,0,0,0,,,1,2025-04-01,Excellent
+Apollo_Delhi,APO0141,Patient_Apollo_Delhi_141,MRN130535,48,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-02-26,7,6,18,6,9,1,1,1,0,0,1,1,0,0,,,1,2025-01-30,Good
+Apollo_Delhi,APO0142,Patient_Apollo_Delhi_142,MRN475713,77,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-07-06,6,6,24,6,11,1,0,0,0,0,0,0,0,0,,,1,2025-06-20,Good
+Apollo_Delhi,APO0143,Patient_Apollo_Delhi_143,MRN938688,43,M,AMD,None,None,Bevacizumab,2025-05-16,3,6,12,6,6,1,1,1,0,1,0,1,0,0,,,1,2025-04-23,Good
+Apollo_Delhi,APO0144,Patient_Apollo_Delhi_144,MRN451279,42,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-05-18,6,6,24,6,9,0,1,0,0,0,1,0,0,0,,,1,2025-05-05,Excellent
+Apollo_Delhi,APO0145,Patient_Apollo_Delhi_145,MRN921654,69,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-02-27,6,6,18,6,8,0,0,0,1,0,0,0,1,0,,,1,2025-02-12,Fair
+Apollo_Delhi,APO0146,Patient_Apollo_Delhi_146,MRN701661,71,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-05-13,5,6,24,6,8,1,0,0,0,1,0,0,0,0,,,1,2025-05-05,Good
+Apollo_Delhi,APO0147,Patient_Apollo_Delhi_147,MRN747972,76,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-12-16,4,6,18,6,6,1,1,0,1,0,0,0,1,0,,,1,2024-12-09,Good
+Apollo_Delhi,APO0148,Patient_Apollo_Delhi_148,MRN589570,73,M,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-07-20,4,6,36,6,10,1,0,0,0,0,0,0,0,0,,,0,,Good
+Apollo_Delhi,APO0149,Patient_Apollo_Delhi_149,MRN556551,82,M,AMD,None,None,Ranibizumab,2025-02-25,5,6,36,6,18,1,1,1,1,1,1,1,1,0,,,1,2025-02-02,Good
+Apollo_Delhi,APO0150,Patient_Apollo_Delhi_150,MRN373109,73,F,DME,None,None,Ranibizumab,2025-06-14,11,6,18,6,12,0,1,0,1,0,1,0,0,0,,,1,2025-05-27,Good
+Apollo_Delhi,APO0151,Patient_Apollo_Delhi_151,MRN124538,63,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-04-27,8,6,18,6,8,1,1,1,0,0,0,1,0,0,,,1,2025-04-09,Good
+Apollo_Delhi,APO0152,Patient_Apollo_Delhi_152,MRN994498,64,M,AMD,None,None,Ranibizumab,2024-09-15,7,6,18,6,11,0,1,0,0,0,1,0,0,0,,,1,2024-09-08,Excellent
+Apollo_Delhi,APO0153,Patient_Apollo_Delhi_153,MRN301664,61,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-08-26,2,6,18,6,6,0,1,1,1,0,0,1,1,0,,,1,2024-07-31,Fair
+Apollo_Delhi,APO0154,Patient_Apollo_Delhi_154,MRN591234,68,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-09-18,10,6,36,6,21,1,1,0,1,0,1,0,0,0,,,1,2024-09-11,Fair
+Apollo_Delhi,APO0155,Patient_Apollo_Delhi_155,MRN999684,51,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-01-26,5,6,36,6,13,0,0,1,0,0,0,0,0,0,,,1,2025-01-25,Good
+Apollo_Delhi,APO0156,Patient_Apollo_Delhi_156,MRN239182,69,F,AMD,None,None,Bevacizumab,2025-06-26,5,6,18,6,9,1,0,0,0,1,0,0,0,0,,,1,2025-06-08,Fair
+Apollo_Delhi,APO0157,Patient_Apollo_Delhi_157,MRN572525,63,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-03-11,3,6,18,6,6,1,0,1,1,1,0,1,1,0,,,1,2025-03-03,Fair
+Apollo_Delhi,APO0158,Patient_Apollo_Delhi_158,MRN258338,68,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-11-20,4,6,18,6,6,1,1,1,0,0,0,1,0,0,,,1,2024-11-10,Excellent
+Apollo_Delhi,APO0159,Patient_Apollo_Delhi_159,MRN284064,68,M,RVO,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-03-19,3,6,24,6,9,0,1,0,1,0,1,0,1,0,,,1,2025-03-13,Poor
+Apollo_Delhi,APO0160,Patient_Apollo_Delhi_160,MRN314020,40,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-09-10,2,6,18,6,6,1,1,0,0,1,1,0,0,0,,,1,2024-08-26,Fair
+Apollo_Delhi,APO0161,Patient_Apollo_Delhi_161,MRN723094,54,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-04-12,6,6,60,6,30,0,0,0,0,0,0,0,0,0,,,1,2025-03-27,Good
+Apollo_Delhi,APO0162,Patient_Apollo_Delhi_162,MRN997421,63,M,DME,None,None,Ranibizumab,2025-06-09,3,6,36,6,10,1,1,1,1,1,1,1,0,0,,,1,2025-06-01,Excellent
+Apollo_Delhi,APO0163,Patient_Apollo_Delhi_163,MRN715270,64,F,AMD,None,None,Aflibercept,2025-05-19,2,6,18,6,6,1,1,0,1,1,0,0,1,0,,,1,2025-05-04,Excellent
+Apollo_Delhi,APO0164,Patient_Apollo_Delhi_164,MRN745914,68,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-08-21,3,6,24,6,7,1,0,0,0,1,0,0,0,0,,,1,2024-08-15,Excellent
+Apollo_Delhi,APO0165,Patient_Apollo_Delhi_165,MRN219176,68,F,AMD,None,None,Bevacizumab,2025-04-12,7,6,60,6,33,0,1,0,0,0,1,0,0,0,,,1,2025-04-04,Fair
+Apollo_Delhi,APO0166,Patient_Apollo_Delhi_166,MRN318126,83,F,RVO,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-04-05,4,6,24,6,8,1,0,0,1,1,0,0,1,0,,,1,2025-03-20,Good
+Apollo_Delhi,APO0167,Patient_Apollo_Delhi_167,MRN318969,68,F,AMD,None,None,Ranibizumab,2024-10-27,5,6,18,6,7,1,1,1,1,0,0,0,1,0,,,1,2024-10-14,Fair
+Apollo_Delhi,APO0168,Patient_Apollo_Delhi_168,MRN222409,61,F,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-02-12,4,6,18,6,6,0,0,0,0,0,0,0,0,0,,,1,2025-01-28,Fair
+Apollo_Delhi,APO0169,Patient_Apollo_Delhi_169,MRN647707,45,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-05-21,5,6,36,6,14,1,1,1,1,0,1,1,1,1,Subconjunctival hemorrhage,Mild,1,2025-05-08,Fair
+Apollo_Delhi,APO0170,Patient_Apollo_Delhi_170,MRN353618,48,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-07-18,5,6,24,6,11,1,1,1,1,1,1,0,1,0,,,0,,Fair
+Apollo_Delhi,APO0171,Patient_Apollo_Delhi_171,MRN869598,71,M,AMD,None,None,Bevacizumab,2025-02-24,4,6,24,6,6,0,1,0,1,0,1,0,1,0,,,1,2025-02-10,Excellent
+Apollo_Delhi,APO0172,Patient_Apollo_Delhi_172,MRN150015,77,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-06-02,7,6,36,6,24,0,1,1,1,0,0,0,0,0,,,1,2025-05-09,Good
+Apollo_Delhi,APO0173,Patient_Apollo_Delhi_173,MRN872838,83,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-05-14,7,6,36,6,17,1,1,0,0,1,1,0,0,0,,,1,2025-04-15,Fair
+Apollo_Delhi,APO0174,Patient_Apollo_Delhi_174,MRN222096,55,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-11-27,5,6,60,6,30,0,1,1,1,0,1,1,1,0,,,1,2024-11-02,Excellent
+Apollo_Delhi,APO0175,Patient_Apollo_Delhi_175,MRN731347,61,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-07-10,9,6,12,6,6,0,1,0,1,0,0,0,1,0,,,1,2025-06-27,Excellent
+Apollo_Delhi,APO0176,Patient_Apollo_Delhi_176,MRN285340,67,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-03-03,6,6,24,6,13,1,0,1,0,0,0,0,0,0,,,1,2025-02-07,Fair
+Apollo_Delhi,APO0177,Patient_Apollo_Delhi_177,MRN210687,89,F,RVO,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-03-12,5,6,36,6,14,1,1,0,0,1,0,0,0,0,,,1,2025-02-13,Fair
+Apollo_Delhi,APO0178,Patient_Apollo_Delhi_178,MRN974371,66,M,AMD,None,None,Bevacizumab,2024-11-24,5,6,36,6,19,1,0,0,0,1,0,0,0,0,,,1,2024-10-31,Good
+Apollo_Delhi,APO0179,Patient_Apollo_Delhi_179,MRN511357,83,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-11-05,4,6,24,6,6,1,0,0,1,1,0,0,1,0,,,1,2024-10-07,Fair
+Apollo_Delhi,APO0180,Patient_Apollo_Delhi_180,MRN835716,67,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-05-05,10,6,18,6,9,1,1,0,0,1,0,0,0,0,,,1,2025-04-14,Fair
+Apollo_Delhi,APO0181,Patient_Apollo_Delhi_181,MRN205878,78,F,RVO,Diabetes,"Metformin, Insulin",Aflibercept,2025-07-12,6,6,36,6,12,0,1,1,1,0,1,1,1,0,,,1,2025-06-16,Good
+Apollo_Delhi,APO0182,Patient_Apollo_Delhi_182,MRN827270,77,F,RVO,None,None,Bevacizumab,2025-03-16,2,6,36,6,12,1,0,0,1,1,0,0,1,0,,,1,2025-02-28,Excellent
+Apollo_Delhi,APO0183,Patient_Apollo_Delhi_183,MRN298286,66,F,AMD,None,None,Ranibizumab,2025-06-05,4,6,12,6,6,1,1,1,1,1,0,1,1,0,,,1,2025-05-19,Poor
+Apollo_Delhi,APO0184,Patient_Apollo_Delhi_184,MRN873290,52,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-08-19,3,6,24,6,7,0,1,0,1,0,1,0,1,0,,,0,,Good
+Apollo_Delhi,APO0185,Patient_Apollo_Delhi_185,MRN874684,61,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-06-14,2,6,18,6,6,1,1,1,1,0,1,1,1,0,,,1,2025-06-06,Excellent
+Apollo_Delhi,APO0186,Patient_Apollo_Delhi_186,MRN264899,82,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-11-03,5,6,18,6,7,1,0,0,0,0,0,0,0,0,,,1,2024-10-11,Good
+Apollo_Delhi,APO0187,Patient_Apollo_Delhi_187,MRN424767,75,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-12-18,6,6,12,6,6,0,1,0,1,0,1,0,0,0,,,1,2024-11-21,Fair
+Apollo_Delhi,APO0188,Patient_Apollo_Delhi_188,MRN961882,59,F,DME,None,None,Ranibizumab,2024-08-23,5,6,24,6,13,0,0,0,0,0,0,0,0,0,,,1,2024-08-08,Good
+Apollo_Delhi,APO0189,Patient_Apollo_Delhi_189,MRN979858,60,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-04-05,10,6,24,6,13,1,1,1,1,0,0,0,1,0,,,1,2025-03-19,Good
+Apollo_Delhi,APO0190,Patient_Apollo_Delhi_190,MRN479989,44,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-01-14,5,6,24,6,13,1,0,0,0,1,0,0,0,0,,,1,2024-12-25,Good
+Apollo_Delhi,APO0191,Patient_Apollo_Delhi_191,MRN515515,82,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-02-06,5,6,24,6,10,1,0,1,1,0,0,1,1,0,,,1,2025-01-28,Poor
+Apollo_Delhi,APO0192,Patient_Apollo_Delhi_192,MRN143585,75,F,DME,None,None,Bevacizumab,2025-02-20,4,6,36,6,8,1,1,1,1,1,0,0,1,0,,,1,2025-02-16,Excellent
+Apollo_Delhi,APO0193,Patient_Apollo_Delhi_193,MRN471369,63,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-01-18,4,6,18,6,6,0,1,0,1,0,1,0,0,0,,,1,2025-01-14,Good
+Apollo_Delhi,APO0194,Patient_Apollo_Delhi_194,MRN164044,67,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-03-29,3,6,18,6,6,0,0,1,0,0,0,0,0,0,,,1,2025-03-15,Poor
+Apollo_Delhi,APO0195,Patient_Apollo_Delhi_195,MRN542296,40,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-08-02,7,6,36,6,21,0,0,0,0,0,0,0,0,0,,,1,2025-07-10,Excellent
+Apollo_Delhi,APO0196,Patient_Apollo_Delhi_196,MRN209556,59,F,AMD,None,None,Ranibizumab,2025-03-03,3,6,18,6,6,0,1,0,1,0,1,0,1,0,,,1,2025-03-02,Poor
+Apollo_Delhi,APO0197,Patient_Apollo_Delhi_197,MRN626981,81,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-09-05,2,6,60,6,20,0,0,1,0,0,0,1,0,0,,,1,2024-09-01,Poor
+Apollo_Delhi,APO0198,Patient_Apollo_Delhi_198,MRN981691,76,F,RVO,Diabetes,"Metformin, Insulin",Bevacizumab,2024-09-24,9,6,36,6,19,1,1,1,1,0,0,0,0,0,,,1,2024-09-02,Fair
+Apollo_Delhi,APO0199,Patient_Apollo_Delhi_199,MRN867595,68,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-04-27,5,6,24,6,12,1,0,1,0,0,0,1,0,0,,,0,,Good
+Apollo_Delhi,APO0200,Patient_Apollo_Delhi_200,MRN300235,64,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-10-25,9,6,60,6,37,1,0,0,1,0,0,0,1,0,,,1,2024-09-28,Fair
+Apollo_Delhi,APO0201,Patient_Apollo_Delhi_201,MRN125939,74,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-09-04,5,6,12,6,6,0,0,0,0,0,0,0,0,0,,,1,2024-08-11,Fair
+Apollo_Delhi,APO0202,Patient_Apollo_Delhi_202,MRN252906,61,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-01-31,5,6,18,6,7,1,1,0,1,0,1,0,1,0,,,1,2025-01-06,Poor
+Apollo_Delhi,APO0203,Patient_Apollo_Delhi_203,MRN642335,45,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-10-04,2,6,24,6,8,1,0,1,1,0,0,1,0,0,,,1,2024-09-25,Excellent
+Apollo_Delhi,APO0204,Patient_Apollo_Delhi_204,MRN388249,64,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-11-11,4,6,18,6,6,0,0,0,0,0,0,0,0,0,,,1,2024-10-21,Fair
+Apollo_Delhi,APO0205,Patient_Apollo_Delhi_205,MRN175766,69,M,RVO,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-02-04,8,6,60,6,32,1,1,1,0,1,0,1,0,0,,,1,2025-01-22,Good
+Apollo_Delhi,APO0206,Patient_Apollo_Delhi_206,MRN508923,78,F,AMD,None,None,Bevacizumab,2025-04-02,6,6,12,6,6,1,1,0,0,1,0,0,0,0,,,1,2025-03-29,Excellent
+Apollo_Delhi,APO0207,Patient_Apollo_Delhi_207,MRN515192,47,M,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-08-07,3,6,24,6,6,0,0,0,1,0,0,0,1,0,,,1,2025-07-27,Good
+Apollo_Delhi,APO0208,Patient_Apollo_Delhi_208,MRN668550,63,F,DME,None,None,Ranibizumab,2024-11-21,9,6,24,6,12,1,1,0,1,0,0,0,1,0,,,1,2024-10-26,Fair
+Apollo_Delhi,APO0209,Patient_Apollo_Delhi_209,MRN487261,64,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-07-18,4,6,24,6,7,0,1,0,1,0,1,0,1,0,,,1,2025-07-07,Good
+Apollo_Delhi,APO0210,Patient_Apollo_Delhi_210,MRN910208,51,F,RVO,Diabetes,"Metformin, Insulin",Bevacizumab,2024-11-18,6,6,18,6,6,1,0,0,1,1,0,0,1,0,,,1,2024-11-13,Good
+Apollo_Delhi,APO0211,Patient_Apollo_Delhi_211,MRN785440,70,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-11-15,5,6,18,6,6,1,0,1,0,0,0,0,0,0,,,1,2024-10-17,Poor
+Apollo_Delhi,APO0212,Patient_Apollo_Delhi_212,MRN752664,73,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-02-20,7,6,36,6,23,1,1,1,0,0,0,1,0,0,,,0,,Good
+Apollo_Delhi,APO0213,Patient_Apollo_Delhi_213,MRN554589,61,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-12-20,5,6,18,6,7,0,1,0,0,0,1,0,0,0,,,1,2024-12-13,Fair
+Apollo_Delhi,APO0214,Patient_Apollo_Delhi_214,MRN237848,89,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-11-09,4,6,36,6,11,1,1,0,0,1,0,0,0,0,,,1,2024-10-28,Good
+Apollo_Delhi,APO0215,Patient_Apollo_Delhi_215,MRN717075,61,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-10-07,7,6,24,6,11,1,0,0,1,1,0,0,1,0,,,1,2024-09-15,Good
+Apollo_Delhi,APO0216,Patient_Apollo_Delhi_216,MRN227948,59,M,DME,None,None,Ranibizumab,2025-03-06,5,6,36,6,19,1,0,1,1,0,0,1,0,0,,,1,2025-02-20,Fair
+Apollo_Delhi,APO0217,Patient_Apollo_Delhi_217,MRN679304,59,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-01-19,7,6,36,6,19,1,1,0,0,0,1,0,0,0,,,1,2024-12-21,Poor
+Apollo_Delhi,APO0218,Patient_Apollo_Delhi_218,MRN502690,55,F,AMD,None,None,Ranibizumab,2025-03-15,8,6,18,6,9,1,0,1,1,0,0,1,0,0,,,1,2025-03-04,Good
+Apollo_Delhi,APO0219,Patient_Apollo_Delhi_219,MRN599046,58,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-25,2,6,24,6,7,1,1,0,1,1,1,0,1,0,,,1,2024-12-09,Fair
+Apollo_Delhi,APO0220,Patient_Apollo_Delhi_220,MRN551269,47,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-06-10,8,6,36,6,18,1,1,0,0,0,0,0,0,0,,,1,2025-05-15,Excellent
+Apollo_Delhi,APO0221,Patient_Apollo_Delhi_221,MRN121959,62,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-11-10,4,6,24,6,6,1,0,1,0,0,0,0,0,0,,,1,2024-10-29,Good
+Apollo_Delhi,APO0222,Patient_Apollo_Delhi_222,MRN760890,65,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-02-05,4,6,60,6,14,1,1,0,0,0,0,0,0,0,,,1,2025-01-09,Good
+Apollo_Delhi,APO0223,Patient_Apollo_Delhi_223,MRN850216,40,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-12-25,4,6,24,6,8,1,1,0,1,1,0,0,1,0,,,1,2024-12-09,Excellent
+Apollo_Delhi,APO0224,Patient_Apollo_Delhi_224,MRN890180,63,M,RVO,Diabetes,"Metformin, Insulin",Aflibercept,2024-09-26,12,6,18,6,9,1,1,0,1,1,0,0,1,0,,,1,2024-09-14,Good
+Apollo_Delhi,APO0225,Patient_Apollo_Delhi_225,MRN328576,65,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-01-08,5,6,18,6,6,1,0,0,1,0,0,0,0,0,,,1,2025-01-06,Good
+Apollo_Delhi,APO0226,Patient_Apollo_Delhi_226,MRN637833,71,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-11-30,5,6,60,6,32,1,0,0,0,0,0,0,0,0,,,1,2024-11-01,Excellent
+Apollo_Delhi,APO0227,Patient_Apollo_Delhi_227,MRN265838,79,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-08-18,3,6,18,6,6,1,1,1,0,0,1,0,0,0,,,1,2024-07-26,Good
+Apollo_Delhi,APO0228,Patient_Apollo_Delhi_228,MRN435674,75,F,DME,None,None,Ranibizumab,2025-02-11,3,6,36,6,8,1,0,1,1,0,0,1,1,0,,,1,2025-01-17,Good
+Apollo_Delhi,APO0229,Patient_Apollo_Delhi_229,MRN979989,57,F,RVO,None,None,Ranibizumab,2025-01-01,5,6,36,6,19,0,1,0,1,0,0,0,1,0,,,1,2024-12-19,Good
+Apollo_Delhi,APO0230,Patient_Apollo_Delhi_230,MRN161087,56,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-06-23,6,6,18,6,8,1,0,1,1,0,0,1,1,0,,,1,2025-06-09,Poor
+Apollo_Delhi,APO0231,Patient_Apollo_Delhi_231,MRN693128,71,M,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-02-17,2,6,12,6,6,1,1,0,1,0,1,0,1,0,,,1,2025-02-09,Fair
+Apollo_Delhi,APO0232,Patient_Apollo_Delhi_232,MRN218451,58,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-10-04,3,6,36,6,9,0,0,0,0,0,0,0,0,0,,,1,2024-09-10,Good
+Apollo_Delhi,APO0233,Patient_Apollo_Delhi_233,MRN547600,50,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-11-10,4,6,18,6,6,1,1,0,1,1,0,0,1,0,,,1,2024-11-07,Poor
+Apollo_Delhi,APO0234,Patient_Apollo_Delhi_234,MRN937437,90,F,AMD,None,None,Bevacizumab,2025-01-06,3,6,36,6,12,0,0,0,1,0,0,0,1,0,,,1,2024-12-20,Fair
+Apollo_Delhi,APO0235,Patient_Apollo_Delhi_235,MRN539792,61,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-03-04,7,6,24,6,13,0,1,0,0,0,1,0,0,0,,,1,2025-02-08,Good
+Apollo_Delhi,APO0236,Patient_Apollo_Delhi_236,MRN139353,57,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-08-04,2,6,24,6,6,0,0,1,1,0,0,1,1,0,,,1,2025-07-22,Excellent
+Apollo_Delhi,APO0237,Patient_Apollo_Delhi_237,MRN293075,40,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-04-07,5,6,36,6,12,1,1,0,0,1,0,0,0,1,Subconjunctival hemorrhage,Mild,1,2025-03-11,Fair
+Apollo_Delhi,APO0238,Patient_Apollo_Delhi_238,MRN314283,75,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-09-20,4,6,18,6,6,1,0,0,0,1,0,0,0,0,,,1,2024-09-16,Good
+Apollo_Delhi,APO0239,Patient_Apollo_Delhi_239,MRN414877,53,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-05-13,4,6,24,6,6,1,1,0,0,1,1,0,0,0,,,1,2025-05-03,Fair
+Apollo_Delhi,APO0240,Patient_Apollo_Delhi_240,MRN165318,65,F,AMD,None,None,Ranibizumab,2025-03-05,6,6,18,6,9,1,1,1,0,0,0,0,0,0,,,1,2025-02-23,Fair
+Apollo_Delhi,APO0241,Patient_Apollo_Delhi_241,MRN865313,76,F,RVO,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-11-02,7,6,18,6,9,1,0,1,0,0,0,1,0,0,,,1,2024-10-11,Fair
+Apollo_Delhi,APO0242,Patient_Apollo_Delhi_242,MRN582690,53,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-09-13,7,6,24,6,14,1,1,0,0,1,1,0,0,0,,,1,2024-08-17,Poor
+Apollo_Delhi,APO0243,Patient_Apollo_Delhi_243,MRN516880,65,F,RVO,None,None,Bevacizumab,2025-04-08,6,6,36,6,17,1,0,0,1,1,0,0,1,0,,,1,2025-03-18,Good
+Apollo_Delhi,APO0244,Patient_Apollo_Delhi_244,MRN691460,83,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-04-07,6,6,18,6,8,1,1,0,0,0,0,0,0,0,,,1,2025-03-18,Excellent
+Apollo_Delhi,APO0245,Patient_Apollo_Delhi_245,MRN840976,40,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-04-30,7,6,24,6,16,0,1,0,0,0,0,0,0,0,,,1,2025-04-21,Fair
+Apollo_Delhi,APO0246,Patient_Apollo_Delhi_246,MRN881239,55,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-02-05,7,6,24,6,13,0,0,0,0,0,0,0,0,0,,,1,2025-01-23,Good
+Apollo_Delhi,APO0247,Patient_Apollo_Delhi_247,MRN193264,54,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-07-28,5,6,18,6,8,1,0,0,1,0,0,0,1,0,,,1,2025-07-16,Fair
+Apollo_Delhi,APO0248,Patient_Apollo_Delhi_248,MRN870746,62,F,AMD,None,None,Aflibercept,2025-04-29,9,6,18,6,10,1,0,0,0,0,0,0,0,0,,,1,2025-04-08,Poor
+Apollo_Delhi,APO0249,Patient_Apollo_Delhi_249,MRN913168,64,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-10-11,4,6,60,6,18,0,1,0,0,0,0,0,0,0,,,1,2024-09-12,Fair
+Apollo_Delhi,APO0250,Patient_Apollo_Delhi_250,MRN325281,52,M,AMD,None,None,Ranibizumab,2025-03-20,2,6,36,6,11,0,0,0,1,0,0,0,1,0,,,1,2025-03-06,Good
+Apollo_Delhi,APO0251,Patient_Apollo_Delhi_251,MRN737147,57,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-03-01,3,6,24,6,6,1,1,1,1,1,1,1,1,0,,,1,2025-02-08,Good
+Apollo_Delhi,APO0252,Patient_Apollo_Delhi_252,MRN998613,55,F,DME,None,None,Ranibizumab,2025-08-08,4,6,24,6,6,1,1,1,1,1,0,1,0,0,,,1,2025-08-04,Good
+Apollo_Delhi,APO0253,Patient_Apollo_Delhi_253,MRN494070,60,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-12-08,6,6,12,6,6,1,1,0,0,0,0,0,0,0,,,1,2024-12-03,Good
+Apollo_Delhi,APO0254,Patient_Apollo_Delhi_254,MRN452228,67,F,AMD,None,None,Bevacizumab,2025-03-26,10,6,24,6,12,1,0,0,0,0,0,0,0,0,,,1,2025-03-06,Fair
+Apollo_Delhi,APO0255,Patient_Apollo_Delhi_255,MRN531839,75,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-08-24,4,6,24,6,6,1,1,0,1,0,1,0,1,1,Transient IOP elevation,Mild,1,2024-08-22,Fair
+Apollo_Delhi,APO0256,Patient_Apollo_Delhi_256,MRN369536,77,F,AMD,None,None,Ranibizumab,2024-08-29,3,6,24,6,6,1,1,0,0,1,0,0,0,0,,,1,2024-08-24,Fair
+Apollo_Delhi,APO0257,Patient_Apollo_Delhi_257,MRN417824,72,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-03-09,3,6,18,6,6,1,1,1,0,0,0,1,0,0,,,1,2025-02-14,Excellent
+Apollo_Delhi,APO0258,Patient_Apollo_Delhi_258,MRN357426,54,M,RVO,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-07-09,2,6,12,6,6,0,0,0,0,0,0,0,0,0,,,1,2025-07-05,Good
+Apollo_Delhi,APO0259,Patient_Apollo_Delhi_259,MRN277789,64,M,AMD,None,None,Bevacizumab,2025-02-05,5,6,18,6,9,1,0,1,1,1,0,0,0,0,,,1,2025-01-15,Fair
+Apollo_Delhi,APO0260,Patient_Apollo_Delhi_260,MRN613153,90,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-05-15,10,6,60,6,33,0,0,1,0,0,0,0,0,0,,,1,2025-05-03,Good
+Apollo_Delhi,APO0261,Patient_Apollo_Delhi_261,MRN842452,77,F,RVO,None,None,Aflibercept,2024-08-25,4,6,24,6,8,0,1,0,1,0,0,0,1,0,,,1,2024-08-13,Good
+Apollo_Delhi,APO0262,Patient_Apollo_Delhi_262,MRN937291,59,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-14,7,6,24,6,11,1,0,0,1,1,0,0,0,0,,,1,2024-11-20,Fair
+Apollo_Delhi,APO0263,Patient_Apollo_Delhi_263,MRN225657,83,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-02-15,10,6,12,6,6,1,1,0,0,0,0,0,0,0,,,1,2025-01-25,Fair
+Apollo_Delhi,APO0264,Patient_Apollo_Delhi_264,MRN335167,60,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-09-15,6,6,12,6,6,1,0,0,1,0,0,0,1,0,,,1,2024-08-29,Good
+Apollo_Delhi,APO0265,Patient_Apollo_Delhi_265,MRN781669,56,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-04-19,5,6,36,6,17,0,1,0,1,0,1,0,1,0,,,1,2025-04-17,Fair
+Apollo_Delhi,APO0266,Patient_Apollo_Delhi_266,MRN580671,81,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-05-08,9,6,24,6,11,1,1,0,1,0,0,0,1,0,,,1,2025-04-13,Excellent
+Apollo_Delhi,APO0267,Patient_Apollo_Delhi_267,MRN819094,49,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-04-01,2,6,24,6,6,1,1,1,0,0,1,0,0,0,,,1,2025-03-13,Poor
+Apollo_Delhi,APO0268,Patient_Apollo_Delhi_268,MRN170467,42,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-03-19,8,6,18,6,12,1,0,0,1,1,0,0,0,0,,,1,2025-03-07,Excellent
+Apollo_Delhi,APO0269,Patient_Apollo_Delhi_269,MRN283734,76,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-01-25,7,6,36,6,18,0,0,0,0,0,0,0,0,0,,,1,2025-01-16,Excellent
+Apollo_Delhi,APO0270,Patient_Apollo_Delhi_270,MRN722794,65,M,RVO,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-09-20,7,6,18,6,9,1,0,1,1,1,0,0,1,0,,,1,2024-08-31,Fair
+Apollo_Delhi,APO0271,Patient_Apollo_Delhi_271,MRN209751,66,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-03-07,8,6,18,6,9,1,0,1,0,0,0,0,0,0,,,1,2025-02-14,Good
+Apollo_Delhi,APO0272,Patient_Apollo_Delhi_272,MRN481050,60,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-12-01,4,6,24,6,7,0,1,0,0,0,0,0,0,0,,,1,2024-11-08,Fair
+Apollo_Delhi,APO0273,Patient_Apollo_Delhi_273,MRN911774,62,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-05-31,5,6,18,6,8,1,1,1,1,0,1,1,1,0,,,1,2025-05-11,Fair
+Apollo_Delhi,APO0274,Patient_Apollo_Delhi_274,MRN792517,59,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-11-01,7,6,18,6,8,1,1,0,1,0,1,0,1,0,,,1,2024-10-24,Fair
+Apollo_Delhi,APO0275,Patient_Apollo_Delhi_275,MRN561079,57,M,AMD,None,None,Ranibizumab,2024-12-08,7,6,24,6,12,0,0,0,1,0,0,0,1,0,,,1,2024-11-17,Poor
+Apollo_Delhi,APO0276,Patient_Apollo_Delhi_276,MRN468452,60,M,AMD,None,None,Aflibercept,2025-06-11,5,6,24,6,10,0,1,0,0,0,0,0,0,0,,,1,2025-05-14,Good
+Apollo_Delhi,APO0277,Patient_Apollo_Delhi_277,MRN206081,60,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-11-25,5,6,36,6,12,0,1,0,0,0,1,0,0,0,,,1,2024-11-20,Fair
+Apollo_Delhi,APO0278,Patient_Apollo_Delhi_278,MRN713333,55,M,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-08-04,3,6,24,6,6,1,1,1,1,0,0,1,1,0,,,1,2025-07-07,Excellent
+Apollo_Delhi,APO0279,Patient_Apollo_Delhi_279,MRN658986,58,F,AMD,None,None,Aflibercept,2025-08-07,7,6,12,6,6,0,0,1,1,0,0,1,0,0,,,1,2025-07-31,Good
+Apollo_Delhi,APO0280,Patient_Apollo_Delhi_280,MRN210078,40,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-03-31,5,6,18,6,9,1,1,1,1,0,1,0,0,0,,,1,2025-03-20,Fair
+Apollo_Delhi,APO0281,Patient_Apollo_Delhi_281,MRN967055,73,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-04-08,7,6,60,6,34,1,1,0,0,1,0,0,0,0,,,1,2025-03-24,Good
+Apollo_Delhi,APO0282,Patient_Apollo_Delhi_282,MRN122671,69,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-07-29,8,6,24,6,13,1,1,0,0,0,1,0,0,0,,,1,2025-07-07,Good
+Apollo_Delhi,APO0283,Patient_Apollo_Delhi_283,MRN518400,63,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-12-14,3,6,36,6,8,0,1,0,1,0,1,0,1,0,,,1,2024-12-07,Good
+Apollo_Delhi,APO0284,Patient_Apollo_Delhi_284,MRN455528,67,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-08-16,5,6,12,6,6,0,0,0,1,0,0,0,1,0,,,1,2024-08-10,Fair
+Apollo_Delhi,APO0285,Patient_Apollo_Delhi_285,MRN710490,68,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-09-25,6,6,24,6,8,1,0,1,0,0,0,1,0,0,,,1,2024-09-18,Poor
+Apollo_Delhi,APO0286,Patient_Apollo_Delhi_286,MRN151663,56,F,AMD,None,None,Ranibizumab,2025-07-12,3,6,12,6,6,1,1,1,1,0,0,1,1,0,,,1,2025-06-20,Excellent
+Apollo_Delhi,APO0287,Patient_Apollo_Delhi_287,MRN115708,58,F,AMD,None,None,Bevacizumab,2025-03-08,3,6,24,6,8,1,1,0,1,1,1,0,1,0,,,1,2025-02-14,Good
+Apollo_Delhi,APO0288,Patient_Apollo_Delhi_288,MRN978338,71,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-09-05,3,6,60,6,20,0,0,0,0,0,0,0,0,0,,,1,2024-08-29,Fair
+Apollo_Delhi,APO0289,Patient_Apollo_Delhi_289,MRN411955,67,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-01-30,5,6,60,6,25,1,1,0,0,1,1,0,0,0,,,1,2025-01-15,Good
+Apollo_Delhi,APO0290,Patient_Apollo_Delhi_290,MRN233883,89,M,AMD,None,None,Ranibizumab,2024-08-30,10,6,24,6,14,1,1,0,0,1,0,0,0,0,,,1,2024-08-27,Excellent
+Apollo_Delhi,APO0291,Patient_Apollo_Delhi_291,MRN418394,84,F,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-02-24,2,6,24,6,6,0,1,0,1,0,0,0,0,0,,,1,2025-01-30,Good
+Apollo_Delhi,APO0292,Patient_Apollo_Delhi_292,MRN212547,76,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-12-15,5,6,60,6,20,1,0,0,0,1,0,0,0,0,,,1,2024-12-05,Good
+Apollo_Delhi,APO0293,Patient_Apollo_Delhi_293,MRN659042,55,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-10,3,6,24,6,6,1,1,0,0,1,1,0,0,0,,,1,2024-12-05,Excellent
+Apollo_Delhi,APO0294,Patient_Apollo_Delhi_294,MRN851102,58,F,AMD,None,None,Bevacizumab,2025-05-08,4,6,12,6,6,0,1,0,1,0,1,0,1,0,,,1,2025-04-19,Fair
+Apollo_Delhi,APO0295,Patient_Apollo_Delhi_295,MRN862002,52,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-05-26,6,6,24,6,9,1,1,0,0,1,1,0,0,0,,,1,2025-05-15,Good
+Apollo_Delhi,APO0296,Patient_Apollo_Delhi_296,MRN242483,68,M,AMD,None,None,Ranibizumab,2025-08-10,3,6,18,6,6,1,1,0,0,1,1,0,0,0,,,1,2025-07-19,Poor
+Apollo_Delhi,APO0297,Patient_Apollo_Delhi_297,MRN758271,40,F,RVO,None,None,Aflibercept,2025-06-10,4,6,24,6,6,0,1,1,0,0,1,0,0,0,,,1,2025-05-26,Fair
+Apollo_Delhi,APO0298,Patient_Apollo_Delhi_298,MRN314835,59,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-03-10,6,6,24,6,8,1,1,0,1,1,1,0,1,0,,,1,2025-02-20,Fair
+Apollo_Delhi,APO0299,Patient_Apollo_Delhi_299,MRN501896,61,M,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-06-24,3,6,24,6,8,1,0,1,1,0,0,1,1,0,,,1,2025-06-15,Excellent
+Apollo_Delhi,APO0300,Patient_Apollo_Delhi_300,MRN184896,46,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-08-10,8,6,18,6,12,1,1,0,0,0,1,0,0,0,,,1,2025-07-30,Good
+Apollo_Delhi,APO0301,Patient_Apollo_Delhi_301,MRN577095,74,M,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-11-28,5,6,18,6,10,0,1,0,1,0,1,0,1,0,,,1,2024-11-05,Excellent
+Apollo_Delhi,APO0302,Patient_Apollo_Delhi_302,MRN171295,51,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-04-26,6,6,24,6,11,1,0,0,1,1,0,0,1,0,,,1,2025-04-13,Poor
+Apollo_Delhi,APO0303,Patient_Apollo_Delhi_303,MRN843974,68,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-04-03,3,6,36,6,6,1,1,0,0,1,1,0,0,0,,,1,2025-03-20,Excellent
+Apollo_Delhi,APO0304,Patient_Apollo_Delhi_304,MRN987121,90,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-10-21,4,6,24,6,6,1,1,1,0,1,0,1,0,0,,,1,2024-10-13,Good
+Apollo_Delhi,APO0305,Patient_Apollo_Delhi_305,MRN373255,45,M,AMD,None,None,Bevacizumab,2024-09-07,5,6,18,6,10,0,1,0,0,0,0,0,0,0,,,1,2024-08-22,Good
+Apollo_Delhi,APO0306,Patient_Apollo_Delhi_306,MRN399648,63,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-04-06,6,6,60,6,27,1,0,1,0,0,0,1,0,0,,,1,2025-03-16,Good
+Apollo_Delhi,APO0307,Patient_Apollo_Delhi_307,MRN757162,60,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-08-27,7,6,60,6,32,1,1,1,1,1,1,1,0,0,,,1,2024-08-15,Good
+Apollo_Delhi,APO0308,Patient_Apollo_Delhi_308,MRN108155,57,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-01-20,6,6,18,6,8,1,0,0,1,1,0,0,1,0,,,1,2025-01-14,Good
+Apollo_Delhi,APO0309,Patient_Apollo_Delhi_309,MRN566872,74,M,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-11-25,4,6,12,6,6,1,0,0,0,1,0,0,0,0,,,1,2024-11-11,Excellent
+Apollo_Delhi,APO0310,Patient_Apollo_Delhi_310,MRN925816,78,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-06-06,6,6,36,6,16,0,1,1,0,0,0,1,0,0,,,1,2025-05-26,Excellent
+Apollo_Delhi,APO0311,Patient_Apollo_Delhi_311,MRN474705,74,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-09-03,4,6,36,6,6,0,1,0,0,0,0,0,0,0,,,1,2024-08-31,Good
+Apollo_Delhi,APO0312,Patient_Apollo_Delhi_312,MRN671542,56,M,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-04-19,4,6,60,6,16,1,1,1,1,0,0,0,1,0,,,1,2025-04-18,Fair
+Apollo_Delhi,APO0313,Patient_Apollo_Delhi_313,MRN908350,90,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-11-30,2,6,36,6,11,0,0,0,0,0,0,0,0,0,,,1,2024-11-06,Good
+Apollo_Delhi,APO0314,Patient_Apollo_Delhi_314,MRN710269,43,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-07-27,3,6,24,6,9,1,1,0,1,0,1,0,1,0,,,0,,Good
+Apollo_Delhi,APO0315,Patient_Apollo_Delhi_315,MRN654594,52,F,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-07-05,4,6,24,6,6,0,0,0,0,0,0,0,0,0,,,1,2025-06-08,Good
+Apollo_Delhi,APO0316,Patient_Apollo_Delhi_316,MRN247718,67,M,RVO,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-07-15,7,6,12,6,6,1,1,0,1,1,0,0,1,0,,,1,2025-07-03,Good
+Apollo_Delhi,APO0317,Patient_Apollo_Delhi_317,MRN408987,66,F,DME,None,None,Bevacizumab,2025-07-30,5,6,18,6,10,1,1,1,1,0,0,0,1,0,,,1,2025-07-27,Poor
+Apollo_Delhi,APO0318,Patient_Apollo_Delhi_318,MRN745263,70,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-07-12,5,6,24,6,10,1,1,0,0,1,0,0,0,0,,,1,2025-06-19,Excellent
+Apollo_Delhi,APO0319,Patient_Apollo_Delhi_319,MRN458745,83,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-01-29,7,6,24,6,13,1,0,1,0,0,0,0,0,0,,,1,2025-01-22,Fair
+Apollo_Delhi,APO0320,Patient_Apollo_Delhi_320,MRN207512,63,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-10-25,9,6,24,6,13,0,0,0,1,0,0,0,1,0,,,1,2024-10-04,Fair
+Apollo_Delhi,APO0321,Patient_Apollo_Delhi_321,MRN247443,66,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-07-03,7,6,36,6,17,1,1,0,0,0,0,0,0,0,,,1,2025-06-22,Fair
+Apollo_Delhi,APO0322,Patient_Apollo_Delhi_322,MRN570587,57,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-01-17,6,6,18,6,8,0,0,0,1,0,0,0,1,0,,,1,2025-01-14,Excellent
+Apollo_Delhi,APO0323,Patient_Apollo_Delhi_323,MRN473616,72,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-06-29,6,6,24,6,9,1,1,0,0,0,1,0,0,0,,,1,2025-06-25,Good
+Apollo_Delhi,APO0324,Patient_Apollo_Delhi_324,MRN757409,61,F,RVO,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-09-08,9,6,12,6,7,1,1,0,1,0,1,0,1,0,,,1,2024-08-23,Fair
+Apollo_Delhi,APO0325,Patient_Apollo_Delhi_325,MRN786976,61,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-11-25,2,6,24,6,6,1,0,0,0,1,0,0,0,0,,,1,2024-10-31,Excellent
+Apollo_Delhi,APO0326,Patient_Apollo_Delhi_326,MRN465871,71,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-05-29,4,6,36,6,11,1,1,1,1,1,0,1,1,1,Eye pain,Mild,1,2025-05-08,Fair
+Apollo_Delhi,APO0327,Patient_Apollo_Delhi_327,MRN475037,77,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-09-26,8,6,24,6,11,1,1,0,1,1,1,0,1,0,,,1,2024-09-11,Fair
+Apollo_Delhi,APO0328,Patient_Apollo_Delhi_328,MRN907364,40,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-10-19,3,6,60,6,20,1,0,0,1,0,0,0,1,0,,,1,2024-10-01,Fair
+Apollo_Delhi,APO0329,Patient_Apollo_Delhi_329,MRN217796,69,M,DME,None,None,Aflibercept,2024-09-22,8,6,18,6,11,1,0,1,1,0,0,1,0,0,,,0,,Excellent
+Apollo_Delhi,APO0330,Patient_Apollo_Delhi_330,MRN391999,61,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-08-17,6,6,24,6,13,1,0,1,1,0,0,0,1,0,,,0,,Fair
+Apollo_Delhi,APO0331,Patient_Apollo_Delhi_331,MRN292506,76,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-02-02,3,6,18,6,6,0,1,0,0,0,0,0,0,0,,,1,2025-01-23,Fair
+Apollo_Delhi,APO0332,Patient_Apollo_Delhi_332,MRN798376,61,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-10-13,9,6,24,6,10,1,1,0,1,0,0,0,1,0,,,1,2024-09-20,Fair
+Apollo_Delhi,APO0333,Patient_Apollo_Delhi_333,MRN369544,80,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-09-14,2,6,36,6,11,1,0,1,1,1,0,1,1,0,,,0,,Excellent
+Apollo_Delhi,APO0334,Patient_Apollo_Delhi_334,MRN480002,56,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-08-23,5,6,24,6,11,0,0,0,0,0,0,0,0,0,,,1,2024-08-19,Excellent
+Apollo_Delhi,APO0335,Patient_Apollo_Delhi_335,MRN798002,40,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-11-02,10,6,36,6,16,0,1,0,1,0,0,0,1,0,,,1,2024-10-06,Good
+Apollo_Delhi,APO0336,Patient_Apollo_Delhi_336,MRN639439,77,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-02-26,5,6,18,6,7,0,1,0,1,0,1,0,1,0,,,1,2025-02-04,Excellent
+Apollo_Delhi,APO0337,Patient_Apollo_Delhi_337,MRN690978,54,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-07-16,4,6,36,6,8,1,1,1,1,0,1,1,1,0,,,1,2025-06-24,Good
+Apollo_Delhi,APO0338,Patient_Apollo_Delhi_338,MRN628787,46,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-05-30,7,6,12,6,6,0,0,0,0,0,0,0,0,0,,,1,2025-05-11,Poor
+Apollo_Delhi,APO0339,Patient_Apollo_Delhi_339,MRN630583,65,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-06-21,3,6,36,6,10,0,0,1,0,0,0,1,0,0,,,1,2025-06-04,Good
+Apollo_Delhi,APO0340,Patient_Apollo_Delhi_340,MRN488215,62,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-02-21,6,6,18,6,6,0,1,0,0,0,0,0,0,0,,,1,2025-02-09,Fair
+Apollo_Delhi,APO0341,Patient_Apollo_Delhi_341,MRN421184,74,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-08-08,3,6,18,6,6,1,1,1,0,1,1,1,0,0,,,1,2025-07-21,Excellent
+Apollo_Delhi,APO0342,Patient_Apollo_Delhi_342,MRN898615,75,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-09-07,3,6,24,6,9,1,0,0,1,0,0,0,1,0,,,1,2024-08-25,Excellent
+Apollo_Delhi,APO0343,Patient_Apollo_Delhi_343,MRN522515,66,M,RVO,None,None,Aflibercept,2024-09-03,4,6,60,6,12,1,1,0,0,1,1,0,0,1,Vitreous hemorrhage,Moderate,1,2024-08-15,Excellent
+Apollo_Delhi,APO0344,Patient_Apollo_Delhi_344,MRN768234,54,F,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-02-25,2,6,12,6,6,1,1,1,0,1,1,0,0,0,,,1,2025-02-06,Good
+Apollo_Delhi,APO0345,Patient_Apollo_Delhi_345,MRN478480,68,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-11-19,2,6,18,6,6,1,1,0,1,1,1,0,1,0,,,1,2024-11-16,Poor
+Apollo_Delhi,APO0346,Patient_Apollo_Delhi_346,MRN132711,66,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-03-13,4,6,36,6,8,0,0,0,0,0,0,0,0,0,,,1,2025-03-01,Excellent
+Apollo_Delhi,APO0347,Patient_Apollo_Delhi_347,MRN891971,71,F,AMD,None,None,Bevacizumab,2025-04-17,5,6,18,6,10,0,1,0,0,0,0,0,0,0,,,1,2025-03-24,Fair
+Apollo_Delhi,APO0348,Patient_Apollo_Delhi_348,MRN601157,54,F,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-09-27,8,6,18,6,11,0,1,0,0,0,1,0,0,0,,,1,2024-09-09,Good
+Apollo_Delhi,APO0349,Patient_Apollo_Delhi_349,MRN284423,60,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-08-16,7,6,24,6,11,0,1,0,0,0,0,0,0,0,,,1,2024-08-07,Poor
+Apollo_Delhi,APO0350,Patient_Apollo_Delhi_350,MRN616349,71,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-09-12,8,6,18,6,10,1,0,1,1,1,0,0,1,0,,,1,2024-09-04,Excellent
+Apollo_Delhi,APO0351,Patient_Apollo_Delhi_351,MRN803714,79,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-02-10,2,6,60,6,10,1,0,0,1,0,0,0,1,0,,,1,2025-01-31,Good
+Apollo_Delhi,APO0352,Patient_Apollo_Delhi_352,MRN757917,76,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-01-14,7,6,36,6,18,1,0,0,1,1,0,0,1,0,,,1,2025-01-07,Excellent
+Apollo_Delhi,APO0353,Patient_Apollo_Delhi_353,MRN924792,65,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-11-11,8,6,24,6,16,1,1,0,0,1,1,0,0,0,,,1,2024-10-19,Good
+Apollo_Delhi,APO0354,Patient_Apollo_Delhi_354,MRN837378,59,F,DME,None,None,Bevacizumab,2025-07-18,5,6,60,6,30,1,0,1,1,1,0,1,1,0,,,1,2025-07-16,Good
+Apollo_Delhi,APO0355,Patient_Apollo_Delhi_355,MRN233272,69,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-05-11,4,6,24,6,6,0,1,1,0,0,1,1,0,0,,,1,2025-04-22,Fair
+Apollo_Delhi,APO0356,Patient_Apollo_Delhi_356,MRN867836,51,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-03-03,4,6,12,6,6,0,0,0,0,0,0,0,0,0,,,1,2025-02-10,Fair
+Apollo_Delhi,APO0357,Patient_Apollo_Delhi_357,MRN802335,55,F,AMD,None,None,Bevacizumab,2025-04-16,4,6,18,6,6,1,1,0,0,1,1,0,0,0,,,1,2025-04-06,Fair
+Apollo_Delhi,APO0358,Patient_Apollo_Delhi_358,MRN907789,83,F,RVO,Diabetes,"Metformin, Insulin",Aflibercept,2025-06-19,2,6,24,6,6,1,1,1,0,1,0,1,0,0,,,1,2025-06-05,Good
+Apollo_Delhi,APO0359,Patient_Apollo_Delhi_359,MRN743409,69,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-06-27,6,6,18,6,7,0,0,0,0,0,0,0,0,0,,,1,2025-06-18,Excellent
+Apollo_Delhi,APO0360,Patient_Apollo_Delhi_360,MRN177505,60,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-11-22,8,6,60,6,31,1,0,1,0,0,0,1,0,0,,,1,2024-11-03,Good
+Apollo_Delhi,APO0361,Patient_Apollo_Delhi_361,MRN102869,74,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-12-20,7,6,36,6,18,1,0,1,1,0,0,1,0,0,,,1,2024-11-27,Poor
+Apollo_Delhi,APO0362,Patient_Apollo_Delhi_362,MRN881474,80,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-07-07,8,6,18,6,10,1,1,1,0,1,0,0,0,0,,,1,2025-06-19,Fair
+Apollo_Delhi,APO0363,Patient_Apollo_Delhi_363,MRN554351,59,M,AMD,None,None,Aflibercept,2025-01-26,5,6,24,6,12,1,1,0,0,1,1,0,0,1,Transient IOP elevation,Mild,1,2025-01-01,Fair
+Apollo_Delhi,APO0364,Patient_Apollo_Delhi_364,MRN412252,59,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-01-21,6,6,36,6,17,1,0,1,0,1,0,0,0,0,,,1,2025-01-04,Fair
+Apollo_Delhi,APO0365,Patient_Apollo_Delhi_365,MRN736584,58,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-07-06,4,6,60,6,10,0,1,1,1,0,0,0,1,0,,,1,2025-06-10,Excellent
+Apollo_Delhi,APO0366,Patient_Apollo_Delhi_366,MRN718467,76,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-12-31,3,6,36,6,11,1,0,0,0,0,0,0,0,0,,,1,2024-12-10,Good
+Apollo_Delhi,APO0367,Patient_Apollo_Delhi_367,MRN190272,76,F,DME,None,None,Ranibizumab,2025-07-24,6,6,24,6,13,0,0,0,1,0,0,0,0,0,,,1,2025-06-26,Excellent
+Apollo_Delhi,APO0368,Patient_Apollo_Delhi_368,MRN138467,81,M,AMD,None,None,Aflibercept,2024-11-27,5,6,36,6,17,1,0,0,1,1,0,0,1,0,,,1,2024-11-13,Good
+Apollo_Delhi,APO0369,Patient_Apollo_Delhi_369,MRN909760,77,M,AMD,None,None,Bevacizumab,2025-03-28,11,6,24,6,14,1,1,0,0,0,0,0,0,0,,,1,2025-03-26,Excellent
+Apollo_Delhi,APO0370,Patient_Apollo_Delhi_370,MRN977844,45,F,RVO,Diabetes,"Metformin, Insulin",Ranibizumab,2024-10-08,6,6,24,6,11,1,0,0,0,1,0,0,0,0,,,1,2024-09-23,Good
+Apollo_Delhi,APO0371,Patient_Apollo_Delhi_371,MRN580047,68,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-10-23,5,6,18,6,7,1,0,0,0,0,0,0,0,0,,,1,2024-10-22,Fair
+Apollo_Delhi,APO0372,Patient_Apollo_Delhi_372,MRN759347,52,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-09-04,4,6,18,6,6,1,0,0,1,1,0,0,0,0,,,0,,Fair
+Apollo_Delhi,APO0373,Patient_Apollo_Delhi_373,MRN158871,58,F,RVO,Diabetes,"Metformin, Insulin",Bevacizumab,2024-10-17,4,6,24,6,6,1,0,0,0,1,0,0,0,0,,,1,2024-10-16,Fair
+Apollo_Delhi,APO0374,Patient_Apollo_Delhi_374,MRN228391,67,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-01-11,7,6,18,6,9,1,1,0,0,0,1,0,0,0,,,1,2024-12-20,Poor
+Apollo_Delhi,APO0375,Patient_Apollo_Delhi_375,MRN539430,75,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-02-17,3,6,12,6,6,1,0,1,0,1,0,1,0,0,,,1,2025-02-13,Excellent
+Apollo_Delhi,APO0376,Patient_Apollo_Delhi_376,MRN710704,54,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-07-03,3,6,36,6,11,1,0,1,1,1,0,0,0,0,,,1,2025-06-26,Excellent
+Apollo_Delhi,APO0377,Patient_Apollo_Delhi_377,MRN956703,40,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-03-14,2,6,12,6,6,0,1,0,0,0,0,0,0,0,,,1,2025-02-17,Fair
+Apollo_Delhi,APO0378,Patient_Apollo_Delhi_378,MRN930496,67,F,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-02-14,3,6,24,6,6,1,0,0,0,0,0,0,0,0,,,1,2025-02-01,Good
+Apollo_Delhi,APO0379,Patient_Apollo_Delhi_379,MRN356687,90,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-09-15,4,6,24,6,8,1,1,0,1,1,0,0,1,0,,,0,,Good
+Apollo_Delhi,APO0380,Patient_Apollo_Delhi_380,MRN825451,62,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-04-13,10,6,60,6,40,0,1,1,1,0,0,1,1,0,,,1,2025-04-05,Good
+Apollo_Delhi,APO0381,Patient_Apollo_Delhi_381,MRN207450,65,M,RVO,Diabetes,"Metformin, Insulin",Aflibercept,2025-01-04,5,6,24,6,11,0,0,1,1,0,0,0,1,0,,,1,2024-12-25,Good
+Apollo_Delhi,APO0382,Patient_Apollo_Delhi_382,MRN271890,86,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-10-13,4,6,12,6,6,1,1,1,0,0,1,0,0,0,,,1,2024-09-16,Good
+Apollo_Delhi,APO0383,Patient_Apollo_Delhi_383,MRN538741,72,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-12-10,4,6,24,6,6,0,0,0,1,0,0,0,1,0,,,1,2024-11-18,Good
+Apollo_Delhi,APO0384,Patient_Apollo_Delhi_384,MRN381974,67,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-05-28,5,6,36,6,15,1,1,1,1,0,1,1,1,0,,,1,2025-05-22,Good
+Apollo_Delhi,APO0385,Patient_Apollo_Delhi_385,MRN500109,70,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-07-21,2,6,60,6,12,1,1,0,0,1,0,0,0,0,,,1,2025-07-20,Fair
+Apollo_Delhi,APO0386,Patient_Apollo_Delhi_386,MRN216381,68,F,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-04-30,5,6,24,6,10,1,0,1,1,0,0,1,0,0,,,1,2025-04-06,Good
+Apollo_Delhi,APO0387,Patient_Apollo_Delhi_387,MRN573125,51,F,RVO,None,None,Bevacizumab,2025-05-04,7,6,18,6,9,0,1,0,0,0,0,0,0,0,,,1,2025-04-14,Good
+Apollo_Delhi,APO0388,Patient_Apollo_Delhi_388,MRN671621,48,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-09-27,6,6,60,6,23,1,1,1,1,1,1,1,0,0,,,1,2024-09-16,Excellent
+Apollo_Delhi,APO0389,Patient_Apollo_Delhi_389,MRN234508,87,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-05-20,8,6,18,6,8,1,1,0,0,1,0,0,0,0,,,1,2025-04-29,Good
+Apollo_Delhi,APO0390,Patient_Apollo_Delhi_390,MRN829650,67,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-03-12,8,6,24,6,16,1,1,1,1,0,1,0,1,0,,,1,2025-02-16,Fair
+Apollo_Delhi,APO0391,Patient_Apollo_Delhi_391,MRN962645,66,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-02-02,3,6,24,6,6,1,1,1,0,1,0,1,0,0,,,1,2025-01-31,Fair
+Apollo_Delhi,APO0392,Patient_Apollo_Delhi_392,MRN499111,63,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-07-20,8,6,12,6,6,1,0,0,1,0,0,0,0,0,,,1,2025-07-16,Fair
+Apollo_Delhi,APO0393,Patient_Apollo_Delhi_393,MRN250810,74,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-02-07,5,6,18,6,7,1,0,0,0,0,0,0,0,0,,,1,2025-01-28,Good
+Apollo_Delhi,APO0394,Patient_Apollo_Delhi_394,MRN392890,90,F,DME,None,None,Ranibizumab,2025-06-06,9,6,18,6,11,1,1,1,1,0,0,0,1,0,,,1,2025-05-29,Good
+Apollo_Delhi,APO0395,Patient_Apollo_Delhi_395,MRN673665,71,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-12-29,4,6,24,6,6,1,0,0,1,0,0,0,0,0,,,0,,Good
+Apollo_Delhi,APO0396,Patient_Apollo_Delhi_396,MRN940477,57,F,DME,None,None,Aflibercept,2025-04-10,3,6,60,6,23,1,1,0,0,0,1,0,0,0,,,1,2025-04-04,Good
+Apollo_Delhi,APO0397,Patient_Apollo_Delhi_397,MRN460032,63,F,RVO,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-04-10,5,6,18,6,6,1,0,0,1,0,0,0,1,0,,,1,2025-03-13,Good
+Apollo_Delhi,APO0398,Patient_Apollo_Delhi_398,MRN469599,77,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-10-14,7,6,36,6,18,0,0,0,1,0,0,0,1,0,,,1,2024-10-13,Good
+Apollo_Delhi,APO0399,Patient_Apollo_Delhi_399,MRN760960,58,F,DME,None,None,Ranibizumab,2025-06-05,4,6,12,6,6,0,0,0,0,0,0,0,0,0,,,1,2025-05-27,Good
+Apollo_Delhi,APO0400,Patient_Apollo_Delhi_400,MRN850020,75,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-03-31,4,6,24,6,7,1,1,0,0,1,1,0,0,0,,,1,2025-03-21,Fair
+Apollo_Delhi,APO0401,Patient_Apollo_Delhi_401,MRN979611,40,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-03-24,3,6,12,6,6,1,1,0,1,1,1,0,1,0,,,1,2025-03-06,Excellent
+Apollo_Delhi,APO0402,Patient_Apollo_Delhi_402,MRN271836,62,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-06-14,4,6,60,6,12,1,1,0,0,0,1,0,0,0,,,1,2025-05-24,Fair
+Apollo_Delhi,APO0403,Patient_Apollo_Delhi_403,MRN829903,72,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-04-02,4,6,36,6,8,1,0,1,0,0,0,0,0,0,,,1,2025-03-28,Excellent
+Apollo_Delhi,APO0404,Patient_Apollo_Delhi_404,MRN145714,80,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-08-31,6,6,24,6,13,0,1,1,0,0,0,1,0,0,,,1,2024-08-05,Excellent
+Apollo_Delhi,APO0405,Patient_Apollo_Delhi_405,MRN727234,55,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-09-25,8,6,36,6,16,1,0,1,0,1,0,1,0,0,,,1,2024-09-08,Poor
+Apollo_Delhi,APO0406,Patient_Apollo_Delhi_406,MRN996048,46,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-05-31,2,6,24,6,6,0,1,0,0,0,1,0,0,0,,,1,2025-05-14,Poor
+Apollo_Delhi,APO0407,Patient_Apollo_Delhi_407,MRN730271,61,F,RVO,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-09-16,6,6,60,6,23,1,1,1,0,0,1,1,0,0,,,1,2024-09-10,Excellent
+Apollo_Delhi,APO0408,Patient_Apollo_Delhi_408,MRN566960,51,M,RVO,Diabetes,"Metformin, Insulin",Bevacizumab,2025-04-20,8,6,36,6,17,1,0,0,1,0,0,0,0,0,,,1,2025-04-12,Good
+Apollo_Delhi,APO0409,Patient_Apollo_Delhi_409,MRN811851,63,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-07-21,7,6,60,6,34,1,1,0,1,0,1,0,1,0,,,1,2025-07-14,Excellent
+Apollo_Delhi,APO0410,Patient_Apollo_Delhi_410,MRN224123,64,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-11-21,3,6,24,6,6,1,1,1,0,0,1,1,0,0,,,1,2024-11-06,Good
+Apollo_Delhi,APO0411,Patient_Apollo_Delhi_411,MRN405628,49,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-12-08,4,6,18,6,6,1,0,1,1,0,0,1,1,0,,,1,2024-11-11,Fair
+Apollo_Delhi,APO0412,Patient_Apollo_Delhi_412,MRN182989,74,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-08-03,6,6,24,6,8,1,1,1,1,0,1,1,1,0,,,1,2025-07-25,Poor
+Apollo_Delhi,APO0413,Patient_Apollo_Delhi_413,MRN398356,63,F,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-10-31,8,6,18,6,10,0,1,1,1,0,0,1,0,0,,,1,2024-10-16,Fair
+Apollo_Delhi,APO0414,Patient_Apollo_Delhi_414,MRN929957,77,M,AMD,None,None,Aflibercept,2025-01-29,3,6,24,6,6,0,0,0,0,0,0,0,0,0,,,1,2025-01-22,Good
+Apollo_Delhi,APO0415,Patient_Apollo_Delhi_415,MRN278274,42,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-06-25,5,6,24,6,11,1,0,0,0,0,0,0,0,0,,,1,2025-06-07,Fair
+Apollo_Delhi,APO0416,Patient_Apollo_Delhi_416,MRN787995,52,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-09-03,2,6,24,6,9,1,1,1,1,0,1,1,1,0,,,1,2024-08-16,Good
+Apollo_Delhi,APO0417,Patient_Apollo_Delhi_417,MRN425352,71,M,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-08-01,8,6,12,6,6,1,1,0,1,0,1,0,1,0,,,1,2025-07-10,Poor
+Apollo_Delhi,APO0418,Patient_Apollo_Delhi_418,MRN920260,55,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-10-26,2,6,18,6,6,1,1,0,1,1,0,0,0,0,,,1,2024-10-19,Fair
+Apollo_Delhi,APO0419,Patient_Apollo_Delhi_419,MRN511927,63,M,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-04-02,6,6,24,6,11,1,1,1,1,1,1,1,0,0,,,1,2025-03-19,Good
+Apollo_Delhi,APO0420,Patient_Apollo_Delhi_420,MRN889852,65,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-10-13,4,6,60,6,15,1,1,1,0,0,1,1,0,0,,,0,,Good
+Apollo_Delhi,APO0421,Patient_Apollo_Delhi_421,MRN983184,66,M,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-06-11,4,6,18,6,6,1,1,0,1,0,0,0,1,0,,,1,2025-06-07,Good
+Apollo_Delhi,APO0422,Patient_Apollo_Delhi_422,MRN231373,56,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-07-29,9,6,24,6,12,0,1,1,0,0,1,0,0,0,,,1,2025-07-13,Excellent
+Apollo_Delhi,APO0423,Patient_Apollo_Delhi_423,MRN538452,66,M,DME,None,None,Ranibizumab,2025-01-15,5,6,36,6,19,0,1,1,0,0,1,0,0,0,,,1,2024-12-24,Fair
+Apollo_Delhi,APO0424,Patient_Apollo_Delhi_424,MRN215294,55,M,DME,None,None,Aflibercept,2025-03-31,5,6,24,6,12,1,0,1,1,0,0,1,1,0,,,1,2025-03-11,Good
+Apollo_Delhi,APO0425,Patient_Apollo_Delhi_425,MRN559451,73,F,DME,None,None,Ranibizumab,2024-10-21,6,6,18,6,8,0,0,0,0,0,0,0,0,0,,,0,,Good
+Apollo_Delhi,APO0426,Patient_Apollo_Delhi_426,MRN748307,63,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-07-04,6,6,24,6,13,0,0,0,0,0,0,0,0,0,,,1,2025-06-27,Good
+Apollo_Delhi,APO0427,Patient_Apollo_Delhi_427,MRN165726,66,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-06-16,2,6,18,6,6,0,1,0,1,0,0,0,1,0,,,1,2025-05-23,Fair
+Apollo_Delhi,APO0428,Patient_Apollo_Delhi_428,MRN241564,90,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-06-24,6,6,60,6,25,1,1,0,0,0,0,0,0,0,,,1,2025-06-15,Excellent
+Apollo_Delhi,APO0429,Patient_Apollo_Delhi_429,MRN477812,51,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-06-13,7,6,18,6,10,1,0,0,1,0,0,0,0,0,,,1,2025-05-31,Fair
+Apollo_Delhi,APO0430,Patient_Apollo_Delhi_430,MRN368246,81,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-01-05,4,6,18,6,6,1,0,0,1,0,0,0,1,0,,,1,2024-12-13,Fair
+Apollo_Delhi,APO0431,Patient_Apollo_Delhi_431,MRN805696,40,F,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-06-17,5,6,12,6,6,1,1,0,1,1,1,0,1,0,,,1,2025-06-16,Poor
+Apollo_Delhi,APO0432,Patient_Apollo_Delhi_432,MRN218015,40,F,RVO,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-05-18,3,6,18,6,6,1,0,1,0,1,0,1,0,0,,,1,2025-04-26,Good
+Apollo_Delhi,APO0433,Patient_Apollo_Delhi_433,MRN840674,50,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-04-18,3,6,36,6,13,1,1,0,0,0,0,0,0,0,,,1,2025-03-28,Good
+Apollo_Delhi,APO0434,Patient_Apollo_Delhi_434,MRN354079,50,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-10-01,4,6,18,6,6,0,1,1,0,0,0,1,0,0,,,1,2024-09-26,Good
+Apollo_Delhi,APO0435,Patient_Apollo_Delhi_435,MRN650929,67,M,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-06-23,2,6,12,6,6,0,1,1,0,0,1,1,0,0,,,1,2025-06-20,Good
+Apollo_Delhi,APO0436,Patient_Apollo_Delhi_436,MRN789944,68,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-11-09,7,6,24,6,12,1,0,0,0,1,0,0,0,0,,,1,2024-11-08,Excellent
+Apollo_Delhi,APO0437,Patient_Apollo_Delhi_437,MRN788105,61,M,AMD,None,None,Ranibizumab,2025-07-13,6,6,12,6,6,1,0,1,1,0,0,1,1,0,,,1,2025-06-20,Fair
+Apollo_Delhi,APO0438,Patient_Apollo_Delhi_438,MRN613758,63,F,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-07-09,8,6,12,6,7,1,1,0,0,0,0,0,0,0,,,1,2025-06-16,Good
+Apollo_Delhi,APO0439,Patient_Apollo_Delhi_439,MRN465890,71,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-02-12,4,6,36,6,7,1,1,0,1,0,1,0,1,0,,,1,2025-02-03,Fair
+Apollo_Delhi,APO0440,Patient_Apollo_Delhi_440,MRN545101,74,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-03-13,4,6,36,6,11,1,1,1,0,0,0,1,0,0,,,1,2025-03-08,Excellent
+Apollo_Delhi,APO0441,Patient_Apollo_Delhi_441,MRN136631,49,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-09-18,5,6,60,6,22,0,0,0,1,0,0,0,1,0,,,1,2024-08-24,Fair
+Apollo_Delhi,APO0442,Patient_Apollo_Delhi_442,MRN866577,60,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-03-30,4,6,36,6,6,0,1,1,1,0,0,1,0,0,,,1,2025-03-13,Fair
+Apollo_Delhi,APO0443,Patient_Apollo_Delhi_443,MRN172991,64,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-07-20,7,6,24,6,14,0,1,0,0,0,0,0,0,0,,,1,2025-07-03,Fair
+Apollo_Delhi,APO0444,Patient_Apollo_Delhi_444,MRN104014,70,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-05-26,5,6,12,6,6,0,1,1,0,0,1,0,0,0,,,1,2025-05-14,Fair
+Apollo_Delhi,APO0445,Patient_Apollo_Delhi_445,MRN373237,55,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-08-07,6,6,36,6,14,1,1,0,1,1,0,0,1,0,,,1,2025-07-30,Fair
+Apollo_Delhi,APO0446,Patient_Apollo_Delhi_446,MRN118070,63,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-02-27,5,6,36,6,14,0,0,1,1,0,0,0,1,0,,,1,2025-02-22,Poor
+Apollo_Delhi,APO0447,Patient_Apollo_Delhi_447,MRN922209,65,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-04-05,3,6,36,6,7,0,0,0,1,0,0,0,1,0,,,1,2025-03-23,Good
+Apollo_Delhi,APO0448,Patient_Apollo_Delhi_448,MRN156958,56,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-01-05,3,6,24,6,6,1,1,1,0,0,1,1,0,0,,,1,2024-12-25,Good
+Apollo_Delhi,APO0449,Patient_Apollo_Delhi_449,MRN182074,56,F,RVO,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-03-28,4,6,18,6,6,1,1,1,0,0,1,1,0,0,,,1,2025-03-20,Excellent
+Apollo_Delhi,APO0450,Patient_Apollo_Delhi_450,MRN635017,66,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-17,6,6,36,6,14,0,0,0,1,0,0,0,1,0,,,1,2024-11-18,Excellent
+Apollo_Delhi,APO0451,Patient_Apollo_Delhi_451,MRN855073,63,F,AMD,None,None,Ranibizumab,2025-08-06,11,6,36,6,22,0,0,1,1,0,0,0,1,0,,,1,2025-07-09,Good
+Apollo_Delhi,APO0452,Patient_Apollo_Delhi_452,MRN276089,71,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-12-09,7,6,60,6,36,1,1,0,0,0,0,0,0,0,,,1,2024-12-01,Excellent
+Apollo_Delhi,APO0453,Patient_Apollo_Delhi_453,MRN297392,52,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-05-22,8,6,18,6,8,1,0,1,1,0,0,1,1,0,,,1,2025-04-29,Good
+Apollo_Delhi,APO0454,Patient_Apollo_Delhi_454,MRN258823,60,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-09-02,6,6,18,6,8,1,0,0,0,0,0,0,0,0,,,1,2024-08-20,Excellent
+Apollo_Delhi,APO0455,Patient_Apollo_Delhi_455,MRN730152,62,M,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-03-27,5,6,18,6,8,1,1,1,0,1,1,1,0,0,,,1,2025-03-25,Excellent
+Apollo_Delhi,APO0456,Patient_Apollo_Delhi_456,MRN493002,74,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-06-09,3,6,36,6,6,1,1,1,0,0,0,1,0,0,,,1,2025-05-21,Poor
+Apollo_Delhi,APO0457,Patient_Apollo_Delhi_457,MRN833429,53,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-04-17,9,6,18,6,10,1,1,0,0,1,0,0,0,0,,,1,2025-03-31,Excellent
+Apollo_Delhi,APO0458,Patient_Apollo_Delhi_458,MRN598863,67,F,DME,None,None,Bevacizumab,2025-07-11,5,6,12,6,6,1,0,0,1,1,0,0,1,0,,,1,2025-07-04,Fair
+Apollo_Delhi,APO0459,Patient_Apollo_Delhi_459,MRN467654,68,M,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-08-08,4,6,60,6,22,1,1,0,0,0,0,0,0,0,,,1,2025-07-20,Excellent
+Apollo_Delhi,APO0460,Patient_Apollo_Delhi_460,MRN679036,84,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-12-11,7,6,12,6,6,0,1,1,0,0,0,1,0,0,,,1,2024-11-17,Poor
+Apollo_Delhi,APO0461,Patient_Apollo_Delhi_461,MRN630089,52,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-05-30,2,6,36,6,11,1,1,0,1,1,1,0,1,0,,,1,2025-05-20,Fair
+Apollo_Delhi,APO0462,Patient_Apollo_Delhi_462,MRN250262,57,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-06-11,8,6,18,6,10,1,1,0,1,0,1,0,1,1,Transient IOP elevation,Mild,1,2025-05-28,Fair
+Apollo_Delhi,APO0463,Patient_Apollo_Delhi_463,MRN542905,53,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-06-22,4,6,36,6,10,0,0,1,1,0,0,0,0,0,,,1,2025-05-27,Fair
+Apollo_Delhi,APO0464,Patient_Apollo_Delhi_464,MRN335362,44,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-02-17,10,6,24,6,10,1,0,0,1,0,0,0,1,0,,,1,2025-01-22,Excellent
+Apollo_Delhi,APO0465,Patient_Apollo_Delhi_465,MRN544209,86,M,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-08-10,2,6,60,6,11,0,0,1,0,0,0,1,0,0,,,1,2025-07-16,Poor
+Apollo_Delhi,APO0466,Patient_Apollo_Delhi_466,MRN653880,50,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-07-04,5,6,60,6,30,1,0,0,1,1,0,0,1,0,,,1,2025-06-19,Fair
+Apollo_Delhi,APO0467,Patient_Apollo_Delhi_467,MRN897079,55,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-08-31,6,6,12,6,6,1,1,0,1,1,0,0,1,0,,,1,2024-08-25,Fair
+Apollo_Delhi,APO0468,Patient_Apollo_Delhi_468,MRN764076,80,F,AMD,None,None,Aflibercept,2024-09-07,2,6,12,6,6,1,1,1,1,1,1,1,1,0,,,1,2024-09-06,Fair
+Apollo_Delhi,APO0469,Patient_Apollo_Delhi_469,MRN319963,43,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-02-02,3,6,18,6,6,1,1,0,0,0,1,0,0,0,,,1,2025-01-09,Good
+Apollo_Delhi,APO0470,Patient_Apollo_Delhi_470,MRN580761,74,F,AMD,None,None,Aflibercept,2025-06-05,7,6,24,6,14,0,1,0,0,0,0,0,0,0,,,1,2025-05-19,Fair
+Apollo_Delhi,APO0471,Patient_Apollo_Delhi_471,MRN348710,48,F,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-09-29,7,6,36,6,21,1,0,1,1,0,0,1,1,0,,,1,2024-09-12,Good
+Apollo_Delhi,APO0472,Patient_Apollo_Delhi_472,MRN320984,79,F,AMD,None,None,Ranibizumab,2024-10-19,6,6,24,6,14,1,1,0,0,0,1,0,0,0,,,0,,Good
+Apollo_Delhi,APO0473,Patient_Apollo_Delhi_473,MRN997059,40,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-01-14,8,6,24,6,13,1,0,1,1,1,0,1,1,0,,,1,2024-12-20,Excellent
+Apollo_Delhi,APO0474,Patient_Apollo_Delhi_474,MRN956748,43,F,AMD,None,None,Bevacizumab,2025-07-01,7,6,18,6,12,1,0,1,1,1,0,0,1,0,,,1,2025-06-19,Poor
+Apollo_Delhi,APO0475,Patient_Apollo_Delhi_475,MRN882355,58,F,AMD,None,None,Ranibizumab,2025-04-18,5,6,36,6,17,1,0,0,1,0,0,0,1,0,,,1,2025-04-14,Excellent
+Apollo_Delhi,APO0476,Patient_Apollo_Delhi_476,MRN364512,76,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-08-31,6,6,60,6,24,1,1,0,1,1,0,0,0,0,,,1,2024-08-02,Good
+Apollo_Delhi,APO0477,Patient_Apollo_Delhi_477,MRN701863,64,M,DME,None,None,Bevacizumab,2025-03-25,6,6,18,6,8,0,1,1,1,0,0,1,0,0,,,1,2025-02-25,Good
+Apollo_Delhi,APO0478,Patient_Apollo_Delhi_478,MRN368799,60,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-09-21,7,6,24,6,14,1,0,0,0,0,0,0,0,0,,,1,2024-09-07,Fair
+Apollo_Delhi,APO0479,Patient_Apollo_Delhi_479,MRN337549,81,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-10-13,6,6,12,6,6,1,0,0,1,1,0,0,0,0,,,1,2024-10-07,Fair
+Apollo_Delhi,APO0480,Patient_Apollo_Delhi_480,MRN694319,90,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-07-25,4,6,24,6,7,1,1,1,1,1,1,1,0,0,,,1,2025-07-23,Good
+Apollo_Delhi,APO0481,Patient_Apollo_Delhi_481,MRN584299,73,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-10-23,4,6,24,6,6,0,0,0,0,0,0,0,0,0,,,0,,Excellent
+Apollo_Delhi,APO0482,Patient_Apollo_Delhi_482,MRN712210,57,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-05-29,6,6,18,6,8,0,1,1,0,0,1,1,0,0,,,1,2025-05-22,Fair
+Apollo_Delhi,APO0483,Patient_Apollo_Delhi_483,MRN548982,59,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-07-26,8,6,24,6,12,1,1,0,0,0,0,0,0,0,,,1,2025-07-12,Poor
+Apollo_Delhi,APO0484,Patient_Apollo_Delhi_484,MRN224046,49,M,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-09-09,7,6,18,6,11,1,1,0,1,1,0,0,1,0,,,1,2024-08-15,Fair
+Apollo_Delhi,APO0485,Patient_Apollo_Delhi_485,MRN506619,66,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-08-07,5,6,24,6,9,1,1,0,0,0,1,0,0,0,,,1,2025-07-09,Good
+Apollo_Delhi,APO0486,Patient_Apollo_Delhi_486,MRN132097,45,M,DME,None,None,Bevacizumab,2025-04-06,3,6,24,6,8,1,1,1,1,1,0,0,1,0,,,1,2025-03-13,Poor
+Apollo_Delhi,APO0487,Patient_Apollo_Delhi_487,MRN766326,71,F,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-08-05,3,6,12,6,6,1,1,1,0,1,1,1,0,0,,,1,2025-08-04,Good
+Apollo_Delhi,APO0488,Patient_Apollo_Delhi_488,MRN749150,89,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-12-22,4,6,36,6,9,1,1,1,0,1,0,0,0,0,,,1,2024-11-27,Good
+Apollo_Delhi,APO0489,Patient_Apollo_Delhi_489,MRN330229,73,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-01-28,5,6,36,6,12,0,1,0,1,0,0,0,1,0,,,1,2025-01-27,Good
+Apollo_Delhi,APO0490,Patient_Apollo_Delhi_490,MRN218834,59,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-09-24,5,6,18,6,6,1,0,0,0,0,0,0,0,0,,,1,2024-09-17,Good
+Apollo_Delhi,APO0491,Patient_Apollo_Delhi_491,MRN193848,71,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-11-07,4,6,12,6,6,0,1,0,1,0,0,0,1,0,,,1,2024-10-25,Fair
+Apollo_Delhi,APO0492,Patient_Apollo_Delhi_492,MRN152921,84,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-03-06,8,6,36,6,20,1,1,0,1,0,1,0,0,0,,,1,2025-03-05,Good
+Apollo_Delhi,APO0493,Patient_Apollo_Delhi_493,MRN805086,83,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-11-06,6,6,60,6,26,1,1,0,1,0,0,0,0,0,,,1,2024-10-15,Good
+Apollo_Delhi,APO0494,Patient_Apollo_Delhi_494,MRN750429,52,F,AMD,None,None,Bevacizumab,2025-08-07,3,6,18,6,6,1,1,1,0,0,1,1,0,0,,,1,2025-07-15,Good
+Apollo_Delhi,APO0495,Patient_Apollo_Delhi_495,MRN805660,71,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-01-06,5,6,18,6,7,1,1,0,1,0,1,0,1,0,,,1,2024-12-25,Excellent
+Apollo_Delhi,APO0496,Patient_Apollo_Delhi_496,MRN384821,63,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-01-14,7,6,18,6,11,1,0,1,1,1,0,0,1,0,,,1,2024-12-24,Good
+Apollo_Delhi,APO0497,Patient_Apollo_Delhi_497,MRN155609,74,M,RVO,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-05-29,4,6,24,6,6,1,1,0,1,1,1,0,1,0,,,1,2025-05-26,Good
+Apollo_Delhi,APO0498,Patient_Apollo_Delhi_498,MRN327897,69,F,RVO,Diabetes,"Metformin, Insulin",Bevacizumab,2025-05-10,10,6,18,6,10,0,1,1,0,0,1,0,0,0,,,1,2025-04-28,Excellent
+Apollo_Delhi,APO0499,Patient_Apollo_Delhi_499,MRN131024,40,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-06-07,7,6,18,6,11,1,1,0,1,0,0,0,0,0,,,1,2025-06-06,Fair

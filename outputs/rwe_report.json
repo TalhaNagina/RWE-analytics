@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "n_hospitals": 3,
+    "n_patients": 1142,
+    "analysis_date": "2026-02-06"
+  },
+  "efficacy": {
+    "bcva_improvement": {
+      "Aflibercept": {
+        "Mean_Lines": 4.08,
+        "Std_Dev": 1.32,
+        "N_Patients": 314,
+        "Median_Lines": 3.8
+      },
+      "Bevacizumab": {
+        "Mean_Lines": 4.06,
+        "Std_Dev": 1.34,
+        "N_Patients": 375,
+        "Median_Lines": 3.8
+      },
+      "Ranibizumab": {
+        "Mean_Lines": 3.95,
+        "Std_Dev": 1.35,
+        "N_Patients": 453,
+        "Median_Lines": 3.63
+      }
+    }
+  },
+  "safety": {
+    "total_patients": 1142,
+    "total_adverse_events": 28,
+    "adverse_event_rate_percent": 2.45,
+    "event_breakdown": {
+      "Subconjunctival hemorrhage": 10,
+      "Transient IOP elevation": 8,
+      "Eye pain": 7,
+      "Floaters": 2,
+      "Vitreous hemorrhage": 1
+    },
+    "severity_distribution": {
+      "Mild": 27,
+      "Moderate": 1
+    },
+    "by_molecule": {
+      "Aflibercept": {
+        "total_patients": 314,
+        "events": 10,
+        "rate_percent": 3.18
+      },
+      "Bevacizumab": {
+        "total_patients": 375,
+        "events": 7,
+        "rate_percent": 1.87
+      },
+      "Ranibizumab": {
+        "total_patients": 453,
+        "events": 11,
+        "rate_percent": 2.43
+      }
+    }
+  },
+  "treatment_burden": {
+    "injection_frequency": {
+      "Aflibercept": {
+        "Mean": 5.34,
+        "Median": 5.0,
+        "Std_Dev": 2.4,
+        "Min": 2,
+        "Max": 12,
+        "Trial_Protocol": 6,
+        "Gap": -0.6600000000000001
+      },
+      "Bevacizumab": {
+        "Mean": 5.28,
+        "Median": 5.0,
+        "Std_Dev": 2.18,
+        "Min": 2,
+        "Max": 12,
+        "Trial_Protocol": 7,
+        "Gap": -1.7199999999999998
+      },
+      "Ranibizumab": {
+        "Mean": 5.33,
+        "Median": 5.0,
+        "Std_Dev": 2.22,
+        "Min": 2,
+        "Max": 12,
+        "Trial_Protocol": 7,
+        "Gap": -1.67
+      }
+    }
+  },
+  "anatomical_outcomes": {
+    "irf_resolution_rate": 50.2,
+    "srf_resolution_rate": 51.6,
+    "hard_exudates_resolution_rate": 37.1,
+    "details": {
+      "irf": {
+        "baseline": "802",
+        "resolved": "403"
+      },
+      "srf": {
+        "baseline": "703",
+        "resolved": "363"
+      },
+      "hard_exudates": {
+        "baseline": "448",
+        "resolved": "166"
+      }
+    }
+  },
+  "subgroup_analysis": {
+    "comorbidity_impact": {
+      "Both": {
+        "BCVA_Improvement": 4.34,
+        "N_Patients": 280,
+        "Adverse_Events": 8,
+        "Avg_Injections": 5.36
+      },
+      "Diabetes": {
+        "BCVA_Improvement": 4.21,
+        "N_Patients": 352,
+        "Adverse_Events": 10,
+        "Avg_Injections": 5.26
+      },
+      "Hypertension": {
+        "BCVA_Improvement": 3.76,
+        "N_Patients": 281,
+        "Adverse_Events": 6,
+        "Avg_Injections": 5.39
+      }
+    }
+  }
+}

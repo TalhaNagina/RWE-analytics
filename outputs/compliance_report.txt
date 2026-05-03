@@ -1,0 +1,47 @@
+
+================================================================================
+DPDP COMPLIANCE REPORT
+Generated: 2026-02-06 16:30:08
+================================================================================
+
+PRIVACY ENGINE CONFIGURATION
+----------------------------
+K-Anonymity Level: 5
+TEE Protection: Enabled (Simulated AMD SEV-SNP)
+Audit Logging: Enabled
+
+COMPLIANCE CHECKLIST
+--------------------
+✓ Article 6 - Consent Required: All records verified
+✓ Article 8 - Purpose Limitation: Only approved analytics code executed
+✓ Article 10 - Data Minimization: PII removed, only necessary fields retained
+✓ Article 11 - Accuracy: Original data validated at source
+✓ Article 16 - Data Principal Rights: Consent revocation supported
+
+PROCESSING SUMMARY
+------------------
+Total Hospitals Processed: 3
+Total Records Processed: 1142
+Total Consented Records: 1142
+Records Rejected (No Consent): 58
+
+AUDIT TRAIL
+-----------
+Total Audit Events: 12
+
+Recent Events:
+
+[2026-02-06T16:30:08.219924] K_ANONYMITY_APPLICATION - Apollo Delhi
+[2026-02-06T16:30:08.222090] TEE_ATTESTATION - Apollo Delhi
+[2026-02-06T16:30:08.244762] CONSENT_VERIFICATION - Sankara Nethralaya Chennai
+[2026-02-06T16:30:08.249677] PII_REMOVAL - Sankara Nethralaya Chennai
+[2026-02-06T16:30:08.253393] K_ANONYMITY_APPLICATION - Sankara Nethralaya Chennai
+[2026-02-06T16:30:08.254922] TEE_ATTESTATION - Sankara Nethralaya Chennai
+[2026-02-06T16:30:08.272915] CONSENT_VERIFICATION - LV Prasad Hyderabad
+[2026-02-06T16:30:08.278350] PII_REMOVAL - LV Prasad Hyderabad
+[2026-02-06T16:30:08.282980] K_ANONYMITY_APPLICATION - LV Prasad Hyderabad
+[2026-02-06T16:30:08.284877] TEE_ATTESTATION - LV Prasad Hyderabad
+
+================================================================================
+ATTESTATION: This report certifies DPDP-compliant processing
+================================================================================

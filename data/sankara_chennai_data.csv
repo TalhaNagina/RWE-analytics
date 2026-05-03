@@ -1,0 +1,301 @@
+hospital_id,patient_id,patient_name,mrn,age,gender,diagnosis,comorbidities,concomitant_medications,molecule,treatment_start_date,injections_per_year,bcva_baseline_numerator,bcva_baseline_denominator,bcva_6m_numerator,bcva_6m_denominator,irf_baseline,srf_baseline,hard_exudates_baseline,hrf_baseline,irf_6m,srf_6m,hard_exudates_6m,hrf_6m,adverse_events,event_type,event_severity,consent_provided,consent_date,follow_up_compliance
+Sankara_Chennai,SAN0000,Patient_Sankara_Chennai_0,MRN971949,59,F,AMD,None,None,Aflibercept,2025-08-05,8,6,12,6,6,1,1,0,1,1,1,0,0,0,,,1,2025-07-09,Good
+Sankara_Chennai,SAN0001,Patient_Sankara_Chennai_1,MRN472384,61,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-11-21,5,6,18,6,6,0,1,0,1,0,0,0,1,0,,,1,2024-11-04,Fair
+Sankara_Chennai,SAN0002,Patient_Sankara_Chennai_2,MRN626406,65,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-08-24,3,6,12,6,6,1,0,0,0,0,0,0,0,0,,,1,2024-08-16,Good
+Sankara_Chennai,SAN0003,Patient_Sankara_Chennai_3,MRN756023,62,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-06-12,2,6,24,6,8,1,1,0,1,1,0,0,1,0,,,1,2025-06-11,Excellent
+Sankara_Chennai,SAN0004,Patient_Sankara_Chennai_4,MRN162408,73,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-10-12,7,6,18,6,9,1,0,0,0,0,0,0,0,0,,,1,2024-09-22,Fair
+Sankara_Chennai,SAN0005,Patient_Sankara_Chennai_5,MRN151786,60,M,DME,None,None,Ranibizumab,2025-02-20,2,6,18,6,6,0,1,0,1,0,1,0,1,0,,,1,2025-02-05,Excellent
+Sankara_Chennai,SAN0006,Patient_Sankara_Chennai_6,MRN705559,58,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-11-01,3,6,36,6,7,0,0,0,1,0,0,0,1,0,,,1,2024-10-10,Fair
+Sankara_Chennai,SAN0007,Patient_Sankara_Chennai_7,MRN119158,75,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-06-25,2,6,18,6,6,1,1,0,1,1,1,0,0,0,,,1,2025-05-27,Good
+Sankara_Chennai,SAN0008,Patient_Sankara_Chennai_8,MRN917519,59,F,DME,None,None,Aflibercept,2025-03-06,3,6,24,6,6,1,1,0,1,1,1,0,1,0,,,1,2025-03-04,Good
+Sankara_Chennai,SAN0009,Patient_Sankara_Chennai_9,MRN188114,58,M,RVO,None,None,Ranibizumab,2025-03-21,10,6,18,6,10,1,1,1,0,0,0,0,0,0,,,1,2025-03-06,Fair
+Sankara_Chennai,SAN0010,Patient_Sankara_Chennai_10,MRN808481,40,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-07-15,8,6,24,6,11,1,1,1,1,1,0,0,1,0,,,1,2025-07-08,Fair
+Sankara_Chennai,SAN0011,Patient_Sankara_Chennai_11,MRN621358,52,M,DME,None,None,Bevacizumab,2025-07-15,5,6,60,6,33,1,0,1,1,0,0,1,1,0,,,1,2025-06-24,Excellent
+Sankara_Chennai,SAN0012,Patient_Sankara_Chennai_12,MRN644162,54,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-03-19,6,6,12,6,6,1,0,0,0,0,0,0,0,0,,,1,2025-03-08,Good
+Sankara_Chennai,SAN0013,Patient_Sankara_Chennai_13,MRN339139,58,M,AMD,None,None,Ranibizumab,2025-02-05,3,6,24,6,8,0,0,0,1,0,0,0,1,0,,,1,2025-01-26,Fair
+Sankara_Chennai,SAN0014,Patient_Sankara_Chennai_14,MRN969875,56,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-04-12,12,6,36,6,16,1,0,1,1,0,0,0,1,0,,,1,2025-04-11,Excellent
+Sankara_Chennai,SAN0015,Patient_Sankara_Chennai_15,MRN665109,76,F,AMD,None,None,Aflibercept,2025-02-27,6,6,24,6,10,1,0,1,0,0,0,1,0,0,,,1,2025-02-19,Good
+Sankara_Chennai,SAN0016,Patient_Sankara_Chennai_16,MRN739963,55,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-03-03,5,6,18,6,8,1,0,0,1,1,0,0,1,0,,,1,2025-02-24,Fair
+Sankara_Chennai,SAN0017,Patient_Sankara_Chennai_17,MRN422726,56,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-09-18,3,6,18,6,6,1,1,0,1,0,1,0,1,1,Subconjunctival hemorrhage,Mild,1,2024-09-11,Fair
+Sankara_Chennai,SAN0018,Patient_Sankara_Chennai_18,MRN222603,66,M,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-10-18,7,6,24,6,11,1,0,0,1,0,0,0,1,0,,,1,2024-09-26,Fair
+Sankara_Chennai,SAN0019,Patient_Sankara_Chennai_19,MRN514921,51,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-10-04,2,6,36,6,9,0,0,0,0,0,0,0,0,0,,,1,2024-09-27,Fair
+Sankara_Chennai,SAN0020,Patient_Sankara_Chennai_20,MRN693669,83,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-05-19,6,6,12,6,6,1,0,0,0,1,0,0,0,0,,,1,2025-05-01,Fair
+Sankara_Chennai,SAN0021,Patient_Sankara_Chennai_21,MRN998232,74,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-02-21,8,6,12,6,6,1,1,1,0,0,1,1,0,1,Eye pain,Mild,1,2025-02-12,Fair
+Sankara_Chennai,SAN0022,Patient_Sankara_Chennai_22,MRN597821,50,M,AMD,None,None,Ranibizumab,2024-09-11,3,6,18,6,6,1,0,0,1,1,0,0,1,0,,,1,2024-09-03,Fair
+Sankara_Chennai,SAN0023,Patient_Sankara_Chennai_23,MRN492949,77,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-10-06,8,6,18,6,8,1,1,1,1,1,1,1,0,0,,,1,2024-09-22,Good
+Sankara_Chennai,SAN0024,Patient_Sankara_Chennai_24,MRN275725,79,M,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-03-15,3,6,18,6,6,0,1,1,1,0,0,1,0,0,,,1,2025-02-26,Good
+Sankara_Chennai,SAN0025,Patient_Sankara_Chennai_25,MRN968450,51,M,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-12-03,5,6,18,6,7,1,1,1,0,0,1,1,0,0,,,1,2024-11-08,Fair
+Sankara_Chennai,SAN0026,Patient_Sankara_Chennai_26,MRN987024,51,F,RVO,None,None,Ranibizumab,2024-08-29,6,6,18,6,7,1,0,1,0,0,0,0,0,0,,,1,2024-08-15,Fair
+Sankara_Chennai,SAN0027,Patient_Sankara_Chennai_27,MRN978058,57,F,RVO,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-08-29,3,6,18,6,6,0,0,1,1,0,0,1,1,0,,,1,2024-08-05,Good
+Sankara_Chennai,SAN0028,Patient_Sankara_Chennai_28,MRN710505,48,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-03-31,7,6,60,6,34,1,1,0,1,1,1,0,1,0,,,1,2025-03-21,Good
+Sankara_Chennai,SAN0029,Patient_Sankara_Chennai_29,MRN878873,55,M,DME,None,None,Ranibizumab,2025-05-01,5,6,18,6,10,0,0,1,1,0,0,0,1,0,,,0,,Poor
+Sankara_Chennai,SAN0030,Patient_Sankara_Chennai_30,MRN566548,60,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-04-27,4,6,18,6,6,1,0,1,1,1,0,1,1,0,,,1,2025-04-16,Good
+Sankara_Chennai,SAN0031,Patient_Sankara_Chennai_31,MRN434943,71,F,RVO,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-04-05,9,6,18,6,9,1,0,0,1,0,0,0,1,0,,,1,2025-03-10,Excellent
+Sankara_Chennai,SAN0032,Patient_Sankara_Chennai_32,MRN424329,65,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-07-10,4,6,60,6,15,1,1,1,1,0,1,1,0,0,,,1,2025-06-16,Fair
+Sankara_Chennai,SAN0033,Patient_Sankara_Chennai_33,MRN571529,63,F,AMD,None,None,Bevacizumab,2024-11-22,2,6,36,6,12,0,1,1,1,0,1,0,1,0,,,1,2024-11-12,Poor
+Sankara_Chennai,SAN0034,Patient_Sankara_Chennai_34,MRN403682,59,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-12-10,7,6,36,6,16,1,1,1,0,0,0,1,0,0,,,1,2024-12-07,Fair
+Sankara_Chennai,SAN0035,Patient_Sankara_Chennai_35,MRN906775,49,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-10-30,2,6,18,6,6,1,1,0,1,1,1,0,0,0,,,1,2024-10-28,Fair
+Sankara_Chennai,SAN0036,Patient_Sankara_Chennai_36,MRN598905,72,M,DME,None,None,Ranibizumab,2024-11-21,2,6,36,6,12,1,1,0,1,1,1,0,1,0,,,1,2024-11-04,Good
+Sankara_Chennai,SAN0037,Patient_Sankara_Chennai_37,MRN311470,71,F,RVO,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-09-12,3,6,24,6,6,1,1,0,0,0,1,0,0,0,,,1,2024-08-17,Fair
+Sankara_Chennai,SAN0038,Patient_Sankara_Chennai_38,MRN534448,57,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-05-18,10,6,18,6,10,0,1,0,0,0,0,0,0,0,,,1,2025-05-09,Good
+Sankara_Chennai,SAN0039,Patient_Sankara_Chennai_39,MRN220026,51,M,DME,None,None,Bevacizumab,2025-06-27,2,6,24,6,7,1,1,0,0,1,1,0,0,0,,,1,2025-06-12,Fair
+Sankara_Chennai,SAN0040,Patient_Sankara_Chennai_40,MRN334257,83,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-09-12,9,6,36,6,21,1,1,0,1,1,1,0,1,0,,,1,2024-08-26,Good
+Sankara_Chennai,SAN0041,Patient_Sankara_Chennai_41,MRN153106,67,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-01-23,3,6,36,6,7,1,0,1,0,1,0,1,0,0,,,1,2025-01-14,Excellent
+Sankara_Chennai,SAN0042,Patient_Sankara_Chennai_42,MRN181227,69,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-09-16,6,6,36,6,18,1,0,0,0,1,0,0,0,0,,,1,2024-09-08,Good
+Sankara_Chennai,SAN0043,Patient_Sankara_Chennai_43,MRN546295,70,F,AMD,None,None,Ranibizumab,2024-12-14,5,6,60,6,25,1,1,0,1,1,1,0,0,0,,,1,2024-11-24,Good
+Sankara_Chennai,SAN0044,Patient_Sankara_Chennai_44,MRN780388,50,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-10-29,3,6,18,6,6,1,1,0,0,1,0,0,0,0,,,1,2024-10-22,Fair
+Sankara_Chennai,SAN0045,Patient_Sankara_Chennai_45,MRN666423,82,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-03-19,8,6,24,6,13,1,1,0,1,0,1,0,1,0,,,1,2025-03-12,Poor
+Sankara_Chennai,SAN0046,Patient_Sankara_Chennai_46,MRN786426,60,M,AMD,None,None,Bevacizumab,2025-01-14,4,6,12,6,6,0,1,0,0,0,1,0,0,0,,,1,2025-01-06,Fair
+Sankara_Chennai,SAN0047,Patient_Sankara_Chennai_47,MRN743887,74,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-01-15,5,6,36,6,16,1,1,0,1,0,0,0,1,0,,,1,2024-12-29,Fair
+Sankara_Chennai,SAN0048,Patient_Sankara_Chennai_48,MRN854077,82,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-01-01,4,6,18,6,6,0,1,0,0,0,1,0,0,0,,,1,2024-12-29,Good
+Sankara_Chennai,SAN0049,Patient_Sankara_Chennai_49,MRN183470,65,F,RVO,None,None,Ranibizumab,2025-05-31,4,6,36,6,10,1,1,0,0,0,1,0,0,0,,,1,2025-05-15,Fair
+Sankara_Chennai,SAN0050,Patient_Sankara_Chennai_50,MRN907342,50,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-04-06,3,6,18,6,6,0,0,0,0,0,0,0,0,1,Subconjunctival hemorrhage,Mild,1,2025-03-30,Fair
+Sankara_Chennai,SAN0051,Patient_Sankara_Chennai_51,MRN868378,40,M,DME,None,None,Ranibizumab,2025-05-18,5,6,18,6,9,1,1,0,1,0,0,0,1,0,,,1,2025-05-03,Fair
+Sankara_Chennai,SAN0052,Patient_Sankara_Chennai_52,MRN238213,64,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-12-06,3,6,12,6,6,0,1,0,1,0,1,0,0,0,,,1,2024-12-04,Good
+Sankara_Chennai,SAN0053,Patient_Sankara_Chennai_53,MRN145950,68,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-10-03,7,6,18,6,11,0,1,0,0,0,1,0,0,1,Subconjunctival hemorrhage,Mild,1,2024-09-05,Fair
+Sankara_Chennai,SAN0054,Patient_Sankara_Chennai_54,MRN811083,58,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-11-01,2,6,36,6,6,1,0,0,1,1,0,0,0,0,,,1,2024-10-30,Fair
+Sankara_Chennai,SAN0055,Patient_Sankara_Chennai_55,MRN378369,66,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-05-29,7,6,12,6,6,0,0,1,0,0,0,1,0,0,,,1,2025-05-24,Good
+Sankara_Chennai,SAN0056,Patient_Sankara_Chennai_56,MRN593466,70,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2024-08-29,4,6,24,6,6,1,1,1,1,1,0,1,1,0,,,1,2024-07-31,Fair
+Sankara_Chennai,SAN0057,Patient_Sankara_Chennai_57,MRN395103,76,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-09-21,3,6,12,6,6,1,1,0,1,0,1,0,1,0,,,1,2024-09-06,Poor
+Sankara_Chennai,SAN0058,Patient_Sankara_Chennai_58,MRN935624,62,M,AMD,None,None,Bevacizumab,2024-09-08,4,6,18,6,6,0,1,0,1,0,0,0,0,0,,,1,2024-08-18,Good
+Sankara_Chennai,SAN0059,Patient_Sankara_Chennai_59,MRN179711,64,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-11-05,9,6,18,6,9,1,0,1,1,1,0,0,1,0,,,1,2024-11-04,Fair
+Sankara_Chennai,SAN0060,Patient_Sankara_Chennai_60,MRN241123,62,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-01-22,12,6,18,6,12,1,1,0,1,0,0,0,0,0,,,1,2025-01-10,Fair
+Sankara_Chennai,SAN0061,Patient_Sankara_Chennai_61,MRN302500,65,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-10-22,8,6,36,6,19,1,1,1,1,0,0,1,1,0,,,1,2024-09-23,Fair
+Sankara_Chennai,SAN0062,Patient_Sankara_Chennai_62,MRN879572,58,F,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-03-02,2,6,24,6,7,1,0,1,1,1,0,1,0,0,,,1,2025-02-07,Good
+Sankara_Chennai,SAN0063,Patient_Sankara_Chennai_63,MRN365593,58,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-02-09,6,6,18,6,7,1,1,1,1,1,0,1,0,0,,,0,,Fair
+Sankara_Chennai,SAN0064,Patient_Sankara_Chennai_64,MRN466357,59,M,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-11-19,2,6,24,6,7,1,1,1,1,1,1,1,1,0,,,1,2024-11-01,Good
+Sankara_Chennai,SAN0065,Patient_Sankara_Chennai_65,MRN784550,66,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-04-01,4,6,18,6,6,0,1,1,1,0,0,0,1,0,,,1,2025-03-30,Excellent
+Sankara_Chennai,SAN0066,Patient_Sankara_Chennai_66,MRN724533,54,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-04-13,4,6,18,6,6,1,1,1,1,1,0,1,1,0,,,1,2025-03-16,Fair
+Sankara_Chennai,SAN0067,Patient_Sankara_Chennai_67,MRN197069,59,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-01-04,8,6,24,6,12,1,1,1,1,0,0,0,1,0,,,0,,Fair
+Sankara_Chennai,SAN0068,Patient_Sankara_Chennai_68,MRN781501,86,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-03-04,7,6,18,6,9,1,1,1,1,1,1,1,1,0,,,1,2025-02-07,Fair
+Sankara_Chennai,SAN0069,Patient_Sankara_Chennai_69,MRN333597,75,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-10-15,4,6,24,6,8,1,0,1,0,0,0,0,0,0,,,1,2024-10-02,Excellent
+Sankara_Chennai,SAN0070,Patient_Sankara_Chennai_70,MRN648196,53,M,DME,None,None,Bevacizumab,2024-12-16,8,6,24,6,13,1,1,0,0,0,0,0,0,0,,,1,2024-12-11,Excellent
+Sankara_Chennai,SAN0071,Patient_Sankara_Chennai_71,MRN466991,75,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-06-05,6,6,36,6,15,0,0,0,0,0,0,0,0,0,,,1,2025-05-08,Poor
+Sankara_Chennai,SAN0072,Patient_Sankara_Chennai_72,MRN878628,72,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-02-05,7,6,60,6,35,1,0,1,1,0,0,1,0,1,Eye pain,Mild,1,2025-02-01,Excellent
+Sankara_Chennai,SAN0073,Patient_Sankara_Chennai_73,MRN900444,63,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-06-23,6,6,18,6,6,1,0,0,0,0,0,0,0,0,,,1,2025-06-04,Fair
+Sankara_Chennai,SAN0074,Patient_Sankara_Chennai_74,MRN117412,56,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-04-26,8,6,18,6,9,0,0,1,1,0,0,0,0,0,,,1,2025-04-18,Fair
+Sankara_Chennai,SAN0075,Patient_Sankara_Chennai_75,MRN472174,55,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-12-18,7,6,18,6,9,0,1,1,1,0,0,1,1,0,,,1,2024-11-30,Fair
+Sankara_Chennai,SAN0076,Patient_Sankara_Chennai_76,MRN911089,67,M,DME,None,None,Ranibizumab,2024-12-12,2,6,18,6,6,0,1,1,1,0,1,1,1,0,,,1,2024-12-03,Excellent
+Sankara_Chennai,SAN0077,Patient_Sankara_Chennai_77,MRN367800,54,M,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-08-19,2,6,36,6,12,1,0,1,0,1,0,1,0,0,,,1,2024-07-29,Fair
+Sankara_Chennai,SAN0078,Patient_Sankara_Chennai_78,MRN240039,78,M,RVO,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-04-20,6,6,36,6,16,1,1,1,1,0,1,1,1,0,,,1,2025-04-07,Fair
+Sankara_Chennai,SAN0079,Patient_Sankara_Chennai_79,MRN578174,81,F,RVO,Diabetes,"Metformin, Insulin",Bevacizumab,2024-11-28,8,6,24,6,13,0,1,0,1,0,0,0,1,0,,,1,2024-11-22,Good
+Sankara_Chennai,SAN0080,Patient_Sankara_Chennai_80,MRN508980,64,F,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-09-03,4,6,24,6,8,0,1,1,1,0,1,1,1,0,,,1,2024-08-20,Good
+Sankara_Chennai,SAN0081,Patient_Sankara_Chennai_81,MRN902305,78,F,DME,None,None,Ranibizumab,2025-01-16,6,6,12,6,7,1,1,0,0,0,1,0,0,0,,,1,2024-12-24,Good
+Sankara_Chennai,SAN0082,Patient_Sankara_Chennai_82,MRN718773,60,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-01-27,8,6,24,6,12,1,0,0,1,1,0,0,1,0,,,1,2025-01-09,Excellent
+Sankara_Chennai,SAN0083,Patient_Sankara_Chennai_83,MRN995815,56,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-09-24,6,6,36,6,16,1,1,0,1,0,0,0,0,0,,,1,2024-09-12,Fair
+Sankara_Chennai,SAN0084,Patient_Sankara_Chennai_84,MRN544246,78,F,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-06-30,4,6,24,6,9,1,1,0,1,1,1,0,1,0,,,1,2025-06-09,Fair
+Sankara_Chennai,SAN0085,Patient_Sankara_Chennai_85,MRN298879,83,M,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-10-09,6,6,18,6,7,1,1,0,1,0,0,0,0,0,,,1,2024-09-22,Poor
+Sankara_Chennai,SAN0086,Patient_Sankara_Chennai_86,MRN625895,88,M,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-10-11,6,6,24,6,13,0,1,0,1,0,0,0,1,0,,,1,2024-10-04,Good
+Sankara_Chennai,SAN0087,Patient_Sankara_Chennai_87,MRN250595,68,F,RVO,None,None,Aflibercept,2025-05-30,5,6,18,6,9,1,1,1,1,0,0,0,1,0,,,1,2025-05-22,Fair
+Sankara_Chennai,SAN0088,Patient_Sankara_Chennai_88,MRN672735,75,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-03-11,4,6,24,6,6,1,1,1,1,0,1,1,0,0,,,0,,Good
+Sankara_Chennai,SAN0089,Patient_Sankara_Chennai_89,MRN149757,68,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-03-29,4,6,24,6,8,1,1,0,1,1,1,0,0,0,,,1,2025-03-19,Fair
+Sankara_Chennai,SAN0090,Patient_Sankara_Chennai_90,MRN884402,81,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-11-20,9,6,18,6,8,1,1,0,1,0,0,0,1,1,Subconjunctival hemorrhage,Mild,1,2024-10-27,Fair
+Sankara_Chennai,SAN0091,Patient_Sankara_Chennai_91,MRN350495,70,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-01-14,5,6,36,6,16,1,0,1,0,1,0,0,0,0,,,1,2025-01-02,Poor
+Sankara_Chennai,SAN0092,Patient_Sankara_Chennai_92,MRN848886,74,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-04-23,7,6,36,6,15,1,0,1,0,1,0,0,0,0,,,1,2025-04-11,Fair
+Sankara_Chennai,SAN0093,Patient_Sankara_Chennai_93,MRN955633,51,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-04-06,11,6,12,6,6,1,0,1,0,0,0,0,0,0,,,1,2025-03-12,Poor
+Sankara_Chennai,SAN0094,Patient_Sankara_Chennai_94,MRN490909,62,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-01-29,6,6,60,6,26,1,1,0,0,0,1,0,0,0,,,1,2025-01-17,Fair
+Sankara_Chennai,SAN0095,Patient_Sankara_Chennai_95,MRN312916,74,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-07-15,8,6,24,6,13,1,1,1,0,0,1,1,0,0,,,1,2025-07-01,Fair
+Sankara_Chennai,SAN0096,Patient_Sankara_Chennai_96,MRN891894,73,F,RVO,None,None,Ranibizumab,2025-03-29,8,6,36,6,24,1,0,0,0,0,0,0,0,0,,,1,2025-02-28,Excellent
+Sankara_Chennai,SAN0097,Patient_Sankara_Chennai_97,MRN478976,75,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-06-14,5,6,36,6,15,0,1,1,1,0,0,1,1,0,,,1,2025-06-01,Fair
+Sankara_Chennai,SAN0098,Patient_Sankara_Chennai_98,MRN262867,66,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-05-03,6,6,24,6,10,0,1,0,0,0,1,0,0,0,,,1,2025-05-02,Fair
+Sankara_Chennai,SAN0099,Patient_Sankara_Chennai_99,MRN825166,57,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-06-23,10,6,36,6,20,1,1,0,0,0,0,0,0,0,,,0,,Good
+Sankara_Chennai,SAN0100,Patient_Sankara_Chennai_100,MRN410609,64,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-10-24,9,6,18,6,9,0,0,0,1,0,0,0,1,0,,,1,2024-10-07,Excellent
+Sankara_Chennai,SAN0101,Patient_Sankara_Chennai_101,MRN554325,65,F,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-05-31,5,6,18,6,8,1,1,0,1,1,1,0,0,0,,,1,2025-05-28,Fair
+Sankara_Chennai,SAN0102,Patient_Sankara_Chennai_102,MRN190027,67,F,AMD,None,None,Ranibizumab,2025-08-01,6,6,24,6,10,0,1,0,1,0,1,0,1,0,,,1,2025-07-30,Good
+Sankara_Chennai,SAN0103,Patient_Sankara_Chennai_103,MRN150528,53,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-01-09,2,6,36,6,11,1,1,1,1,0,1,1,1,0,,,1,2025-01-05,Good
+Sankara_Chennai,SAN0104,Patient_Sankara_Chennai_104,MRN398374,61,M,RVO,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-12-30,4,6,36,6,9,1,1,1,0,1,1,1,0,0,,,1,2024-12-01,Fair
+Sankara_Chennai,SAN0105,Patient_Sankara_Chennai_105,MRN148242,63,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-07-13,4,6,24,6,7,1,1,0,0,1,1,0,0,0,,,0,,Poor
+Sankara_Chennai,SAN0106,Patient_Sankara_Chennai_106,MRN559099,40,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-10-13,7,6,24,6,14,0,0,0,0,0,0,0,0,0,,,1,2024-10-02,Fair
+Sankara_Chennai,SAN0107,Patient_Sankara_Chennai_107,MRN214688,74,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-05-26,3,6,18,6,6,1,1,0,0,1,1,0,0,0,,,1,2025-04-29,Good
+Sankara_Chennai,SAN0108,Patient_Sankara_Chennai_108,MRN591582,66,F,DME,None,None,Bevacizumab,2025-01-27,3,6,60,6,14,1,0,1,0,1,0,0,0,0,,,1,2025-01-25,Good
+Sankara_Chennai,SAN0109,Patient_Sankara_Chennai_109,MRN626071,68,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-04-26,6,6,18,6,8,1,0,0,1,0,0,0,0,0,,,1,2025-04-04,Good
+Sankara_Chennai,SAN0110,Patient_Sankara_Chennai_110,MRN128390,58,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-08-02,3,6,36,6,11,0,0,0,0,0,0,0,0,0,,,1,2025-07-13,Good
+Sankara_Chennai,SAN0111,Patient_Sankara_Chennai_111,MRN763777,72,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-03-15,5,6,24,6,13,0,0,0,0,0,0,0,0,0,,,1,2025-02-26,Excellent
+Sankara_Chennai,SAN0112,Patient_Sankara_Chennai_112,MRN172102,55,M,RVO,Diabetes,"Metformin, Insulin",Ranibizumab,2025-07-30,3,6,24,6,7,1,0,1,0,1,0,1,0,0,,,1,2025-07-02,Poor
+Sankara_Chennai,SAN0113,Patient_Sankara_Chennai_113,MRN379570,56,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-05-21,8,6,18,6,9,0,1,0,1,0,0,0,1,0,,,1,2025-05-18,Good
+Sankara_Chennai,SAN0114,Patient_Sankara_Chennai_114,MRN130750,72,F,DME,None,None,Ranibizumab,2025-03-31,3,6,60,6,14,1,1,0,0,1,1,0,0,0,,,1,2025-03-03,Excellent
+Sankara_Chennai,SAN0115,Patient_Sankara_Chennai_115,MRN682476,69,M,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-06-19,8,6,24,6,12,1,1,1,0,0,0,1,0,0,,,1,2025-05-30,Good
+Sankara_Chennai,SAN0116,Patient_Sankara_Chennai_116,MRN373016,49,M,AMD,None,None,Ranibizumab,2025-01-17,5,6,60,6,35,0,1,1,0,0,1,1,0,0,,,1,2025-01-01,Good
+Sankara_Chennai,SAN0117,Patient_Sankara_Chennai_117,MRN718519,83,M,DME,None,None,Bevacizumab,2024-12-21,7,6,12,6,6,1,0,1,0,1,0,1,0,0,,,0,,Good
+Sankara_Chennai,SAN0118,Patient_Sankara_Chennai_118,MRN492004,55,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-06-18,3,6,24,6,7,0,0,0,0,0,0,0,0,0,,,1,2025-06-11,Excellent
+Sankara_Chennai,SAN0119,Patient_Sankara_Chennai_119,MRN803446,63,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-06-04,5,6,36,6,15,1,1,0,1,1,1,0,1,0,,,1,2025-05-25,Poor
+Sankara_Chennai,SAN0120,Patient_Sankara_Chennai_120,MRN691058,85,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-10-24,7,6,36,6,19,1,1,1,0,1,0,1,0,0,,,1,2024-09-30,Good
+Sankara_Chennai,SAN0121,Patient_Sankara_Chennai_121,MRN331360,40,F,AMD,None,None,Ranibizumab,2025-02-23,10,6,60,6,37,1,1,1,1,0,0,0,1,0,,,1,2025-02-10,Excellent
+Sankara_Chennai,SAN0122,Patient_Sankara_Chennai_122,MRN325440,44,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-03-03,7,6,12,6,6,1,1,0,1,0,0,0,1,0,,,1,2025-02-16,Excellent
+Sankara_Chennai,SAN0123,Patient_Sankara_Chennai_123,MRN969946,70,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-02-01,7,6,12,6,7,1,1,0,1,1,0,0,1,0,,,1,2025-01-17,Good
+Sankara_Chennai,SAN0124,Patient_Sankara_Chennai_124,MRN843537,40,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-10-28,7,6,24,6,13,1,1,0,0,1,0,0,0,0,,,1,2024-10-17,Excellent
+Sankara_Chennai,SAN0125,Patient_Sankara_Chennai_125,MRN192663,40,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-08-01,5,6,12,6,6,1,1,0,0,1,0,0,0,0,,,1,2025-07-07,Excellent
+Sankara_Chennai,SAN0126,Patient_Sankara_Chennai_126,MRN790080,79,F,RVO,Diabetes,"Metformin, Insulin",Bevacizumab,2025-01-24,2,6,60,6,18,1,0,1,0,0,0,1,0,0,,,1,2025-01-23,Good
+Sankara_Chennai,SAN0127,Patient_Sankara_Chennai_127,MRN773439,60,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-11-21,3,6,18,6,6,1,1,1,1,0,0,1,1,0,,,1,2024-11-16,Fair
+Sankara_Chennai,SAN0128,Patient_Sankara_Chennai_128,MRN758651,90,M,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-12-01,9,6,24,6,12,0,1,0,1,0,1,0,1,0,,,1,2024-11-08,Excellent
+Sankara_Chennai,SAN0129,Patient_Sankara_Chennai_129,MRN305156,52,M,RVO,None,None,Bevacizumab,2025-05-23,4,6,12,6,6,0,1,0,0,0,1,0,0,0,,,1,2025-04-25,Good
+Sankara_Chennai,SAN0130,Patient_Sankara_Chennai_130,MRN212808,61,M,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-10-02,8,6,24,6,12,1,0,1,1,1,0,1,0,0,,,1,2024-09-24,Good
+Sankara_Chennai,SAN0131,Patient_Sankara_Chennai_131,MRN210091,71,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-02-24,10,6,18,6,9,1,1,0,1,1,1,0,1,0,,,1,2025-01-27,Excellent
+Sankara_Chennai,SAN0132,Patient_Sankara_Chennai_132,MRN985704,70,F,AMD,None,None,Bevacizumab,2025-07-06,4,6,12,6,6,1,0,1,1,1,0,0,1,0,,,1,2025-06-12,Good
+Sankara_Chennai,SAN0133,Patient_Sankara_Chennai_133,MRN673681,61,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-02-17,4,6,18,6,6,1,1,1,0,0,0,1,0,0,,,1,2025-02-10,Excellent
+Sankara_Chennai,SAN0134,Patient_Sankara_Chennai_134,MRN717846,57,F,DME,None,None,Ranibizumab,2025-04-17,5,6,18,6,10,0,0,1,1,0,0,1,1,0,,,1,2025-04-09,Excellent
+Sankara_Chennai,SAN0135,Patient_Sankara_Chennai_135,MRN169770,67,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-09-30,4,6,60,6,19,0,0,0,0,0,0,0,0,0,,,1,2024-09-19,Good
+Sankara_Chennai,SAN0136,Patient_Sankara_Chennai_136,MRN913152,81,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-01-03,5,6,18,6,7,0,1,0,1,0,1,0,1,0,,,1,2024-12-07,Good
+Sankara_Chennai,SAN0137,Patient_Sankara_Chennai_137,MRN899800,74,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-06-06,6,6,24,6,9,1,0,0,0,1,0,0,0,0,,,1,2025-05-28,Excellent
+Sankara_Chennai,SAN0138,Patient_Sankara_Chennai_138,MRN285385,57,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-03-30,3,6,60,6,14,1,0,0,0,1,0,0,0,0,,,1,2025-03-07,Good
+Sankara_Chennai,SAN0139,Patient_Sankara_Chennai_139,MRN934401,53,F,DME,None,None,Bevacizumab,2025-04-11,3,6,36,6,9,1,0,0,1,1,0,0,1,0,,,1,2025-04-10,Poor
+Sankara_Chennai,SAN0140,Patient_Sankara_Chennai_140,MRN148838,56,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-05-16,5,6,60,6,20,0,0,1,1,0,0,1,0,0,,,1,2025-05-15,Fair
+Sankara_Chennai,SAN0141,Patient_Sankara_Chennai_141,MRN633022,49,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-03-27,4,6,60,6,16,1,1,1,0,0,1,0,0,0,,,1,2025-03-06,Fair
+Sankara_Chennai,SAN0142,Patient_Sankara_Chennai_142,MRN731475,66,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-01-18,5,6,24,6,12,1,1,1,0,0,0,1,0,0,,,1,2024-12-21,Fair
+Sankara_Chennai,SAN0143,Patient_Sankara_Chennai_143,MRN199329,74,F,AMD,None,None,Aflibercept,2025-06-21,8,6,24,6,13,1,1,0,1,0,0,0,1,0,,,1,2025-06-14,Poor
+Sankara_Chennai,SAN0144,Patient_Sankara_Chennai_144,MRN620146,64,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-07-02,4,6,18,6,6,1,1,1,1,0,0,1,1,0,,,1,2025-06-06,Fair
+Sankara_Chennai,SAN0145,Patient_Sankara_Chennai_145,MRN505413,85,M,AMD,None,None,Ranibizumab,2025-01-05,7,6,24,6,16,1,1,1,1,1,1,0,1,0,,,1,2024-12-17,Fair
+Sankara_Chennai,SAN0146,Patient_Sankara_Chennai_146,MRN955327,86,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-07-03,4,6,36,6,13,1,1,0,1,1,1,0,1,0,,,1,2025-06-10,Good
+Sankara_Chennai,SAN0147,Patient_Sankara_Chennai_147,MRN858921,68,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-30,4,6,24,6,6,0,1,1,0,0,0,1,0,0,,,1,2024-12-26,Excellent
+Sankara_Chennai,SAN0148,Patient_Sankara_Chennai_148,MRN220424,73,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-12-20,11,6,36,6,16,0,1,0,1,0,0,0,1,0,,,1,2024-11-25,Fair
+Sankara_Chennai,SAN0149,Patient_Sankara_Chennai_149,MRN987687,54,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-01-30,7,6,36,6,20,0,1,0,1,0,0,0,0,0,,,1,2025-01-13,Poor
+Sankara_Chennai,SAN0150,Patient_Sankara_Chennai_150,MRN420217,60,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-05-18,2,6,18,6,6,1,1,0,1,1,1,0,1,0,,,1,2025-05-05,Good
+Sankara_Chennai,SAN0151,Patient_Sankara_Chennai_151,MRN828285,80,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-11,6,6,36,6,13,1,0,1,0,1,0,1,0,0,,,1,2024-11-15,Fair
+Sankara_Chennai,SAN0152,Patient_Sankara_Chennai_152,MRN344042,58,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-02-19,11,6,24,6,14,0,0,1,1,0,0,1,1,0,,,1,2025-02-10,Good
+Sankara_Chennai,SAN0153,Patient_Sankara_Chennai_153,MRN835848,82,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-07-05,3,6,18,6,6,1,1,0,1,1,0,0,1,0,,,1,2025-06-12,Good
+Sankara_Chennai,SAN0154,Patient_Sankara_Chennai_154,MRN325683,78,M,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-04-04,5,6,36,6,16,1,1,0,1,1,1,0,1,0,,,0,,Good
+Sankara_Chennai,SAN0155,Patient_Sankara_Chennai_155,MRN315547,74,M,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-01-29,4,6,24,6,7,1,0,0,1,1,0,0,1,0,,,1,2025-01-18,Good
+Sankara_Chennai,SAN0156,Patient_Sankara_Chennai_156,MRN343603,50,M,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-08-20,2,6,36,6,10,1,0,0,1,0,0,0,1,0,,,1,2024-08-11,Good
+Sankara_Chennai,SAN0157,Patient_Sankara_Chennai_157,MRN805662,61,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-12-25,8,6,24,6,14,1,1,0,1,0,0,0,1,0,,,1,2024-11-30,Fair
+Sankara_Chennai,SAN0158,Patient_Sankara_Chennai_158,MRN902056,72,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-11-20,3,6,18,6,6,1,1,0,0,1,0,0,0,0,,,1,2024-11-18,Fair
+Sankara_Chennai,SAN0159,Patient_Sankara_Chennai_159,MRN298343,53,F,RVO,None,None,Bevacizumab,2025-06-23,7,6,36,6,18,1,0,0,0,0,0,0,0,0,,,1,2025-05-28,Fair
+Sankara_Chennai,SAN0160,Patient_Sankara_Chennai_160,MRN386459,62,M,DME,None,None,Bevacizumab,2025-04-10,8,6,24,6,12,1,0,1,1,0,0,0,0,0,,,1,2025-03-30,Good
+Sankara_Chennai,SAN0161,Patient_Sankara_Chennai_161,MRN379566,74,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-10-12,5,6,18,6,6,1,1,0,1,1,0,0,1,0,,,1,2024-09-17,Fair
+Sankara_Chennai,SAN0162,Patient_Sankara_Chennai_162,MRN794497,58,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-04-02,6,6,18,6,8,0,1,1,0,0,1,1,0,0,,,1,2025-03-20,Good
+Sankara_Chennai,SAN0163,Patient_Sankara_Chennai_163,MRN172663,54,F,AMD,None,None,Bevacizumab,2024-12-30,5,6,36,6,19,1,0,0,1,1,0,0,1,0,,,0,,Good
+Sankara_Chennai,SAN0164,Patient_Sankara_Chennai_164,MRN201216,43,M,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-05-04,2,6,12,6,6,1,1,0,0,1,1,0,0,0,,,1,2025-05-02,Fair
+Sankara_Chennai,SAN0165,Patient_Sankara_Chennai_165,MRN874888,60,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-01-26,2,6,36,6,9,1,1,0,0,1,1,0,0,1,Floaters,Mild,1,2025-01-13,Good
+Sankara_Chennai,SAN0166,Patient_Sankara_Chennai_166,MRN356492,74,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-08-28,6,6,18,6,8,1,1,0,1,0,0,0,1,0,,,1,2024-07-31,Excellent
+Sankara_Chennai,SAN0167,Patient_Sankara_Chennai_167,MRN571358,54,M,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-11-20,4,6,24,6,6,1,1,0,1,1,1,0,1,0,,,1,2024-10-24,Good
+Sankara_Chennai,SAN0168,Patient_Sankara_Chennai_168,MRN394887,65,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-01-15,5,6,60,6,30,1,1,1,0,1,1,1,0,0,,,1,2024-12-28,Fair
+Sankara_Chennai,SAN0169,Patient_Sankara_Chennai_169,MRN592762,62,M,DME,None,None,Bevacizumab,2025-07-17,4,6,18,6,6,0,0,1,1,0,0,1,1,0,,,1,2025-06-21,Good
+Sankara_Chennai,SAN0170,Patient_Sankara_Chennai_170,MRN508852,57,F,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-08-03,6,6,24,6,12,1,0,0,1,0,0,0,0,0,,,1,2025-07-06,Fair
+Sankara_Chennai,SAN0171,Patient_Sankara_Chennai_171,MRN584100,75,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-03-15,3,6,36,6,8,0,0,0,1,0,0,0,1,0,,,1,2025-03-13,Fair
+Sankara_Chennai,SAN0172,Patient_Sankara_Chennai_172,MRN634396,84,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-01-07,3,6,36,6,10,0,0,1,0,0,0,0,0,0,,,1,2025-01-02,Fair
+Sankara_Chennai,SAN0173,Patient_Sankara_Chennai_173,MRN304706,77,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-01-05,4,6,24,6,8,1,0,0,1,0,0,0,1,0,,,1,2024-12-21,Fair
+Sankara_Chennai,SAN0174,Patient_Sankara_Chennai_174,MRN660468,56,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-11-25,3,6,24,6,6,0,0,1,0,0,0,1,0,0,,,1,2024-11-18,Good
+Sankara_Chennai,SAN0175,Patient_Sankara_Chennai_175,MRN381027,88,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-08-20,5,6,36,6,12,1,1,1,0,0,1,0,0,0,,,1,2024-08-09,Excellent
+Sankara_Chennai,SAN0176,Patient_Sankara_Chennai_176,MRN668688,77,F,RVO,Diabetes,"Metformin, Insulin",Aflibercept,2025-06-13,4,6,36,6,7,1,1,1,1,1,0,1,0,0,,,1,2025-05-18,Good
+Sankara_Chennai,SAN0177,Patient_Sankara_Chennai_177,MRN277071,59,F,DME,None,None,Bevacizumab,2025-03-24,8,6,36,6,20,1,1,0,1,1,0,0,1,0,,,1,2025-03-09,Good
+Sankara_Chennai,SAN0178,Patient_Sankara_Chennai_178,MRN672239,55,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-07-04,2,6,18,6,6,0,1,0,0,0,0,0,0,0,,,1,2025-06-08,Fair
+Sankara_Chennai,SAN0179,Patient_Sankara_Chennai_179,MRN500376,78,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-06-07,10,6,60,6,35,1,0,0,1,0,0,0,0,0,,,1,2025-05-20,Excellent
+Sankara_Chennai,SAN0180,Patient_Sankara_Chennai_180,MRN941694,67,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-10-13,7,6,24,6,10,1,0,1,1,0,0,1,0,0,,,1,2024-09-14,Good
+Sankara_Chennai,SAN0181,Patient_Sankara_Chennai_181,MRN513145,54,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-10-03,5,6,12,6,6,1,0,1,1,1,0,1,1,0,,,1,2024-09-26,Fair
+Sankara_Chennai,SAN0182,Patient_Sankara_Chennai_182,MRN969565,63,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-10-19,4,6,18,6,6,1,1,1,1,0,0,1,1,0,,,1,2024-09-27,Fair
+Sankara_Chennai,SAN0183,Patient_Sankara_Chennai_183,MRN766483,60,M,DME,None,None,Ranibizumab,2025-03-05,4,6,18,6,6,0,0,1,0,0,0,0,0,0,,,1,2025-03-04,Fair
+Sankara_Chennai,SAN0184,Patient_Sankara_Chennai_184,MRN477250,55,M,AMD,None,None,Aflibercept,2024-10-07,7,6,18,6,11,1,1,1,1,1,0,0,1,0,,,1,2024-10-05,Fair
+Sankara_Chennai,SAN0185,Patient_Sankara_Chennai_185,MRN783717,77,M,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-11-21,4,6,18,6,6,1,1,1,0,1,1,1,0,0,,,1,2024-10-27,Fair
+Sankara_Chennai,SAN0186,Patient_Sankara_Chennai_186,MRN956928,74,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-02-11,6,6,12,6,6,0,0,1,1,0,0,1,1,0,,,1,2025-01-15,Fair
+Sankara_Chennai,SAN0187,Patient_Sankara_Chennai_187,MRN788916,75,F,RVO,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-07-25,4,6,24,6,7,1,0,1,0,1,0,0,0,0,,,1,2025-06-26,Good
+Sankara_Chennai,SAN0188,Patient_Sankara_Chennai_188,MRN424078,74,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-11-24,6,6,12,6,6,1,1,0,0,1,1,0,0,0,,,1,2024-10-26,Poor
+Sankara_Chennai,SAN0189,Patient_Sankara_Chennai_189,MRN965318,54,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-08-21,5,6,18,6,8,0,1,0,1,0,1,0,1,0,,,1,2024-08-12,Good
+Sankara_Chennai,SAN0190,Patient_Sankara_Chennai_190,MRN130881,57,M,AMD,None,None,Ranibizumab,2025-01-09,7,6,12,6,6,1,1,1,0,1,0,1,0,0,,,1,2024-12-25,Good
+Sankara_Chennai,SAN0191,Patient_Sankara_Chennai_191,MRN904841,82,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-02-12,6,6,12,6,6,0,0,0,0,0,0,0,0,0,,,1,2025-02-09,Good
+Sankara_Chennai,SAN0192,Patient_Sankara_Chennai_192,MRN198171,66,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-02-20,2,6,18,6,6,1,1,0,0,1,0,0,0,0,,,0,,Fair
+Sankara_Chennai,SAN0193,Patient_Sankara_Chennai_193,MRN353189,47,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-03-21,6,6,24,6,10,1,0,1,1,0,0,1,1,1,Subconjunctival hemorrhage,Mild,1,2025-02-20,Poor
+Sankara_Chennai,SAN0194,Patient_Sankara_Chennai_194,MRN317815,67,M,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-12-10,4,6,60,6,12,1,1,1,1,1,0,1,1,0,,,1,2024-12-02,Excellent
+Sankara_Chennai,SAN0195,Patient_Sankara_Chennai_195,MRN411095,72,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-02-20,7,6,36,6,19,1,1,1,0,0,1,1,0,0,,,1,2025-01-30,Excellent
+Sankara_Chennai,SAN0196,Patient_Sankara_Chennai_196,MRN370896,71,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-05-26,3,6,36,6,11,0,1,0,0,0,0,0,0,0,,,1,2025-05-11,Fair
+Sankara_Chennai,SAN0197,Patient_Sankara_Chennai_197,MRN741627,53,F,DME,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-09-14,8,6,18,6,10,0,1,1,0,0,1,0,0,0,,,1,2024-08-28,Poor
+Sankara_Chennai,SAN0198,Patient_Sankara_Chennai_198,MRN506656,87,F,RVO,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-12-06,6,6,18,6,7,0,1,0,1,0,1,0,1,0,,,1,2024-11-09,Good
+Sankara_Chennai,SAN0199,Patient_Sankara_Chennai_199,MRN144864,46,M,RVO,Diabetes,"Metformin, Insulin",Aflibercept,2024-10-28,2,6,12,6,6,1,0,1,1,0,0,1,1,0,,,1,2024-10-16,Good
+Sankara_Chennai,SAN0200,Patient_Sankara_Chennai_200,MRN805051,66,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-07-10,7,6,36,6,21,1,0,0,0,1,0,0,0,0,,,1,2025-06-20,Fair
+Sankara_Chennai,SAN0201,Patient_Sankara_Chennai_201,MRN696323,85,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-03-06,12,6,12,6,6,1,0,1,0,1,0,1,0,0,,,1,2025-02-16,Good
+Sankara_Chennai,SAN0202,Patient_Sankara_Chennai_202,MRN186675,72,F,DME,None,None,Ranibizumab,2025-06-09,7,6,24,6,13,0,1,1,0,0,1,1,0,0,,,1,2025-05-24,Fair
+Sankara_Chennai,SAN0203,Patient_Sankara_Chennai_203,MRN384487,75,F,AMD,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-03-01,6,6,18,6,10,1,1,0,0,0,1,0,0,0,,,1,2025-02-02,Excellent
+Sankara_Chennai,SAN0204,Patient_Sankara_Chennai_204,MRN324320,52,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-03-27,3,6,18,6,6,1,0,1,0,0,0,1,0,0,,,1,2025-03-20,Excellent
+Sankara_Chennai,SAN0205,Patient_Sankara_Chennai_205,MRN643961,69,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-02-13,2,6,60,6,14,1,1,1,1,1,0,0,1,0,,,1,2025-02-08,Good
+Sankara_Chennai,SAN0206,Patient_Sankara_Chennai_206,MRN291026,64,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-02-12,5,6,36,6,15,1,0,0,0,0,0,0,0,0,,,1,2025-01-31,Good
+Sankara_Chennai,SAN0207,Patient_Sankara_Chennai_207,MRN285770,51,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-05-31,7,6,36,6,18,0,0,0,1,0,0,0,0,0,,,1,2025-05-28,Excellent
+Sankara_Chennai,SAN0208,Patient_Sankara_Chennai_208,MRN457168,75,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-05-20,6,6,24,6,12,0,0,0,1,0,0,0,1,0,,,1,2025-04-23,Excellent
+Sankara_Chennai,SAN0209,Patient_Sankara_Chennai_209,MRN650808,55,M,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-03-28,4,6,36,6,8,1,1,0,0,1,1,0,0,0,,,1,2025-03-02,Fair
+Sankara_Chennai,SAN0210,Patient_Sankara_Chennai_210,MRN602857,56,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-04-24,2,6,24,6,6,1,1,1,1,0,0,1,1,0,,,1,2025-03-29,Excellent
+Sankara_Chennai,SAN0211,Patient_Sankara_Chennai_211,MRN869483,70,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-04-14,6,6,60,6,25,0,1,1,1,0,0,1,1,0,,,1,2025-04-04,Poor
+Sankara_Chennai,SAN0212,Patient_Sankara_Chennai_212,MRN902216,63,F,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-07-24,9,6,18,6,10,0,1,0,0,0,0,0,0,0,,,1,2025-07-12,Good
+Sankara_Chennai,SAN0213,Patient_Sankara_Chennai_213,MRN479590,67,F,DME,None,None,Ranibizumab,2025-03-10,2,6,24,6,6,1,0,0,1,0,0,0,1,0,,,1,2025-02-27,Fair
+Sankara_Chennai,SAN0214,Patient_Sankara_Chennai_214,MRN138079,62,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-03-26,3,6,24,6,6,1,1,0,0,1,1,0,0,0,,,1,2025-03-23,Good
+Sankara_Chennai,SAN0215,Patient_Sankara_Chennai_215,MRN144220,81,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-06-10,2,6,18,6,6,0,0,0,1,0,0,0,0,0,,,1,2025-06-03,Good
+Sankara_Chennai,SAN0216,Patient_Sankara_Chennai_216,MRN251563,53,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-06-11,5,6,36,6,16,1,1,0,1,0,0,0,1,0,,,1,2025-06-07,Good
+Sankara_Chennai,SAN0217,Patient_Sankara_Chennai_217,MRN212878,59,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-06-11,7,6,60,6,34,1,1,0,1,0,0,0,0,0,,,1,2025-06-03,Good
+Sankara_Chennai,SAN0218,Patient_Sankara_Chennai_218,MRN216583,70,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-08-18,7,6,24,6,13,1,1,0,1,0,1,0,1,0,,,1,2024-08-05,Fair
+Sankara_Chennai,SAN0219,Patient_Sankara_Chennai_219,MRN148720,53,M,AMD,None,None,Aflibercept,2025-07-30,9,6,18,6,9,1,1,1,1,0,1,1,0,0,,,1,2025-07-27,Fair
+Sankara_Chennai,SAN0220,Patient_Sankara_Chennai_220,MRN331876,52,M,RVO,None,None,Bevacizumab,2025-06-21,5,6,24,6,9,0,1,1,1,0,0,0,0,0,,,1,2025-06-10,Fair
+Sankara_Chennai,SAN0221,Patient_Sankara_Chennai_221,MRN639006,66,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-26,6,6,36,6,13,1,0,0,1,0,0,0,0,0,,,1,2024-12-11,Good
+Sankara_Chennai,SAN0222,Patient_Sankara_Chennai_222,MRN528813,75,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-09-23,5,6,24,6,8,1,1,1,0,1,1,1,0,0,,,1,2024-09-08,Fair
+Sankara_Chennai,SAN0223,Patient_Sankara_Chennai_223,MRN947649,76,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-02-15,7,6,12,6,6,1,0,1,1,1,0,0,1,0,,,1,2025-02-13,Fair
+Sankara_Chennai,SAN0224,Patient_Sankara_Chennai_224,MRN591567,66,M,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-07-03,7,6,24,6,10,1,0,1,0,0,0,1,0,0,,,1,2025-06-07,Poor
+Sankara_Chennai,SAN0225,Patient_Sankara_Chennai_225,MRN462812,56,M,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-04-21,3,6,12,6,6,1,1,0,0,1,0,0,0,0,,,0,,Fair
+Sankara_Chennai,SAN0226,Patient_Sankara_Chennai_226,MRN782192,68,F,DME,None,None,Ranibizumab,2025-06-21,6,6,36,6,16,1,1,1,1,0,1,1,1,0,,,1,2025-06-19,Excellent
+Sankara_Chennai,SAN0227,Patient_Sankara_Chennai_227,MRN852758,71,F,DME,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-05-05,6,6,18,6,6,1,0,1,0,1,0,0,0,0,,,1,2025-04-08,Good
+Sankara_Chennai,SAN0228,Patient_Sankara_Chennai_228,MRN506080,68,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-02-22,3,6,24,6,6,0,1,0,0,0,1,0,0,0,,,1,2025-01-31,Good
+Sankara_Chennai,SAN0229,Patient_Sankara_Chennai_229,MRN712666,79,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-06-16,6,6,36,6,15,0,1,0,1,0,0,0,0,0,,,1,2025-05-18,Fair
+Sankara_Chennai,SAN0230,Patient_Sankara_Chennai_230,MRN108177,52,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2024-09-20,8,6,12,6,6,1,1,1,0,0,0,0,0,0,,,1,2024-09-02,Good
+Sankara_Chennai,SAN0231,Patient_Sankara_Chennai_231,MRN801475,56,M,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-11-24,5,6,18,6,7,1,1,1,0,1,1,1,0,0,,,1,2024-11-23,Fair
+Sankara_Chennai,SAN0232,Patient_Sankara_Chennai_232,MRN484462,78,F,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-06-22,7,6,18,6,12,1,1,1,1,1,0,0,1,0,,,1,2025-06-02,Good
+Sankara_Chennai,SAN0233,Patient_Sankara_Chennai_233,MRN861595,47,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-09-19,5,6,18,6,8,1,0,1,1,1,0,1,1,0,,,0,,Excellent
+Sankara_Chennai,SAN0234,Patient_Sankara_Chennai_234,MRN549426,58,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-07-22,3,6,18,6,6,1,1,1,1,0,0,0,1,0,,,1,2025-07-08,Excellent
+Sankara_Chennai,SAN0235,Patient_Sankara_Chennai_235,MRN545170,56,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-11-01,8,6,60,6,26,1,1,0,1,0,0,0,0,0,,,1,2024-10-06,Good
+Sankara_Chennai,SAN0236,Patient_Sankara_Chennai_236,MRN735433,46,F,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-03-04,6,6,36,6,15,1,1,0,1,0,1,0,1,0,,,1,2025-02-22,Fair
+Sankara_Chennai,SAN0237,Patient_Sankara_Chennai_237,MRN829490,62,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-05-21,2,6,36,6,6,1,1,1,1,0,1,1,1,0,,,1,2025-05-12,Good
+Sankara_Chennai,SAN0238,Patient_Sankara_Chennai_238,MRN637706,73,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-03-24,3,6,60,6,12,1,0,0,0,1,0,0,0,0,,,1,2025-03-14,Fair
+Sankara_Chennai,SAN0239,Patient_Sankara_Chennai_239,MRN265926,66,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2024-09-01,8,6,18,6,12,1,0,0,1,0,0,0,0,0,,,1,2024-08-08,Excellent
+Sankara_Chennai,SAN0240,Patient_Sankara_Chennai_240,MRN712363,74,F,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-06-26,3,6,18,6,6,1,0,1,1,1,0,1,0,0,,,1,2025-06-01,Excellent
+Sankara_Chennai,SAN0241,Patient_Sankara_Chennai_241,MRN603122,79,F,RVO,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-06-17,7,6,18,6,11,1,1,1,0,0,0,1,0,0,,,1,2025-06-03,Fair
+Sankara_Chennai,SAN0242,Patient_Sankara_Chennai_242,MRN427371,60,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-03-05,5,6,36,6,13,1,0,0,0,1,0,0,0,0,,,1,2025-02-09,Good
+Sankara_Chennai,SAN0243,Patient_Sankara_Chennai_243,MRN506051,90,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-11-12,3,6,24,6,6,0,0,0,0,0,0,0,0,0,,,1,2024-10-23,Fair
+Sankara_Chennai,SAN0244,Patient_Sankara_Chennai_244,MRN379677,60,F,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-07-04,2,6,18,6,6,0,1,0,1,0,1,0,1,0,,,1,2025-06-19,Fair
+Sankara_Chennai,SAN0245,Patient_Sankara_Chennai_245,MRN607966,62,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-07-27,9,6,18,6,8,1,1,0,0,0,0,0,0,1,Transient IOP elevation,Mild,1,2025-07-13,Fair
+Sankara_Chennai,SAN0246,Patient_Sankara_Chennai_246,MRN588267,56,F,DME,None,None,Bevacizumab,2025-05-27,4,6,24,6,7,1,1,1,1,0,0,0,1,0,,,1,2025-05-25,Excellent
+Sankara_Chennai,SAN0247,Patient_Sankara_Chennai_247,MRN987889,71,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2024-09-17,6,6,24,6,12,1,1,0,1,0,0,0,1,0,,,1,2024-08-29,Good
+Sankara_Chennai,SAN0248,Patient_Sankara_Chennai_248,MRN469648,61,M,RVO,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-01-26,7,6,36,6,20,0,0,1,1,0,0,0,1,0,,,1,2025-01-02,Fair
+Sankara_Chennai,SAN0249,Patient_Sankara_Chennai_249,MRN318930,64,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2025-01-04,3,6,18,6,6,1,0,1,0,0,0,1,0,0,,,0,,Fair
+Sankara_Chennai,SAN0250,Patient_Sankara_Chennai_250,MRN503439,62,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2025-06-09,5,6,60,6,28,1,1,1,1,0,0,0,1,0,,,1,2025-05-31,Fair
+Sankara_Chennai,SAN0251,Patient_Sankara_Chennai_251,MRN748490,62,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-07-10,4,6,24,6,7,1,1,0,0,1,1,0,0,0,,,1,2025-07-01,Good
+Sankara_Chennai,SAN0252,Patient_Sankara_Chennai_252,MRN634561,66,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2025-04-23,7,6,36,6,18,0,1,0,1,0,1,0,0,0,,,1,2025-04-18,Excellent
+Sankara_Chennai,SAN0253,Patient_Sankara_Chennai_253,MRN657807,59,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-01-29,7,6,60,6,27,1,0,0,1,1,0,0,1,0,,,1,2025-01-22,Good
+Sankara_Chennai,SAN0254,Patient_Sankara_Chennai_254,MRN779520,60,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-03-25,9,6,60,6,31,1,0,0,0,0,0,0,0,0,,,1,2025-03-14,Fair
+Sankara_Chennai,SAN0255,Patient_Sankara_Chennai_255,MRN567601,77,M,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-09-02,8,6,12,6,7,0,1,1,1,0,0,0,1,0,,,1,2024-08-21,Good
+Sankara_Chennai,SAN0256,Patient_Sankara_Chennai_256,MRN608604,61,F,DME,None,None,Bevacizumab,2024-10-14,2,6,18,6,6,1,1,0,0,1,1,0,0,0,,,1,2024-10-06,Excellent
+Sankara_Chennai,SAN0257,Patient_Sankara_Chennai_257,MRN584408,69,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2025-06-16,9,6,24,6,15,1,1,1,1,0,0,0,0,0,,,1,2025-05-31,Fair
+Sankara_Chennai,SAN0258,Patient_Sankara_Chennai_258,MRN280060,54,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2025-03-15,2,6,24,6,7,1,1,0,0,0,1,0,0,0,,,1,2025-03-14,Good
+Sankara_Chennai,SAN0259,Patient_Sankara_Chennai_259,MRN503564,59,F,DME,None,None,Aflibercept,2025-03-25,5,6,24,6,12,1,1,0,0,1,0,0,0,0,,,1,2025-02-24,Excellent
+Sankara_Chennai,SAN0260,Patient_Sankara_Chennai_260,MRN707748,50,F,DME,None,None,Bevacizumab,2024-09-21,4,6,60,6,15,1,1,1,0,1,0,0,0,0,,,1,2024-09-17,Excellent
+Sankara_Chennai,SAN0261,Patient_Sankara_Chennai_261,MRN348792,87,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2024-09-10,5,6,18,6,6,1,1,0,0,0,0,0,0,0,,,1,2024-08-14,Good
+Sankara_Chennai,SAN0262,Patient_Sankara_Chennai_262,MRN728759,81,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-09-22,4,6,24,6,6,1,1,0,1,1,1,0,0,0,,,1,2024-08-29,Good
+Sankara_Chennai,SAN0263,Patient_Sankara_Chennai_263,MRN728956,72,M,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-10-08,8,6,18,6,10,0,1,0,1,0,1,0,0,0,,,1,2024-09-09,Good
+Sankara_Chennai,SAN0264,Patient_Sankara_Chennai_264,MRN953951,90,F,DME,Diabetes,"Metformin, Insulin",Aflibercept,2024-11-22,2,6,36,6,8,0,1,0,1,0,0,0,1,0,,,1,2024-10-31,Excellent
+Sankara_Chennai,SAN0265,Patient_Sankara_Chennai_265,MRN452570,74,F,DME,None,None,Aflibercept,2024-09-01,7,6,60,6,38,1,1,1,0,1,0,1,0,0,,,1,2024-08-24,Excellent
+Sankara_Chennai,SAN0266,Patient_Sankara_Chennai_266,MRN114629,62,F,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-03-19,4,6,24,6,6,0,0,0,0,0,0,0,0,0,,,1,2025-03-14,Good
+Sankara_Chennai,SAN0267,Patient_Sankara_Chennai_267,MRN935488,69,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-08-09,6,6,18,6,8,1,1,0,1,0,0,0,1,0,,,1,2025-07-14,Fair
+Sankara_Chennai,SAN0268,Patient_Sankara_Chennai_268,MRN897705,81,F,RVO,None,None,Ranibizumab,2025-07-30,2,6,36,6,11,1,1,0,0,1,0,0,0,0,,,1,2025-07-25,Excellent
+Sankara_Chennai,SAN0269,Patient_Sankara_Chennai_269,MRN220484,54,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-02-23,4,6,24,6,9,1,0,1,1,1,0,1,1,0,,,1,2025-02-03,Good
+Sankara_Chennai,SAN0270,Patient_Sankara_Chennai_270,MRN197275,50,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-01-23,3,6,18,6,6,1,1,0,1,1,0,0,1,0,,,1,2025-01-22,Excellent
+Sankara_Chennai,SAN0271,Patient_Sankara_Chennai_271,MRN533632,69,M,AMD,None,None,Ranibizumab,2024-10-03,3,6,36,6,12,1,0,0,0,1,0,0,0,1,Subconjunctival hemorrhage,Mild,1,2024-09-27,Good
+Sankara_Chennai,SAN0272,Patient_Sankara_Chennai_272,MRN238966,57,M,AMD,None,None,Aflibercept,2024-10-03,4,6,60,6,18,1,1,0,1,0,1,0,1,0,,,1,2024-09-11,Excellent
+Sankara_Chennai,SAN0273,Patient_Sankara_Chennai_273,MRN146073,40,F,DME,None,None,Ranibizumab,2024-11-25,5,6,24,6,10,0,1,0,1,0,0,0,1,0,,,1,2024-10-28,Excellent
+Sankara_Chennai,SAN0274,Patient_Sankara_Chennai_274,MRN669981,50,F,DME,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-04-13,8,6,24,6,12,0,0,0,1,0,0,0,0,0,,,1,2025-04-08,Fair
+Sankara_Chennai,SAN0275,Patient_Sankara_Chennai_275,MRN806826,61,M,DME,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-05-13,8,6,18,6,8,1,1,0,0,1,0,0,0,0,,,1,2025-04-27,Good
+Sankara_Chennai,SAN0276,Patient_Sankara_Chennai_276,MRN910775,65,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-10-28,2,6,24,6,6,0,1,0,0,0,1,0,0,0,,,1,2024-09-30,Fair
+Sankara_Chennai,SAN0277,Patient_Sankara_Chennai_277,MRN667383,65,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-12-24,8,6,24,6,14,1,1,0,0,1,0,0,0,0,,,1,2024-12-15,Excellent
+Sankara_Chennai,SAN0278,Patient_Sankara_Chennai_278,MRN262246,89,F,AMD,None,None,Ranibizumab,2024-10-20,2,6,18,6,7,1,1,0,0,0,1,0,0,0,,,1,2024-10-17,Excellent
+Sankara_Chennai,SAN0279,Patient_Sankara_Chennai_279,MRN222388,62,F,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-07-15,3,6,12,6,6,1,1,1,0,0,1,0,0,0,,,1,2025-07-03,Good
+Sankara_Chennai,SAN0280,Patient_Sankara_Chennai_280,MRN340787,68,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2025-04-16,5,6,18,6,8,0,1,1,1,0,0,1,0,0,,,1,2025-03-22,Fair
+Sankara_Chennai,SAN0281,Patient_Sankara_Chennai_281,MRN303508,45,M,AMD,Hypertension,"Amlodipine, Atenolol",Ranibizumab,2025-04-26,7,6,18,6,9,1,1,0,1,1,1,0,1,0,,,1,2025-03-28,Good
+Sankara_Chennai,SAN0282,Patient_Sankara_Chennai_282,MRN214441,64,M,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-12-31,5,6,24,6,9,0,0,0,1,0,0,0,0,0,,,1,2024-12-05,Good
+Sankara_Chennai,SAN0283,Patient_Sankara_Chennai_283,MRN725070,69,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-08-22,6,6,24,6,10,1,1,1,0,0,0,1,0,0,,,0,,Good
+Sankara_Chennai,SAN0284,Patient_Sankara_Chennai_284,MRN882307,48,M,DME,Diabetes,"Metformin, Insulin",Ranibizumab,2025-07-09,3,6,24,6,6,0,0,1,1,0,0,0,1,0,,,1,2025-06-12,Excellent
+Sankara_Chennai,SAN0285,Patient_Sankara_Chennai_285,MRN339343,53,F,AMD,Both,"Metformin, Amlodipine, Aspirin",Aflibercept,2025-02-08,3,6,18,6,6,1,1,0,0,1,1,0,0,1,Transient IOP elevation,Mild,1,2025-01-15,Poor
+Sankara_Chennai,SAN0286,Patient_Sankara_Chennai_286,MRN536142,70,F,AMD,Diabetes,"Metformin, Insulin",Bevacizumab,2024-11-26,5,6,24,6,10,0,1,1,1,0,0,1,1,0,,,1,2024-11-12,Good
+Sankara_Chennai,SAN0287,Patient_Sankara_Chennai_287,MRN959022,58,M,DME,None,None,Aflibercept,2025-07-29,4,6,36,6,12,0,0,0,1,0,0,0,0,0,,,1,2025-07-05,Fair
+Sankara_Chennai,SAN0288,Patient_Sankara_Chennai_288,MRN532043,63,M,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-09-20,5,6,24,6,10,1,1,0,1,1,1,0,1,0,,,1,2024-09-18,Fair
+Sankara_Chennai,SAN0289,Patient_Sankara_Chennai_289,MRN732551,71,M,AMD,Diabetes,"Metformin, Insulin",Ranibizumab,2024-12-07,3,6,60,6,18,0,0,1,1,0,0,0,1,0,,,1,2024-11-14,Good
+Sankara_Chennai,SAN0290,Patient_Sankara_Chennai_290,MRN537991,89,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2025-07-23,5,6,24,6,10,1,1,1,1,1,0,0,1,0,,,1,2025-07-06,Excellent
+Sankara_Chennai,SAN0291,Patient_Sankara_Chennai_291,MRN534417,62,M,RVO,None,None,Ranibizumab,2025-02-12,4,6,24,6,6,0,1,1,0,0,0,1,0,0,,,1,2025-01-25,Fair
+Sankara_Chennai,SAN0292,Patient_Sankara_Chennai_292,MRN915805,86,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-12-28,9,6,12,6,6,1,1,0,0,0,0,0,0,0,,,0,,Excellent
+Sankara_Chennai,SAN0293,Patient_Sankara_Chennai_293,MRN389669,41,M,AMD,Both,"Metformin, Amlodipine, Aspirin",Bevacizumab,2025-05-25,2,6,24,6,6,1,1,0,0,1,0,0,0,0,,,1,2025-05-09,Good
+Sankara_Chennai,SAN0294,Patient_Sankara_Chennai_294,MRN489860,66,F,DME,Hypertension,"Amlodipine, Atenolol",Bevacizumab,2025-01-16,5,6,36,6,15,0,1,1,0,0,1,1,0,0,,,1,2025-01-13,Fair
+Sankara_Chennai,SAN0295,Patient_Sankara_Chennai_295,MRN466657,60,F,AMD,Hypertension,"Amlodipine, Atenolol",Aflibercept,2024-12-04,5,6,60,6,24,1,1,0,1,1,1,0,1,0,,,1,2024-11-27,Fair
+Sankara_Chennai,SAN0296,Patient_Sankara_Chennai_296,MRN753689,58,F,AMD,Diabetes,"Metformin, Insulin",Aflibercept,2024-10-05,2,6,60,6,15,1,1,0,0,1,0,0,0,0,,,1,2024-09-13,Fair
+Sankara_Chennai,SAN0297,Patient_Sankara_Chennai_297,MRN196643,72,M,DME,Both,"Metformin, Amlodipine, Aspirin",Ranibizumab,2024-11-05,5,6,18,6,6,0,0,0,1,0,0,0,1,0,,,1,2024-10-12,Fair
+Sankara_Chennai,SAN0298,Patient_Sankara_Chennai_298,MRN785846,62,F,DME,Diabetes,"Metformin, Insulin",Bevacizumab,2024-12-27,5,6,24,6,9,0,1,0,0,0,1,0,0,0,,,1,2024-12-08,Excellent
+Sankara_Chennai,SAN0299,Patient_Sankara_Chennai_299,MRN571820,40,F,AMD,None,None,Bevacizumab,2025-08-01,5,6,24,6,12,1,1,0,0,0,0,0,0,0,,,1,2025-07-03,Good
